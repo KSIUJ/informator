@@ -1,12 +1,10 @@
-Rozdział 3 – studiowanie i narzędzia studenta
-=============================================
+# Studiowanie i narzędzia studenta
 
-USOS
-----
+## USOS
 
 Poniższy rozdział zostanie poświęcony na omówienie najważniejszych kwestii dotyczących obsługi studenckiego konta w systemie USOSweb. Postaramy się pokazać Wam, że nie taki diabeł straszny, jak go malują ;)
 
-[*www.usosweb.uj.edu.pl*](http://www.usosweb.uj.edu.pl)
+[www.usosweb.uj.edu.pl](http://www.usosweb.uj.edu.pl)
 
 ### Elektroniczny indeks
 
@@ -20,13 +18,13 @@ Poczta Uniwersytecka od 2014 roku działa w chmurze, w oparciu o usługę Office
 
 Aby aktywować konto poczty uniwersyteckiej wystarczy przejść do zakładki MODUŁY DODATKOWE-&gt;AKTYWACJA POCZTY
 
-Po wykonaniu tych kroków będzie można logować się do poczty poprzez stronę: [*https://outlook.com/student.uj.edu.pl*](https://outlook.com/student.uj.edu.pl) oraz przez system USOS.
+Po wykonaniu tych kroków będzie można logować się do poczty poprzez stronę: [https://outlook.com/student.uj.edu.pl](https://outlook.com/student.uj.edu.pl) oraz przez system USOS.
 
 Pełna aktywacja konta dla nowego użytkownika Poczty Uniwersyteckiej może zająć do 24 godzin.
 
-Więcej informacji na temat funkcjonalności usługi Office 365 znajdziecie na stronie: [*http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/*](http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/)
+Więcej informacji na temat funkcjonalności usługi Office 365 znajdziecie na stronie: [http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/](http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/)
 
-### Rejestracja na przedmioty, a rejestracja bezpośrednio do grup
+### Rejestracja na przedmioty a rejestracja bezpośrednio do grup
 
 Studenci naszego wydziału samodzielnie rejestrują się na przedmioty, które chcą zaliczać w danym semestrze. Wyjątkiem od tej reguły jest pierwszy semestr studiów pierwszego stopnia, gdzie studenci automatycznie są zapisywani i przydzielani do grup ćwiczeniowych w kolejności alfabetycznej. Bardzo ważne jest, aby pamiętać, że tuż przed semestrem zimowym należy zadbać o to, żeby zarejestrować się na przedmioty oraz bezpośrednio do grup w przeznaczonych do tego celu terminach.
 
@@ -44,17 +42,16 @@ Podpięcie to przypisanie przedmiotu, na który wpisany jest student, do program
 
 Należy podpiąć wszystkie przedmioty, jednak ze względu na ich charakter wyróżniamy następujący podział:
 
--   **Przedmioty objęte planem studiów** powinny zostać podpięte pod program i odpowiedni etap studiów. Podpięcie pod etap może zostać uzupełnione w terminie późniejszym, jeśli w momencie wpisu na przedmiot odpowiedni etap studiów dla studenta jeszcze nie istnieje, w szczególności dla przedmiotów realizowanych awansem, kursów realizowanych w Studium Pedagogicznym UJ, bądź przedmiotów w rejestracji na kolejny rok akademicki, uruchamianej przed rozliczeniem poprzedniego roku
-
--   **Przedmioty nieobjęte planem studiów**, w szczególności kursy realizowane w ramach wolnych żetonów w Jagiellońskim Centrum Językowym, powinny zostać podpięte tylko pod program, z wykorzystaniem opcji "rezygnacja z zaliczenia". Nie będą one brane pod uwagę w procesie rozliczenia studiów, uwzględniane w średniej ocen ani wykazywane na deklaracjach
++ **Przedmioty objęte planem studiów** powinny zostać podpięte pod program i odpowiedni etap studiów. Podpięcie pod etap może zostać uzupełnione w terminie późniejszym, jeśli w momencie wpisu na przedmiot odpowiedni etap studiów dla studenta jeszcze nie istnieje, w szczególności dla przedmiotów realizowanych awansem, kursów realizowanych w Studium Pedagogicznym UJ, bądź przedmiotów w rejestracji na kolejny rok akademicki, uruchamianej przed rozliczeniem poprzedniego roku
++ **Przedmioty nieobjęte planem studiów**, w szczególności kursy realizowane w ramach wolnych żetonów w Jagiellońskim Centrum Językowym, powinny zostać podpięte tylko pod program, z wykorzystaniem opcji "rezygnacja z zaliczenia". Nie będą one brane pod uwagę w procesie rozliczenia studiów, uwzględniane w średniej ocen ani wykazywane na deklaracjach
 
 W przypadku przedmiotów, na które studenci rejestrują się poprzez USOSweb podpięcia należy wykonywać na bieżąco. Rejestracja na przedmiot bez dokonania podpięcia jest traktowana jako nieskuteczna. Z przedmiotów niepodpiętych studenci mogą być wyrejestrowywani w trakcie najbliższej planowej migracji danych między USOSweb a USOS (wykonywanej codziennie około 04:00 rano).
 
 Wszystkie pozostałe przedmioty, na które student zostanie zapisany muszą być podpięte przez studenta w USOSweb:
 
--   przedmioty całoroczne oraz prowadzone w semestrze zimowym - do dnia 22 października.
++ przedmioty całoroczne oraz prowadzone w semestrze zimowym - do dnia 22 października.
 
--   przedmioty prowadzone w semestrze letnim – do 8 marca.
++ przedmioty prowadzone w semestrze letnim – do 8 marca.
 
 Przedmioty niepodpięte zgodnie z powyższymi terminami zostaną usunięte automatycznie w ciągu kolejnego dnia roboczego (odpowiednio 23 października i 9 marca).
 
@@ -66,7 +63,7 @@ Student ma obowiązek zadeklarowania swojego planu zajęć w każdym z semestró
 
 Należy pamiętać o tym, że każdy zadeklarowany przez studenta przedmiot musi zostać przez niego zaliczony przed ukończeniem studiów - przepis ten obowiązuje wszystkich studentów, którzy rozpoczynali studia w roku akademickim 2012/2013 i latach późniejszych.
 
-Deklaracje przedmiotów znaleźć można w zakładce: DLA STUDENTÓW-&gt;REJESTRACJA
+Deklaracje przedmiotów znaleźć można w zakładce: DLA STUDENTÓW-&gt;REJESTRACJA.
 
 ### Płatności
 
@@ -74,7 +71,7 @@ Wszelkie zobowiązania finansowe studenta wobec swojego Instytutu, Katedry czy W
 
 Dokonanie wpłaty powinno spowodować uaktualnienie informacji o płatnościach na USOSie. Jeżeli w ciągu tygodnia od zapłacenia należności informacje dostępne w USOSie się nie zmieniły, należy skontaktować się z sekretariatem lub dziekanatem studenckim i wyjaśnić przyczynę braku rozliczenia.
 
-Płatności znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA
+Płatności znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA.
 
 ### Wnioski
 
@@ -88,7 +85,7 @@ Więcej informacji na temat wniosków znajdziecie w rozdziale Pomoc Materialna.
 
 Rankingi na naszym wydziale są tworzone w szczególności na potrzeby studentów ubiegających się o stypendium rektora dla najlepszych studentów. W zakładce tej znajdziesz ilość przyznanych Ci punktów, liczbę studentów w rankingu i swoją pozycję na tej liście.
 
-Rankingi znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA
+Rankingi znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA.
 
 ### Ankiety
 
@@ -98,5 +95,5 @@ Ankiety, które znajdziecie na USOSie zawierają kilka prostych pytań poruszaj�
 
 Ze swojej strony bardzo zachęcamy do ich wypełniania, ponieważ wiemy, że Wasze odpowiedzi mogą przyczynić się do polepszenia jakości nauczania na WMiI.
 
-Ankiety znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA
+Ankiety znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA.
 

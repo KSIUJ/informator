@@ -1,5 +1,4 @@
-Środowisko pracy studenta informatyki
--------------------------------------
+## Środowisko pracy studenta informatyki
 
 *Autorzy: Cezary Drak, Szymon Nieznański, Jakub Olczyk, Konrad Talik (KN Wolnego Oprogramowania „Ślimak”); licencja: CC-BY-SA 4.0 International*
 
@@ -49,20 +48,18 @@ Dla sprawdzenia obliczeń chyba nie ma lepszego programu niż **Scilab** lub **G
 
 Przy nauce statystyki doskonałym narzędziem jest pakiet **GNU R**, który pozwala na między innymi przeprowadzanie testów statystycznych, generowanie danych o określonym rozkładzie, czy wizualizację danych, przydatną na niektórych przedmiotach.
 
-### Pisanie prac, dokumentacji ...
+### Pisanie prac, dokumentacji...
 
 Jeśli widzieliście kiedyś dokumenty z pięknymi formułami matematycznymi oraz doskonale rozłożonym tekstem to prawie na pewno był on napisany przy pomocy **LaTeXa**. Jest to język opisu dokumentu, który pozwala na wygenerowanie świetnie wyglądających dokumentów technicznych oraz matematycznych. Doskonale nadaje się również do tworzenia dokumentacji technicznej projektów czy pisania pracy licencjackiej. W różnych dystrybucjach GNU/Linuksa można znaleźć bardzo dużo programów, z pomocą których będzie można przetworzyć dokumenty napisane przy użyciu LaTeXa (w Internecie znajduje się bardzo wiele tutoriali oraz książek - szczególnie godna polecenia jest książka na angielskim Wikibooks) do gotowych PDFów, które można przesłać prowadzącym. Dla osiągnięcia szybszych efektów można również skorzystać z gotowych programów do edycji dokumentów z częściowym podglądem na zasadzie WYSIAWYG, jak na przykład **LyX**. Jest to również bardzo dobry sposób na prowadzenie notatek na przedmiotach matematycznych, o ile prowadzący nie zabraniają korzystania z komputera na zajęciach.
 
-Środowisko pracy studenta matematyki
-------------------------------------
+## Środowisko pracy studenta matematyki
 
-Nieocenioną pomoc w zgłębianiu zagadnień analizy i algebry stanowi **Wolfram Mathematica**. Pozwala rysować wykresy, co ułatwia zrozumienie zachowania “dzikich” funkcji jednej i wielu zmiennych. Umożliwia prowadzenie obliczeń symbolicznych, wyznaczanie granic, obliczanie wartości całek oznaczonych i nieoznaczonych. Program pozwala także uniknąć żmudnych obliczeń, związanych na przykład z odwracaniem macierzy. Ograniczone funkcjonalności dostępne są on-line na stronie Wolfram Alpha: <http://www.wolframalpha.com/?source=nav>
+Nieocenioną pomoc w zgłębianiu zagadnień analizy i algebry stanowi **Wolfram Mathematica**. Pozwala rysować wykresy, co ułatwia zrozumienie zachowania “dzikich” funkcji jednej i wielu zmiennych. Umożliwia prowadzenie obliczeń symbolicznych, wyznaczanie granic, obliczanie wartości całek oznaczonych i nieoznaczonych. Program pozwala także uniknąć żmudnych obliczeń, związanych na przykład z odwracaniem macierzy. Ograniczone funkcjonalności dostępne są on-line na stronie Wolfram Alpha: [http://www.wolframalpha.com/?source=nav](http://www.wolframalpha.com/?source=nav)
 
-Studenci WMiI mogą bezpłatnie uzyskać licencję na program Wolfram Mathematica. Szczegóły dostępne są na stronie: <https://intra.matinf.uj.edu.pl/>
+Studenci WMiI mogą bezpłatnie uzyskać licencję na program Wolfram Mathematica. Szczegóły dostępne są na stronie: [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/)
 
 Bardzo przydatny bywa też **LaTeX**, opisany w poprzednim rozdziale.
 
-Darmowe oprogramowanie
-----------------------
+## Darmowe oprogramowanie
 
-&lt;TODO&gt; Microsoft, [www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie)
+<TODO> Microsoft, [www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie)
