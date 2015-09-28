@@ -1,10 +1,8 @@
-Rozdział 4: studenci
-====================
+# Studenci
 
 \\newpage
 
-Koła naukowe
-------------
+## Koła naukowe
 
 ### Koło Matematyków Studentów UJ (KMS)
 
@@ -154,11 +152,9 @@ Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłan
 
 #### Więcej informacji o nas:
 
-u nas w pracowni: **sale 1162, 1164**
-
-na naszej stronie internetowej: **http://nkr.matinf.uj.edu.pl**
-
-na naszym profilu na Facebooku: **https://www.facebook.com/nkruj**
++ u nas w pracowni: **sale 1162, 1164**
++ na naszej stronie internetowej: [http://nkr.matinf.uj.edu.pl](http://nkr.matinf.uj.edu.pl)
++ na naszym profilu na Facebooku: [https://www.facebook.com/nkruj](https://www.facebook.com/nkruj)
 
 \\newpage
 
@@ -166,7 +162,7 @@ na naszym profilu na Facebooku: **https://www.facebook.com/nkruj**
 
 **GNU** jest **super** a **Stallman** jest **zajebisty**
 
-&lt;TODO&gt;
+<TODO>
 
 \\newpage
 
@@ -192,7 +188,7 @@ W Kole studenci mogą liczyć na pomoc innych członków dzięki spotkaniom w gr
 
 W posiadaniu Koła znajduje się **biblioteczka**, w której znaleźć można książki i materiały zgromadzone w trakcie studiów przez kołowiczów. Są to ciekawe pozycje książkowe (m. in. Biological Modeling and simulation - A survey of Practical Models, Algorithms, and Numerical Methods, czy An introduction to Bioinformatics Algorithms), a także notatki oraz zbiór egzaminów i kolokwiów z lat poprzednich.
 
-BIT wydaje również własne **czasopismo** – „**BioInfoWorld**”. Celem dwumiesięcznika jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu łączącego, te pozornie odległe gałęzie nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: <bioinfoworld.redakcja@gmail.com>
+BIT wydaje również własne **czasopismo** – „**BioInfoWorld**”. Celem dwumiesięcznika jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu łączącego, te pozornie odległe gałęzie nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: *bioinfoworld.redakcja@gmail.com*.
 
 Kolejnym z obszarów działalności Koła jest udział i organizacja konferencji **naukowych**. Sekcja wydarzeń naukowych aktywnie wspiera przedsięwzięcia takie jak, organizowana przez studentów Koła Nauk Psychologicznych "PRAGMA" konferencja "Człowiek Zalogowany", Dni Wydziału czy Festiwale Nauki.
 
@@ -208,11 +204,9 @@ Aby zostać członkiem Koła wystarczy opłacić składkę członkowską, wypeł
 
 Siedzibą BIT jest **sala 1160**.
 
-[**www.bit.ii.uj.edu.pl**](http://www.bit.ii.uj.edu.pl)
-
-[**www.facebook.com/koloBITUJ**](http://www.facebook.com/koloBITUJ)
-
-[groups.google.com/d/forum/kolobioinformatykiuj](http://groups.google.com/d/forum/kolobioinformatykiuj)
++ [www.bit.ii.uj.edu.pl](http://www.bit.ii.uj.edu.pl)
++ [www.facebook.com/koloBITUJ](http://www.facebook.com/koloBITUJ)
++ [groups.google.com/d/forum/kolobioinformatykiuj](http://groups.google.com/d/forum/kolobioinformatykiuj)
 
 \\newpage
 
@@ -221,7 +215,7 @@ Wydziałowa Rada Samorządu Studentów (WRSS)
 
 Jak **Ola** napisze to **będzie**, a jak **nie** to **nie**.
 
-&lt;TODO&gt;
+<TODO>
 
 \\newpage
 
@@ -246,7 +240,7 @@ Jest to trwająca tydzień konferencja, organizowana corocznie we wrześniu prze
 
 Oprócz części naukowej odbywającej się na sali wykładowej, Warsztatom towarzyszą wieczory integracyjne, podczas których można rozerwać się w gronie studentów z innych uczelni zarówno z Polski jak i zza granicy.
 
-Więcej informacji: <http://kmsuj.im.uj.edu.pl/warsztaty/>
+Więcej informacji: [http://kmsuj.im.uj.edu.pl/warsztaty/](http://kmsuj.im.uj.edu.pl/warsztaty/)
 
 #### Liczby Komputery Życie
 
@@ -276,7 +270,7 @@ KrakRobot to zawody organizowane przez Naukowe Koło Robotyki i Sztucznej Inteli
 
 W zawodach o atrakcyjne nagrody (m.in. tablety multimedialne i zestawy LEGO Mindstorms) rywalizuje zazwyczaj kilkanaście drużyn z całej Polski. Dotychczas, od 2013 roku, odbyły się dwie edycje konkursu, formuła zawodów jest jednak kontynuacją podobnych wydarzeń organizowanych od 2009 roku na UJ (Turniej Robotów Walczących) i UAM w Poznaniu (PozRobot). Ostatnia edycja - KrakRobot 2014 - odbywała się w zabytkowych halach w Muzeum Inżynierii Miejskiej na krakowskim Kazimierzu.
 
-Więcej informacji: <https://www.facebook.com/Krakrobot>
+Więcej informacji: [https://www.facebook.com/Krakrobot](https://www.facebook.com/Krakrobot)
 
 ### Spotkania, warsztaty
 
@@ -300,7 +294,7 @@ Na zachętę dodamy, że dla organizatorów powyższych wydarzeń przewidziano z
 
 #### Dalek @ NKR
 
-Interesujesz sie tematyką sztucznej inteligencji, machine learningu czy analizy danych, a nie wiesz jak zacząć? DALEK to grupa działająca przy Naukowym Kole Robotyki i Sztucznej Inteligencji. Spotykamy się co tydzień aby pracować wspólnie nad kursami online, tworzyć otwarte oprogramowanie machine learning i pisać publikacje, m.in. stworzyliśmy pakiet GMUM.r (http://r.gmum.net), a w sierpniu prezentowaliśmy wyniki wspólnie z grupą GMUM na ECML w Porto, jednej z największych konferencji uczenia maszynowego. Zapraszamy!
+Interesujesz sie tematyką sztucznej inteligencji, machine learningu czy analizy danych, a nie wiesz jak zacząć? DALEK to grupa działająca przy Naukowym Kole Robotyki i Sztucznej Inteligencji. Spotykamy się co tydzień aby pracować wspólnie nad kursami online, tworzyć otwarte oprogramowanie machine learning i pisać publikacje, m.in. stworzyliśmy pakiet GMUM.r [http://r.gmum.net](http://r.gmum.net), a w sierpniu prezentowaliśmy wyniki wspólnie z grupą GMUM na ECML w Porto, jednej z największych konferencji uczenia maszynowego. Zapraszamy!
 
 #### Business Breakfast i English Discussion Club
 
@@ -317,20 +311,14 @@ Wszystkich zainteresowanych serdecznie zapraszamy!
 ### Integracja
 
 #### opisać:
++ grille
++ turnieje planszówek
++ wyjazdy
++ wyjścia do kina (WRSS)
++ turniej bilarda
++ turniej ping-ponga
 
--   grille
-
--   turnieje planszówek
-
--   wyjazdy
-
--   wyjścia do kina (WRSS)
-
--   turniej bilarda
-
--   turniej ping-ponga
-
-&lt;TODO&gt;
+<TODO>
 
 #### Akademia Przyszłego Finansisty (APF)
 
