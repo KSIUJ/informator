@@ -19,11 +19,17 @@ Adam Piekarczyk, Daniel Skowroński
 **Autorzy tekstów, redakcja**
 
 WRSS: Aleksandra Boryka
+
 KSI: Dominika Zając, Piotr Maliszewski, Daniel Skowroński
+
 KMS: Anita Gilarska
+
 KNMF: Damian Jelito, ???
+
 NKR: ???
+
 Ślimak: Cezary Drak, Szymon Nieznański, Jakub Olczyk, Konrad Talik
+
 BIT: Karolina Cibor, Paulina Kania
 
 **Autorzy pierwszej edycji**
