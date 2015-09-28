@@ -2,21 +2,21 @@
 
 zrealizowany przez
 
-** Koło Studentów Informatyki UJ **
+**Koło Studentów Informatyki UJ**
 
 edycja druga
 
 2015/2016
 
-** Koordynatorzy projektu **
+**Koordynatorzy projektu**
 
 Aleksandra Boryka (WRSS), Piotr Maliszewski (KSI)
 
-** Nerdy od strony itd **
+**Nerdy od strony itd**
 
 Adam Piekarczyk, Daniel Skowroński
 
-** Autorzy tekstów, redakcja **
+**Autorzy tekstów, redakcja**
 
 WRSS: Aleksandra Boryka
 KSI: Dominika Zając, Piotr Maliszewski, Daniel Skowroński
@@ -26,7 +26,7 @@ NKR: ???
 Ślimak: Cezary Drak, Szymon Nieznański, Jakub Olczyk, Konrad Talik
 BIT: Karolina Cibor, Paulina Kania
 
-** Autorzy pierwszej edycji **
+**Autorzy pierwszej edycji**
 
 Michalina Hansdorfer, Michał Wszołek (koordynatorzy)
 
