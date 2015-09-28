@@ -45,7 +45,7 @@ prof. dr hab. Paweł M. Idziak
 __Kierownik__
 prof. dr hab. Stanisław Migórski
 
-## SEKRETARIATY DYDAKTYCZNE
+## Sekretariaty dydaktyczne
 
 Sekretariaty dydaktyczne pełnią między innymi funkcję informacyjną. To właśnie tam będziecie mogli uzyskać pomoc dydaktyczną, poznacie odpowiedzi na pytania dotyczące Waszych studiów oraz dowiecie się, jakie posiadacie prawa jako studenci Uniwersytetu Jagiellońskiego. Warto pamiętać, gdzie znajdują się sekretariaty na naszym wydziale oraz znać numery kontaktowe do ich pracowników. Poniżej zamieszczamy pełną listę sekretariatów dydaktycznych działających na WMiI oraz wszystkie niezbędne dla Was informacje z nimi związane.
 
