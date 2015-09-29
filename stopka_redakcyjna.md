@@ -26,7 +26,7 @@ KMS: Anita Gilarska
 
 KNMF: Damian Jelito, ???
 
-NKR: ???
+NKR: Agnieszka Pocha, Stanisław Jastrzębski, Igor Sieradzki
 
 Ślimak: Cezary Drak, Szymon Nieznański, Jakub Olczyk, Konrad Talik
 
