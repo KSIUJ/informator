@@ -60,7 +60,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 Jednak nasze Koło to przede wszystkim Wy. Ci, którzy w przerwie między jednym wykładem a drugim przyjdą do naszej siedziby w sali **1173**, zrobią sobie kawę lub tosta i usiądą na jednej z kanap. Ci, którzy godzinami dyskutują na temat wyższości C++ nad Javą (lub odwrotnie), rozwiązują skomplikowane zagadki programistyczne lub męczą się nad kolejnym zestawem zadań z algebry. Ci, którzy po prostu przyjdą do nas spotkać się ze swoimi znajomymi i pograć w planszówki.
 
-Chcesz dowiedzieć się o nas czegoś więcej? Zajrzyj na nasz fanpage (**fb.com/ksi.uj**), stronę WWW (**www.ksi.ii.uj.edu.pl**) lub po prostu zajrzyj do sali nr **1173** na pierwszym piętrze! Pamiętaj: nie musisz być od razu członkiem Koła, aby przyjść i po prostu posiedzieć! Zapraszamy!
+Chcesz dowiedzieć się o nas czegoś więcej? Zajrzyj na nasz fanpage [fb.com/ksi.uj](fb.com/ksi.uj), stronę WWW [www.ksi.ii.uj.edu.pl](www.ksi.ii.uj.edu.pl) lub po prostu zajrzyj do sali nr **1173** na pierwszym piętrze! Pamiętaj: nie musisz być od razu członkiem Koła, aby przyjść i po prostu posiedzieć! Zapraszamy!
 
 \\newpage
 
