@@ -1,14 +1,14 @@
-# Poczta, konta, wifi
+## Poczta, konta, wifi
 
 Konta, do których masz dostęp można podzielić na uniwersyteckie (ogólnouczelniane), wydziałowe i instytutowe oraz pozostałe (do pojedynczych systemów). Jest ich wiele (ale w końcu jesteś na matematyce/informatyce – nie powinno to stanowić dla ciebie problemu) i każdy z nich jest ważny. Naturalnie pierwszą rzeczą, którą powinieneś z nimi zrobić jest zmiana hasła – to nie tylko twoje dane, ale także systemy uczelniane – dbaj o nie.
 
-### Konta ogólnouczelniane
+### Konto ogólnouczelniane
 
-Właściwie to jest jedno – zwane „logowaniem przez USOSa” – login w formie **imie.nazwisko@student.uj.edu.pl** (a zanim wybierzesz sobie adres – na USOSwebie w zakładce *Moduły Dodatkowe/Aktywacja Poczty* - **pesel@usosweb.uj.edu.pl**; hasło z systemu ERK) da Ci dostęp do samego USOSweba, systemu rejestracji żetonowych, Pegaza oraz poczty uniwersyteckiej połączonej z nieco ograniczoną wersją Office 365 ([https://login.microsoftonline.com/](https://login.microsoftonline.com/) – „konto organizacyjne”) – dostępny jest dysk sieciowy (1TB)  i chmurowa wersja pakietu Office.
+Zwane jest głównie „logowaniem przez USOSa”. Początkowo login do tego konta ma postać **pesel@usosweb.uj.edu.pl**, zaś hasłem jest twoje hasło z systemu ERK. Login ten należy zmienić do postaci **imie.nazwisko@student.uj.edu.pl** (lub podobnej jeżeli w systemie jest juz ktos o takim loginie) na USOSwebie w zakładce Moduły Dodatkowe-&gt;Aktywacja Poczty. 
 
-Te dane posłużą Ci także do zalogowania się do WiFi uczelnianego, w tym sieci Eduroam. Dostęp do extranetu w którym można przeglądać bazy naukowe również odbywa się tym kontem.
+Konto to da Ci dostęp do samego USOSweba, systemu rejestracji żetonowych, <todo> **Czy da się tutaj wstawić link??** <todo> Pegaza (o którym przeczytać możesz poniżej) oraz poczty uniwersyteckiej  połączonej z nieco ograniczoną wersją Office 365  ([https://login.microsoftonline.com/](https://login.microsoftonline.com/) – „konto organizacyjne” –  dzięki czemu dostępny jest dysk sieciowy (1TB)  i chmurowa wersja pakietu Office). Te dane posłużą Ci także do zalogowania się do WiFi uczelnianego, w tym sieci Eduroam oraz extranetu w którym można przeglądać bazy naukowe.
 
-Problemami zajmuje się SUSS – Sekcja Usług Sieciowo-Serwerowych - [http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow](http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow)
+Problemami związanymi z tym kontem zajmuje się SUSS – Sekcja Usług Sieciowo-Serwerowych - [http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow](http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow)
 
 ### Konta wydziałowe
 
@@ -16,34 +16,40 @@ Login i hasło do tego systemu dostałeś wraz z legitymacją (mała biała kart
 
 ### Konta instytutowe (IIMK)
 
-Login obowiązuje ten sam, lecz hasło jest niezależne (początkowo jednak takie samo) – musisz zmienić je osobno – przez linuksa instytutowego.
+Do tego konta obowiązuje ten sam login co do konta ogólnouczelnianego, lecz hasło jest niezależne (początkowo jednak takie samo). Należy je zmienić osobno przez linuksa instytutowego.
 
 Dostajesz się za jego pomocą do poczty instytutowej (np. **imie.nazwisko@ii.uj.edu.pl**) oraz instytutowych linuksów – elf i virgo.ii.uj.edu.pl. Daje ono także dostęp do tzw. Intry (intranetu) na stronach pracowników i studentów na serwerze ww2.ii.uj.edu.pl gdzie zamieszczane są różne rzeczy – od materiałów do zajęć po alternatywne wersje USOSa, czyli tabelki z punktami – wszystko leży w gestii prowadzącego. Sam też możesz założyć sobie taką stronę – o tym w osobnej sekcji.
 
-Administrator instytutowy ma siedzibę w 1067.
-
-Do wszystkich serwerów Linuksowych można się łączyć po SSH – także spoza uczelni. Na windowsie zalecamy PuTTY oraz WinSCP (oba darmowe).
+Do wszystkich serwerów Linuksowych można się łączyć po SSH – także spoza uczelni. Na windowsie zalecamy PuTTY oraz WinSCP (oba darmowe). Administrator instytutowy ma siedzibę w 1067.
 
 ### Pegaz
+Pegaz ([http://pegaz.uj.edu.pl](http://pegaz.uj.edu.pl/))  to platforma, na której wykładowcy i ćwiczeniowcy umieszczają materiały (np. zadania) i ogłoszenia (m.in. terminy egzaminów) związane z danym przedmiotem. Są tam także fora dyskusyjne, na których 
+szczególna aktywność odnotowywana jest przy kursach z programowania (możesz tam np prosić o wskazówki od prowadzącego odnośnie twojego rozwiązania). Na pewno przejdziesz tam 
+jeden kurs e‐learningowy – szkolenie BHP. Login i hasło obowiązują  takie same jak na USOSweb.
 
-Pegaz ([http://pegaz.uj.edu.pl](http://pegaz.uj.edu.pl/)) to system na którym wykładowcy i ćwiczeniowcy umieszczają materiały (np. zadania) i ogłoszenia (m.in. terminy egzaminów). Są tam także fora na których szczególna aktywność odnotowywana jest przy kursach z programowania. Na pewno przejdziesz tam jeden kurs e-learningowy – szkolenie BHP. Logowanie - takie samo jak na USOS.
 
 ### WiFi
 
-Dostępne sieci to UJ-open i UJ-edu/UJ-edu1 oraz Eduoroam.
+Na naszym wydziale dostepne są następujące sieci: UJ‐open, UJ‐edu / UJ‐edu1 oraz Eduoroam.
 
-**UJ-open** dostępna jest na szybko, bez szyfrowania, wymaga zalogowania się po połączeniu (odbędzie się przekierowanie z pierwszej strony WWW – jak przy większości hotspotów) używając danych z USOSa. **Nie jest to sieć zalecana do codziennego użytku**, ponadto część portów jest zablokowana.
+**UJ-open** dostępna jest na szybko, bez szyfrowania. Po połączeniu jak przy większości hotspotów wymagane będzie zalogowanie (odbędzie 
+się przekierowanie z pierwszej strony WWW) przy wykorzystaniu danych z 
+USOSa. **Nie jest to sieć zalecana do codziennego użytku**, ponadto część portów jest zablokowana.
 
 Siecią właściwą jest **UJ-edu**&lt;numerek&gt; - wymagają one uwierzytelniania przez WPA2-Enterprise (znowu – dane z USOSa) z protokołem EAP-GTC/PEAP lub EAP-TTLS/PAP (dla sieci z jedynką). Jak to zrobić? W dużym skrócie:
 
 + **Android** i **Linuksy**, które potrafią się łączyć z domowym routerem nie będą miały problemu. Wystarczy w ustawieniach sieci podać dane logowania z USOSa.
-+ **Windows** odpowiednie sterowniki może mieć już zainstalowane razem z kartą bezprzewodową (głównie intelowskie). Jeśli nie działa - poradnik jest na <TODO> <zmienić miejsce> [http://mordor.ksi.ii.uj.edu.pl/repo/UJ-edu%20konfiguracja/](http://mordor.ksi.ii.uj.edu.pl/repo/UJ-edu%20konfiguracja/) . Pamiętaj, że w KSI zawsze znajdzie się ktoś, kto skonfigurował już to co najmniej raz. Nie wspominając o tym, że KSI (jak większość kół naukowych) ma własny router.
++ **Windows** odpowiednie sterowniki może mieć już zainstalowane razem z kartą bezprzewodową (głównie intelowskie). 
 + **iOS** <TODO> @Adam?
 + **Windows Phone** nie wspiera i niestety nie będzie wspierał tych protokołów, ponieważ są przestarzałe :(
 
+Jeśli nie działa – poradnik jest na <TODO> <zmienić miejsce> [http://mordor.ksi.ii.uj.edu.pl/repo/UJ-edu%20konfiguracja/](http://mordor.ksi.ii.uj.edu.pl/repo/UJ-edu%20konfiguracja/). Pamiętaj również, że w razie problemów możesz zajrzeć do siedziby KSI, gdzie zawsze znajdzie się ktoś kto skonfigurował to co najmniej raz. Większość kół naukowych na naszym wydziale posiada również własne routery, z których możesz korzystać będąc ich członkiem.
+
 Ogólne wskazówki SUSSu - [http://www.suss.uj.edu.pl/dostep-bezprzewodowy](http://www.suss.uj.edu.pl/dostep-bezprzewodowy)
 
-Eduroam  to sieć hotspotów, która jest dostępna na wszystkich porządnych uniwersytetach na całym świecie. Dostęp do niej znowu przez dane z USOSweb. Więcej o Eduroam znajdziesz na [https://www.eduroam.pl/](https://www.eduroam.pl/) Łączenie się z tą siecią przebiega bez problemów na wszystkich urządzeniach.
+**Eduroam**  to sieć hotspotów która jest dostępna na wielu znaczących uniwersytetach na całym świecie. Dostęp do niej możesz uzyskać również poprzez dane z USOSweb. Łączenie się z tą siecią przebiega bez problemów na wszystkich urządzeniach. Więcej o Eduroam znajdziesz na 
+[https://www.eduroam.pl/](https://www.eduroam.pl/). 
+
 
 ### Extranet
 
@@ -59,9 +65,7 @@ UJ posiada wykupiony dostęp do wielu naukowych treści w postaci elektronicznej
 
 ### BaCa
 
-BaCa ([http://baca.ii.uj.edu.pl](http://baca.ii.uj.edu.pl/) ) to automatyczna testerka zadań – wysyłasz kod źródłowy zadania, a system sam sprawdza, czy działa jak należy i przydziela punkty. Działa tam też antyplagiatorka – pamiętaj o uczciwości. Hasło do BaCy dostaniesz od prowadzącego kurs kurs (na początek z Programowania 1) w USOSwebie w zakładce sprawdziany. Niestety hasło to nie jest globalne  i każdy kurs ma osobne konto.
-
-Prowadzący grupę zresetuje ci hasło. Ogólna pomoc dostępna jest na [https://sites.google.com/site/bacahelp/](https://sites.google.com/site/bacahelp/).
+BaCa ([http://baca.ii.uj.edu.pl](http://baca.ii.uj.edu.pl/) ) to automatyczna testerka zadań. Po przesłaniu kodu źródłowego zadania, system sam sprawdza, czy twój program działa poprawnie i w zależności od tego ile testów uda ci się zaliczyć przydziela odpowiednią ilość punktów. Działa tam też antyplagiatorka –  pamiętaj więc o uczciwości! Hasło do BaCy dostaniesz od prowadzącego dany kurs (na początek z Programowania 1) w USOSwebie w zakładce sprawdziany. Niestety, nie jest to hasło globalne i każdy kurs ma osobne konto. W razie potrzeby, prowadzący grupę może zresetować ci hasło do konta. Ogólna pomoc dostępna jest pod adresem [https://sites.google.com/site/bacahelp/](https://sites.google.com/site/bacahelp/).
 
 ### Konta pocztowe
 
@@ -79,9 +83,9 @@ Jedynie dwa powyższe adresy służą do komunikacji z prowadzącymi zajęcia �
 
 Najlepiej ustawić sobie przekierowanie na własną skrzynkę, żeby dostawać powiadomienia o nowych wiadomościach.
 
-Na **instytutowej** robimy to następująco: *Opcje/ Autoresponder-Mail Forwarding*, *Forward incoming messages to addresses listed below*, a na **uczelnianej**:  ikonka koła zębatego w prawym górnym rogu &gt; opcje &gt; poczta &gt; automatyczne przetwarzanie &gt; reguły skrzynki odbiorczej &gt; + (dodaj) &gt; nazwa: cokolwiek, gdy nadejdzie wiadomość i: \[zastosuj do wszystkich wiadomości\], wykonaj następujące czynności: prześlij dalej, przekieruj lub wyślij / prześlij wiadomość dalej do… -&gt; adres email, OK, OK
+Na **instytutowej** robimy to następująco: *Opcje -&gt; Autoresponder-Mail Forwarding* -&gt; *Forward incoming messages to addresses listed below*, a na **uczelnianej**:  ikonka koła zębatego w prawym górnym rogu -&gt; opcje -&gt; poczta -&gt; automatyczne przetwarzanie -&gt; reguły skrzynki odbiorczej -&gt; + (dodaj) -&gt; nazwa: cokolwiek, gdy nadejdzie wiadomość i: \[zastosuj do wszystkich wiadomości\], wykonaj następujące czynności: prześlij dalej, przekieruj lub wyślij / prześlij wiadomość dalej do… -&gt; adres email, OK, OK
 
-Zwróć uwagę, że na USOSwebie funkcjonuje **u-mail**, czyli możliwość wysłania maila na skrzynkę użytkownika. Żeby życie było cięższe, niektórzy prowadzący używają tego systemu do rozsysłania ogłoszeń. Adres email importowany jest co prawda z ERK, ale warto go zweryfikować. Zrobisz to przez Mój usosweb &gt; wizytówka &gt; zmiana adresu email (dziwne, ale działa).
+Zwróć uwagę, że na USOSwebie funkcjonuje **u-mail**, czyli możliwość wysłania maila na skrzynkę użytkownika. Żeby życie było cięższe, niektórzy prowadzący używają tego systemu do rozsysłania ogłoszeń. Adres email importowany jest co prawda z ERK, ale warto go zweryfikować. Zrobisz to przez Mój usosweb &gt; wizytówka &gt; zmiana adresu email.
 
 Pamiętaj żeby szczególnie na początku roku akademickiego sprawdzać folder spam na swojej skrzynce i na bieżąco dodawać uczelniane maile do białej listy.
 
@@ -111,4 +115,4 @@ Pamiętaj, że dzięki możliwości zapisaniu plików na swoim profilu dostępny
 
 ### Własny serwer w KSI
 
-*Chyba jest o tym coś w sekcji o samym KSI, jak nie – dopiszę* &lt;TODO&gt;
+*Chyba jest o tym coś w sekcji o samym KSI, jak nie – dopiszę* &lt;TODO&gt; <todo>
