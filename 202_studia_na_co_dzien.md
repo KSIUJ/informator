@@ -1,10 +1,10 @@
-# Studia na co dzień
+## Studia na co dzień
 
-## Zajęcia
+### Zajęcia
 
 Większość przedmiotów na naszym wydziale składa się z wykładu oraz ćwiczeń, które trwają jeden lub kilka semestrów i kończą się egzaminem. Jeśli przedmiot dzieli się na kilka semestrów, w każdym z nich musimy zaliczyć ćwiczenia, a ocena którą uzyskamy, ma istotny wpływ na ostateczną ocenę uzyskaną z całego przedmiotu. Ostateczna ocena, którą uzyskujemy z danego przedmiotu jest zazwyczaj obliczana na podstawie wyników z zajęć oraz samego egzaminu. Warto pojawić się na pierwszych wykładach, ponieważ to na nich ustalane są przez wykładowcę szczegółowe zasady zaliczenia przedmiotu. Na każdą godzinę zajęć przypada tak zwany kwadrans studencki. Dla przykładu wykłady (na które zazwyczaj są przypisane 2 godziny) trwają tak naprawdę 1,5h, a godzina jego rozpoczęcia oraz zakończenia ustalana jest z prowadzącym na pierwszych zajęciach.
 
-### Przedmioty obowiązkowe, fakultatywne oraz specjalistyczne
+#### Przedmioty obowiązkowe, fakultatywne oraz specjalistyczne
 
 _Przedmioty obowiązkowe_ (zwane także obligatoryjnymi) to takie, które student musi zaliczyć w trakcie toku swoich studiów bez względu na wybraną specjalność. Należą do nich także na przykład wychowanie fizyczne, czy kurs BHP.
 
@@ -12,7 +12,7 @@ _Przedmioty fakultatywne_ są to dowolne kursy oferowane dla studentów, ale nie
 
 _Przedmioty specjalistyczne_ mają związek z wybraną przez studenta specjalnością. Każda ze specjalności posiada swoją pulę przedmiotów, z których student ma obowiązek wybrać określoną ilość tych, które będzie realizował.
 
-### Wychowanie fizyczne
+#### Wychowanie fizyczne
 
 WF jest przedmiotem obowiązkowych na pierwszym roku studiów na kierunkach oferowanych przez nasz wydział. Obecność na nim jest skrupulatnie sprawdzana, dlatego należy pamiętać, że każdą nieobecność na zajęciach będziecie musieli usprawiedliwić okazaniem zwolnienia lekarskiego lub odrobić w innej grupie ćwiczeniowej. Jeśli będziecie mieli jakieś zajęcia do odrobienia, to polecamy nie robić tego pod koniec semestru. Prowadzący bardzo często odmawiają wtedy przyjęcia dodatkowych studentów do swojej grupy. Najlepiej jest załatwiać takie sprawy od razu ­ pamiętajcie, że koniec semestru oznacza także zbliżającą się sesję egzaminacyjną i wtedy możecie nawet nie znaleźć czasu na odrobienie zajęć z wychowania fizycznego.
 
@@ -29,7 +29,7 @@ Studenci mogą także zostać zwolnieni z zajęć wychowania fizycznego na przyk
 
 Więcej informacji na temat zajęć, zwolnień czy harmonogramów znajdziecie na stronie [www.swfis.uj.edu.pl](www.swfis.uj.edu.pl).
 
-### Lektoraty językowe
+#### Lektoraty językowe
 
 Kolejnym przedmiotem obowiązkowym jest język obcy. Odrębną jednostką zajmującą się kształceniem językowym jest _Jagiellońskie Centrum Językowe_, którego pracownicy prowadzą zajęcia lektoratowe także na naszym wydziale. Zaliczenie egzaminu z języka obcego jest warunkiem koniecznym ukończenia studiów i można to osiągnąć wybierając jedną z trzech dostępnych możliwości:
 
@@ -39,37 +39,37 @@ Kolejnym przedmiotem obowiązkowym jest język obcy. Odrębną jednostką zajmuj
 
 Rejestracja na zajęcia lektoratowe także jest rejestracją “żetonową”. Ważne jest to, że jeśli student zaliczył lektorat na podstawie certyfikatu lub w inny sposób może wykorzystać wolne żetony na kontynuację nauki języka na wyższym poziomie lub na naukę innego języka na dowolnym poziomie zgodnie z ofertą JCJ. Większość studentów WMiI zapisuje się na język angielski, ponieważ lektoraty z tego języka odbywają się na naszym wydziale. Wybór innego język obcego może wiązać się z konsekwencją dojeżdżania na drugi koniec miasta, aby pojawić się na zajęciach. Więcej informacji na temat zajęć lektoratowych, form egzaminu oraz harmonogrbamów znajdziesz na stronie [http://www.jcj.uj.edu.pl/](http://www.jcj.uj.edu.pl/).
 
-### Zaliczenia i egzaminy
+#### Zaliczenia i egzaminy
 
 Większość przedmiotów na WMiI kończy się egzaminem. Student, _niezależnie od zaliczenia_, zostaje dopuszczony do egzaminu, o ile uczęszcza na ćwiczenia i lektoraty. To oznacza, że nie trzeba mieć zaliczonych ćwiczeń na ocenę co najmniej 3.0, aby podejść do egzaminu. Wystarczy pilnować sobie obecności na zajęciach. Prowadzący na początku semestru ustalają, ile można mieć nieusprawiedliwionych nieobecności. Każda nieobecność ponad dozwoloną liczbę sprawia, że nie możemy przystąpić do egzaminu.
 
-#### Termin zero
+##### Termin zero
 
 Czasem zdarza się, że prowadzący wykład ustala ze studentami termin zerowy egzaminu, czyli taki, który nie niesie za sobą żadnych negatywnych konsekwencji. Jeśli nie zdasz egzaminu w terminie zerowym, nadal masz prawo do pierwszego i drugiego terminu, a Twoja ocena z zerówki nie jest brana pod uwagę przy obliczaniu średniej. Należy pamiętać, że termin zero nie jest terminem regulaminowym i nie należy oczekiwać od prowadzącego, aby taki termin ustalił.
 
-#### Termin pierwszy 
+##### Termin pierwszy 
 
 Z bagażem wiedzy zdobywanej stopniowo przez cały semestr (lub nabytej w tempie ekspresowym na tydzień przed sesją) przystępujemy do egzaminu w pierwszym terminie. Egzaminy mogą odbywać się w aulach, mniejszych salach wykładowych lub zwykłych salach zajęciowych -­ wszystko zależy od liczby studentów zapisanych na przedmiot. Na prośbę prowadzącego studenci zazwyczaj nie siedzą obok siebie, a rozsiadają się co kilka miejsc i co kilka rzędów. Kiedy już usiądziesz na sali, podana zostanie Ci godzina zakończenia egzaminu, po czym dostaniesz egzamin do ręki. Z doświadczenia możemy powiedzieć, że warto zostać dłużej na egzaminie i dokładnie sprawdzić swoje odpowiedzi. Przedwczesne wyjście z sali oczywiście jest dopuszczalne, (możesz wyjść z egzaminu w dowolnym momencie) ale czasem warto posiedzieć kilka dodatkowych minut a nuż, widelec coś się przypomni! ;)
 
 Co jeśli nie powiedzie się zdanie egzaminu w pierwszym terminie?
 
-#### Termin drugi
+##### Termin drugi
 
 Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko _dwa terminy egzaminów_. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału: <todo> **czy da się tutaj zrobić linka??? **<todo> Niektóre prawa i obowiązki studenta - tam możecie znaleźć zapasowe koła ratunkowe.
 
-#### Co można przynieść na egzamin?
+##### Co można przynieść na egzamin?
 
 Wyjątkowo zdarza się, że wykładowcy pozwalają przynieść na egzamin dodatkową kartkę z najważniejszymi informacjami, czasem nawet cały stos książek. W każdym razie zawsze warto zapytać o to, co można mieć ze sobą na egzaminie, choć pewnie w większości przypadków usłyszycie tylko jedną, treściwą odpowiedź - długopis.
 
-#### Dress code
+##### Dress code
 
 Dobry zwyczaj uniwersytecki nakazuje przyjść na egzamin w eleganckim stroju. Nie oznacza to, że trzeba od razu zakładać garnitur ;) Po prostu wypada być trochę bardziej eleganckim, niż na co dzień.
 
-#### Kolokwia
+##### Kolokwia
 
 Kolokwia mogą być różne. Nazywamy nimi kartkówki, które zdarza się nam pisać na ćwiczeniach, a także większe testy pisane raz, dwa razy w trakcie semestru przez wszystkich studentów zapisanych na dany przedmiot. Kolokwia w postaci kartkówek mogą być zapowiedziane lub niezapowiedziane. Kolokwia w postaci testu są ustalane odpowiednio wcześniej i choć nie chcemy nikogo straszyć, zdarza się, że odbywają się w soboty.
 
-## Legitymacja studencka
+### Legitymacja studencka
 
 Elektroniczna legitymacja identyfikuje studenta. Jest ważna przez cały okres studiów, lecz traci swoją wartość, jeśli zostaniemy zawieszeni lub skreśleni z listy studentów. Ważność legitymacji potwierdza się co semestr - ­ na początku każdego semestru należy zanieść ją do sekretariatu dydaktycznego, gdzie zostanie przedłużona jej ważność w wewnętrznym układzie elektronicznym oraz poprzez naklejenie specjalnego hologramu. Na ogół po odbiór legitymacji czeka się kilka godzin, czasem można ją odebrać dopiero następnego dnia. 
 
