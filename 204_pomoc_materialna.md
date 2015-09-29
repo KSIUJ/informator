@@ -1,4 +1,4 @@
-# Pomoc materialna
+## Pomoc materialna
 
 Studenci Uniwersytetu Jagiellońskiego znajdujący się w trudnej sytuacji materialnej mogą ubiegać się o różnego rodzaju stypendia oraz zapomogi. Szczegółowe informacje dotyczące wszystkich opisanych w tym rozdziale form pomocy materialnej znajdziesz na stronie [Uczelnianej Komisji Ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/comission/staticPage/5/231 "Uczelniana Komisja Ekonomiczna").
 
@@ -6,7 +6,7 @@ Należy pamiętać, że wszystkie świadczenia pomocy materialnej można pobiera
 
 Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 jest mgr Piotr Pogoda, a znaleźć go można w pokoju 1026 na pierwszym piętrze wydziału.
 
-## Stypendium socjalne
+### Stypendium socjalne
 
 Studenci studiów stacjonarnych na naszej uczelni mogą ubiegać się o:
 
@@ -25,7 +25,7 @@ Aby uzyskać to świadczenie należy:
 + wydrukować oraz podpisać zarówno oświadczenie o dochodach, jak i wniosek
 + złożyć komplet dokumentacji do wydziałowego koordynatora ds. pomocy materialnej
 
-## Stypendium specjalne dla osób niepełnosprawnych
+### Stypendium specjalne dla osób niepełnosprawnych
 
 Stypendium specjalne przysługuje wszystkim studentom posiadającym orzeczenie z tytułu niepełnosprawności. Świadczenie to jest przyznawane od miesiąca, w którym złożony został wniosek. 
 
@@ -35,7 +35,7 @@ Aby uzyskać do świadczenie należy:
 + wydrukować oraz podpisać wniosek
 + złożyć wniosek do wydziałowego koordynatora ds. pomocy materialnej
 
-## Stypendium rektora dla najlepszych studentów
+### Stypendium rektora dla najlepszych studentów
 
 Stypendium rektora przysługuje studentowi, który w poprzednim roku akademickim uzyskał wysoką średnią ocen lub posiada osiągnięcia naukowe, artystyczne bądź sportowe. Stypendium to może otrzymać nie więcej niż 10% studentów na każdym kierunku, którzy otrzymali najwięcej punktów obliczanych według punktacji zawartej w Regulaminie. Wykaz osiągnięć, które będą punktowane przy ocenie wniosku oraz listę wymaganych dokumentów znajdziecie na stronie Samorządu Studentów w zakładce UKE.
 
@@ -49,7 +49,7 @@ O stypendium rektora dla najlepszych studentów mogą ubiegać się także stude
 
 _Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października._
 
-## Zapomogi
+### Zapomogi
 
 Zapomoga jest świadczeniem przyznawanym studentom, którzy z przyczyn losowych znaleźli się w przejściowo trudnej sytuacji materialnej. W szczególności do takich sytuacji należą:
 
@@ -68,5 +68,5 @@ Aby uzyskać to świadczenie należy:
 + wydrukować i podpisać oba dokumenty
 + złożyć oświadczenie, wniosek oraz potrzebną dokumentację do wydziałowego koordynatora ds. pomocy materialnej
 
-## Własne fundusze stypendialne UJ, stypendium ministra, kredyty studenckie
+### Własne fundusze stypendialne UJ, stypendium ministra, kredyty studenckie
 Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy pod adres - [http://www.uj.edu.pl/studenci/stypendia­kredyty­studenckie­i­akademiki](http://www.uj.edu.pl/studenci/stypendia­kredyty­studenckie­i­akademiki).
