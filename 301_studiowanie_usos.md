@@ -2,25 +2,20 @@
 
 ## USOS
 
-Poniższy rozdział zostanie poświęcony na omówienie najważniejszych kwestii dotyczących obsługi studenckiego konta w systemie USOSweb. Postaramy się pokazać Wam, że nie taki diabeł straszny, jak go malują ;)
+Poniższy rozdział zostanie poświęcony na omówienie najważniejszych kwestii dotyczących obsługi studenckiego konta w systemie USOSweb ([www.usosweb.uj.edu.pl](http://www.usosweb.uj.edu.pl)). Postaramy się pokazać Wam, że nie taki diabeł straszny, jak go malują ;)
 
-[www.usosweb.uj.edu.pl](http://www.usosweb.uj.edu.pl)
 
 ### Elektroniczny indeks
 
 Na Uniwersytecie Jagiellońskim od roku akademickiego 2011/2012 obowiązuje tak zwany e-indeks. Mimo to papierowy indeks może zostać wydany studentowi na jego wniosek, a prowadzący zajęcia ma obowiązek wpisać ocenę do indeksu na prośbę studenta.   
 
-Wszystkie oceny studenta wprowadzane są do systemu USOS, a znaleźć je można w zakładce: DLA STUDENTA-&gt;MOJE STUDIA-&gt;oceny. Zdarza się także, że prowadzący wpisują cząstkowe punktacje lub oceny z przeprowadzonych sprawdzianów czy kolokwiów i takich informacji należy szukać w zakładce MÓJ USOSWEB (sprawdziany studenta).
+Wszystkie oceny studenta wprowadzane są do systemu USOS, a znaleźć je można w zakładce: DLA STUDENTA-&gt;MOJE STUDIA-&gt;oceny. Zdarza się także, że prowadzący wpisują do USOS-a cząstkowe punktacje lub oceny z przeprowadzonych sprawdzianów czy kolokwiów i takich informacji należy szukać w zakładce MÓJ USOSWEB (sprawdziany studenta).
 
 ### Poczta uniwersytecka
 
 Poczta Uniwersytecka od 2014 roku działa w chmurze, w oparciu o usługę Office 365, dzięki czemu jej użytkownicy mają dostęp do wielu darmowych usług online, takich jak Word, Excel czy OneDrive. Od chwili aktywacji nowej poczty tylko konto w Poczcie Uniwersyteckiej umożliwi dostęp do uniwersyteckiego Wi-Fi czy extranetu.
 
-Aby aktywować konto poczty uniwersyteckiej wystarczy przejść do zakładki MODUŁY DODATKOWE-&gt;AKTYWACJA POCZTY
-
-Po wykonaniu tych kroków będzie można logować się do poczty poprzez stronę: [https://outlook.com/student.uj.edu.pl](https://outlook.com/student.uj.edu.pl) oraz przez system USOS.
-
-Pełna aktywacja konta dla nowego użytkownika Poczty Uniwersyteckiej może zająć do 24 godzin.
+Aby aktywować konto poczty uniwersyteckiej wystarczy przejść do zakładki MODUŁY DODATKOWE-&gt;AKTYWACJA POCZTY Po wykonaniu tych kroków będzie można logować się do poczty poprzez stronę: [https://outlook.com/student.uj.edu.pl](https://outlook.com/student.uj.edu.pl) oraz przez system USOS. Pełna aktywacja konta dla nowego użytkownika Poczty Uniwersyteckiej może zająć do 24 godzin.
 
 Więcej informacji na temat funkcjonalności usługi Office 365 znajdziecie na stronie: [http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/](http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/)
 
@@ -79,7 +74,7 @@ Wnioski o przyznanie miejsca w domu studenckim, o uzyskanie świadczeń takich j
 
 Dostępne do wypełnienia wnioski pojawiają się w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA razem z terminami, w których można je wypełniać.
 
-Więcej informacji na temat wniosków znajdziecie w rozdziale Pomoc Materialna.
+Więcej informacji na temat wniosków znajdziecie w rozdziale <todo> **czy da się tu wstawić link??** <todo> Pomoc Materialna.
 
 ### Rankingi
 

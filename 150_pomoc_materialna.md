@@ -4,7 +4,7 @@ Studenci Uniwersytetu Jagiellońskiego znajdujący się w trudnej sytuacji mater
 
 Należy pamiętać, że wszystkie świadczenia pomocy materialnej można pobierać tylko na jednym kierunku studiów.
 
-Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 jest mgr Piotr Pogoda, a znaleźć go można w pokoju <TODO> na pierwszym piętrze wydziału.
+Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 jest mgr Piotr Pogoda, a znaleźć go można w pokoju 1026 na pierwszym piętrze wydziału.
 
 ## Stypendium socjalne
 
@@ -16,7 +16,7 @@ Studenci studiów stacjonarnych na naszej uczelni mogą ubiegać się o:
 
 Studenci studiów niestacjonarnych mogą ubiegać się jedynie o stypendium socjalne bez żadnych zwiększeń.
 
-Termin składania wniosków na semestr zimowy danego roku akademickiego upływa 30 września, a na semestr letni 31 stycznia. Stypendium socjalne w semestrze zimowym przyznawane jest na okres 5 miesięcy, a w semestrze letnim na okres 4 miesięcy. Studenci ubiegający się o stypendium socjalne wnioskują o nie co semestr, stypendium to nie jest przyznawane na cały rok akademicki.
+_Termin składania wniosków na semestr zimowy danego roku akademickiego upływa 30 września, a na semestr letni 31 stycznia._ Stypendium socjalne w semestrze zimowym przyznawane jest na okres 5 miesięcy, a w semestrze letnim na okres 4 miesięcy. Studenci ubiegający się o stypendium socjalne wnioskują o nie co semestr, stypendium to nie jest przyznawane na cały rok akademicki.
 
 Aby uzyskać to świadczenie należy: 
 
@@ -47,7 +47,7 @@ Stypendium rektora dla najlepszych studentów nie przysługuje studentom, którz
 
 O stypendium rektora dla najlepszych studentów mogą ubiegać się także studenci przyjęci na I rok studiów. Więcej informacji na ten temat można znaleźć tutaj - [http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf](http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf).
 
-Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października.
+_Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października._
 
 ## Zapomogi
 

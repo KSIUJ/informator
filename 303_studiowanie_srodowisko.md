@@ -1,14 +1,12 @@
 ## Środowisko pracy studenta informatyki
 
-*Autorzy: Cezary Drak, Szymon Nieznański, Jakub Olczyk, Konrad Talik (KN Wolnego Oprogramowania „Ślimak”); licencja: CC-BY-SA 4.0 International*
-
-Każdy świeżo upieczony student informatyki zastanawia się z czego korzystają profesjonaliści w swojej pracy zawodowej, jakiego środowiska używają i przede wszystkim -- dlaczego?
+Każdy świeżo upieczony student informatyki zastanawia się z czego korzystają profesjonaliści w swojej pracy zawodowej, jakiego środowiska używają i przede wszystkim - dlaczego?
 
 W poniższym artykule przedstawimy, z jakich powodów, naszym zdaniem, używanie GNU/Linuksa to najlepszy wybór dla przyszłego informatyka.
 
 Po pierwsze, mając do dyspozycji system, który jest **wolnym oprogramowaniem**, mamy możliwość przestudiowania sposobu, w jaki działają wszelkie jego programy składowe oraz ich modyfikację. Dostosowywanie oprogramowania do własnych potrzeb, czytanie kodu i eksperymentowanie z nim pozwalają się rozwinąć przyszłemu programiście.
 
-Programista-nowicjusz niewiele rózni się pod tym względem od początkującego pisarza, który chce napisać swoje pierwsze bestsellerowe dzieło. Nie będzie mógł tego dokonać bez znajomości dużej ilości książek innych autorów, które pozwolą mu rozwinąć swój warsztat pisarski - programiści również w ten sposób mogą szlifować swoje umiejętności.
+Programista-nowicjusz niewiele różni się pod tym względem od początkującego pisarza, który chce napisać swoje pierwsze bestsellerowe dzieło. Nie będzie mógł tego dokonać bez znajomości dużej ilości książek innych autorów, które pozwolą mu rozwinąć swój warsztat pisarski - programiści również w ten sposób mogą szlifować swoje umiejętności.
 
 GNU/Linux daje wolność i gotowe zaplecze do rozwiązywania różnych problemów. Do dyspozycji mamy mnóstwo wysokiej jakości narzędzi, używanych przez zawodowców każdego dnia. Inne systemy operacyjne nie są aż tak przyjazne przyszłemu informatykowi.
 
