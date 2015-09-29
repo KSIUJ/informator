@@ -1,11 +1,14 @@
 ---
 title:  'Informator studenta WMiI UJ'
-author:
-- name: Piotr Maliszewski
-  affiliation: KSI
-- name: Adam Piekarczyk
-  affiliation: KSI
-tags: [nothing, nothingness]
+creator:
+- role: author
+  name: Piotr Maliszewski
+  text: KSI
+- role: editor
+  name: Adam Piekarczyk
+  text: KSI
+language: pl-PL
+tags: [WMiI, UJ, informator, poradnik]
 abstract: |
   This is the abstract.
 
