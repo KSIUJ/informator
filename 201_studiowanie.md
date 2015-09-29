@@ -1,4 +1,4 @@
-# Studiowanie
+# Studia
 
 ## Organizacja roku akademickiego 2015/2016
 
