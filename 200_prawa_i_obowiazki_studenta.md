@@ -14,7 +14,7 @@ Do obowiązków studenta należy także złożenie deklaracji wyboru przedmiotó
 
 ## Wpis warunkowy
 
-Jeśli student uzyska w trakcie roku akademickiego co najmniej 50 punktów ECTS, ale mniej niż 60, ma możliwość uzyskania wpisu na kolejny rok studiów. Jednocześnie student zobowiązuje się do tego, aby uzupełnić powstałą różnicę punktową w następnym roku akademickim, bowiem wedle regulaminu nie można skorzystać z wpisu warunkowego dwukrotnie w kontekście niezaliczenia tego samego przedmiotu. Wniosek o uzyskanie wpisu warunkowego należy złożyć przed rozpoczęciem nowego roku akademickiego. Wzór takiego podania znajdziecie między innymi na stronie Samorządu Studentów UJ -[http://www.samorzad.uj.edu.pl/main/libraryShow/­1/564](http://www.samorzad.uj.edu.pl/main/libraryShow/­1/564).
+Jeśli student uzyska w trakcie roku akademickiego co najmniej 50 punktów ECTS, ale mniej niż 60, ma możliwość uzyskania wpisu na kolejny rok studiów. Jednocześnie student zobowiązuje się do tego, aby uzupełnić powstałą różnicę punktową w następnym roku akademickim, bowiem wedle regulaminu nie można skorzystać z wpisu warunkowego dwukrotnie w kontekście niezaliczenia tego samego przedmiotu. Wniosek o uzyskanie wpisu warunkowego należy złożyć przed rozpoczęciem nowego roku akademickiego. Wzór takiego podania znajdziecie między innymi na stronie Samorządu Studentów UJ - [http://www.samorzad.uj.edu.pl/main/libraryShow/1/564](http://www.samorzad.uj.edu.pl/main/libraryShow/1/564). 
 
 ## Wznowienie studiów na tym samym kierunku lub specjalności
 
