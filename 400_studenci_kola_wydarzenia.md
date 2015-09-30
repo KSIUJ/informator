@@ -24,8 +24,6 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 ### Koło Studentów Informatyki UJ (KSI)
 
-<TODO> - dołożyć tu literkę KSI :D
-
 **KSI (ξ)** ­- czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem **Koło Studentów Informatyki UJ** - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. Co więc robimy?
 
 #### Bierzemy udział w organizacji wydarzeń, takich jak:
@@ -236,8 +234,28 @@ Siedzibą BIT jest **sala 1160**.
 
 ### Koło Naukowe ImagineAcademy (grupa Microsoft .NET)
 
-#### O kole
-{TODO}
+**Koło Naukowe ImagineAcademy** ma na celu budowanie i zrzeszanie społeczności entuzjastów nowych technologii.
+
+ImagineAcademy jest prowadzone przez Microsoft Student Partnera. 
+Działalność wspierana jest przez firmę Microsoft, a jej efekty zostaną z wami na zawsze. Duży nacisk będzie kładziony na pracę w zespolę ale również na integracje. Jako grupa pasjonatów będziemy się starać dzielić swoją wiedzą i rozwijać wzajemnie. Nie pozwoli na sytuacje, gdzie ktoś mający pomysł, a niebędący w stanie go wykonać zostanie sam.
+Mamy nadzieje, że jak już do nas dołączysz, zostaniesz na dłużej.  Widzimy się na spotkaniach!
+
+**ImagineAcademy prowadzi zajęcia w czterech sekcjach:**
+
+**DEV** – Czy zaraz po urodzeniu twoje pierwsze brzmiały C++, C#? Jeśli nie, nie martw się! Z nami nawet poczatkujący programista sobie poradzi. Będziemy tworzyć od prostych konsolowych aplikacje, po zaawansowane aplikacje uniwersalne. Zacznij swoją przygodę już dziś!
+
+**IT Pro** – Od zawsze zastanawiałeś się jak połączyć sensownie komputery w jedną sieć, a może po prostu pracujesz jako administrator i szukasz porad? Przyjdź, posłuchaj, wypowiedz się! A już jutro możesz być jednym z światowych przedstawicieli IT Pro… 
+
+**R&D** – W Research & Development zajmujemy się nowymi technologiami oraz pracujemy nad konkretnymi projektami. Celem naszym jest stworzyć mądre zastosowania dzisiejszej technologii w naszym codziennym życiu.
+Z naszymi projektami chcemy także wygrywać różne konkursy (takie jak np. lmagineCup) i zastosować nasze rozwiązania w naszej pracy w Kole żeby wspólnie osiągnąć większą produktywność. 
+
+**Juniors** – Pamiętasz jak byłeś w gimnazjum, a następnie w szkole średniej? Szukałeś ciekawych kół naukowych… ale nigdzie ich nie było! Pomóż nam wspierać uczniów w rozwoju swoich pasji informatycznych. Dlaczego uważamy, że warto? Bo sami pamiętamy jak to było parę lat temu… Przyjdź poprowadź parę zajęć, pomóż nam tworzyć markę sekcji junior pod szyldem ImagineSchool. Dlaczego inna nazwa? By przekonać uczniów, że to właśnie dla nich prowadzimy zajęcia.
+
+Kontakt: 
+ImagineAcademy - [https://www.facebook.com/ImagineAcademyUJ](https://www.facebook.com/ImagineAcademyUJ)
+ImagineSchool - [https://www.facebook.com/Junior.UJ](https://www.facebook.com/Junior.UJ)
+Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
+
 
 \\newpage
 
