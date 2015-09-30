@@ -197,9 +197,9 @@ Jeśli nie masz co robić, możesz sobie utworzyć (wyklikać) własną stronę 
 
 ### Komputery na wydziale
 
-Po stronie informatyki są trzy typy komputerów - dyskowe z windowsem xp (na który logujesz się tylko kontem student bez hasła), dyskowe z windowsem 7 (działa też student, ale możesz zalogować się wydziałowym - wtedy profil użytkownika będzie przechowywany między sesjami, a twoje pliki - dostępne) - **uwaga - nowe komputery są kupowane i nie wiadomo jak będzie to wyglądało, ale zapewne będzie jakiś analogiczny win8** oraz bezdyskowe. <TODO - zapytać Żurka>;
+Po stronie informatyki są trzy typy komputerów - dyskowe z windowsem 10 (na który logujesz się tylko kontem student bez hasła), bezdyskowe oraz stacje robocze Apple (przeznaczone na przedmiot "Programowanie iOS" - spokojnie, jest fakultatywny).
 
-Na tych ostatnich możesz zabootować linuksa, do którego działa konto wydziałowe lub maszynę wirtualną z Windowsem 7 - masz na niej pełne prawa administratora, ale przechowywany jest jedynie profil - jeśli się zalogujesz. Ważna uwaga - urządzenia USB do maszyny podpinasz przez menu, które się pojawi po najechaniu kursorem do górnej krawędzi. Jeśli wpadnie Ci do głowy próba minimalizacji czy zamknięcia "okna" VMware - niestety, ale host linuksowy ubije system.
+Na bezdyskowych możesz zabootować linuksa, do którego działa konto wydziałowe lub maszynę wirtualną z windowsem 7 - masz na niej pełne prawa administratora, ale przechowywany jest jedynie profil - jeśli się zalogujesz. Ważna uwaga - urządzenia USB do maszyny podpinasz przez menu, które się pojawi po najechaniu kursorem do dolnej krawędzi. Jeśli wpadnie Ci do głowy próba zamknięcia "okna" VirtualBox - niestety, ale host linuksowy ubije system.
 
 Quota na dysku sieciowym wynosi 100MB (współdzielone z kontem pocztowym), więc należy uważać i okresowo czyścić katalog plików tymczasowych.
 

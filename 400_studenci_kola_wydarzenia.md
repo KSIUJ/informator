@@ -38,7 +38,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 #### Rozwijamy pomysły i projekty naukowe w ramach Centrum Projektowego:
 
--   w ramach naszej **serwerowni** umożliwiamy postawienie własnego serwera (fizycznego lub wirtualnego), otrzymanie zewnętrznego IP z puli Koła i odblokowanych przez adminów wydziałowych potrzebnych portów;
+-   w ramach naszej **serwerowni** umożliwiamy postawienie własnego serwera (fizycznego lub wirtualnego), otrzymanie zewnętrznego IP z puli Koła i odblokowanych przez adminów wydziałowych potrzebnych portów; jesteśmy też otwarci na projekty usług które możemy wdrożyć w serwerowni - ostatnio zaczęliśmy budowę klastra ze starych komputerów wydziałowych
 
 -   posiadamy **drukarkę 3D** (zbudowaną przez naszych członków!);
 
