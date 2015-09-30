@@ -32,6 +32,8 @@ NKR: Agnieszka Pocha, Stanisław Jastrzębski, Igor Sieradzki
 
 BIT: Karolina Cibor, Paulina Kania
 
+ImagineAcademy: Fabian Kapuscik, Daniel Skowroński
+
 **Autorzy pierwszej edycji**
 
 Michalina Hansdorfer, Michał Wszołek (koordynatorzy)
