@@ -58,10 +58,31 @@ Studenci WMiI mogą bezpłatnie uzyskać licencję na program Wolfram Mathematic
 
 Bardzo przydatny bywa też **LaTeX**, opisany w poprzednim rozdziale.
 
-## Darmowe oprogramowanie
+## Darmowe oprogramowanie - Microsoft i inne
 
-Na poczatku października na skrzynkę instytutową dostaniesz maila o dostępie do Dreamsparka - wystarczy wtedy aktywować konto, przejść na wskazany adres i można pobierać oprogramowanie Microsoftu - m.in. Micorosoft Windows (też Server), Visual Studio, SQL Server, część (niestety tę mniej interesującą) pakietu Office - Visio, Access, InfoPath, Ms Mathematics. Całe oprogramowanie jest darmowe jednak do celów niekomercyjnych (nie można na nim zarabiać). Wyjątek stanowi licencja dewelopera dla sklepów Windows i Windows Phone - dzięki niej można wrzucać stworzone aplikacje także w trybie płatnym.
+Na poczatku października na skrzynkę instytutową dostaniesz maila o dostępie do Dreamsparka - wystarczy wtedy aktywować konto, przejść na wskazany adres i można pobierać oprogramowanie Microsoftu.
 
-Naszy wydział ma także licencje na Wolfram Mathematica i Maple - szczegółowe instrukcje dostępne są na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) - trzeba chwilę poczekać aż admin zatwierdzi nasza licencję (zwykle max kilka dni).
+Microsoft DreamSpark to program zapewniający studentom z całego świata dostęp do profesjonalnych narzędzi Microsoft za darmo (jedynie do celów niekomercyjnych - nie można na nim zarabiać). Wystarczy się zarejestrować i potwierdzić swój status studenta, żeby móc korzystać z dostępnych tam produktów, takich jak:
 
-Sam Sniwersystet też posiada licencje - warto zapoznać się z aktualnie dostępnymi na [http://www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie) - nie wszystko jest jednak dostępne dla studentów. Najciekawsze, dostępne na ten moment dla Was są: Altap Salamander, Esri ArcGIS, Noldus EthoVision, National Instruments Labview, Mathcad, OriginLab Origin Pro, PS IMAGO PRO, SAS Institute - zestaw edukacyjny, Statsoft STATISTICA, StatPoint Statgraphics Centurion. 
+**Systemy operacyjne**
+DreamSpark zapewnia dostęp do systemów operacyjnych Windows od wersji Windows 7 do najnowszego Windows 10.
+DreamSpark gwarantuje Ci także licencje Windows 10 EDU. Windows 10 Enterprise i Education są wyposażone we wszystkie dostępne funkcje.
+
+**Narzędzia programisty**
+Dzięki DreamSpark masz także dostąp do narzędzi dla deweloperów. Znajdziesz tu np. Visual Studio lub Kinect for Windows SDK. 
+
+Program Visual Studio 2015 to rozbudowane, zintegrowane środowisko programistyczne przeznaczone do tworzenia niesamowitych aplikacji dla systemów Windows, Android i iOS, a także nowoczesnych aplikacji sieci Web i usług w chmurze. Z Kinect for Windows SDK możesz tworzyć własne aplikacje przy użyciu kamery Kinect.
+
+**Serwery**
+W sekcji „Servers” znajdziesz wszystkie możliwe oprogramowania do stworzenia profesjonalnej infrastruktury IT.
+Są tu takie systemy jak Windows Server – system operacyjna dla serwerów, SQL Server – system zarzadzania bazą danych, Exchange Server – system pocztowy, System Center – zestaw narzędzi, służący do zarzadzania fizycznymi i wirtualnymi systemami albo nawet BizTalk Server – oprogramowanie firmy Microsoft, które zapewnia integracje miedzy procesami biznesowymi w ramach przedsiębiorstwa lub miedzy firmami.
+
+**Aplikacje**
+W „Applications” masz dostęp do dodatkowych narzędzi typu Project – oprogramowanie do zarzadzania projektami, Visio – narzędzie do pracy z materiałami wizualnymi i diagramami (np. UML) lub Access – program do obsługi relacyjnych baz danych.
+
+**Darmowy dostęp do Windows Store**
+DreamSpark także zapewnia darmowy dostep do Microsoft Windows Store i Windows Phone Dev Center, dzięki temu możesz bez żadnych kosztów wstawiać swoje własne aplikacje do sklepu Microsoftu. Licencja ta stanowi wyjatek - dzięki niej można wrzucać stworzone aplikacje także w trybie płatnym.
+
+Naszy wydział ma także licencje na **Wolfram Mathematica** i **Maple** - szczegółowe instrukcje dostępne są na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) - trzeba chwilę poczekać aż admin zatwierdzi nasza licencję (zwykle max kilka dni).
+
+Sam Uniwersystet też posiada licencje - warto zapoznać się z aktualnie dostępnymi na [http://www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie) - nie wszystko jest jednak dostępne dla studentów. Najciekawsze, dostępne na ten moment dla Was są: Altap Salamander, Esri ArcGIS, Noldus EthoVision, National Instruments Labview, Mathcad, OriginLab Origin Pro, PS IMAGO PRO, SAS Institute - zestaw edukacyjny, Statsoft STATISTICA, StatPoint Statgraphics Centurion. Dawniej dostępne były też programy takie jak Corel czy Kaspersky - niestety, na ten moment licencje wygasły i nie wiadomo, czy będą przedłużane.
