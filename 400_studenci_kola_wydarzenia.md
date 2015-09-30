@@ -252,9 +252,9 @@ Z naszymi projektami chcemy także wygrywać różne konkursy (takie jak np. lma
 **Juniors** – Pamiętasz jak byłeś w gimnazjum, a następnie w szkole średniej? Szukałeś ciekawych kół naukowych… ale nigdzie ich nie było! Pomóż nam wspierać uczniów w rozwoju swoich pasji informatycznych. Dlaczego uważamy, że warto? Bo sami pamiętamy jak to było parę lat temu… Przyjdź poprowadź parę zajęć, pomóż nam tworzyć markę sekcji junior pod szyldem ImagineSchool. Dlaczego inna nazwa? By przekonać uczniów, że to właśnie dla nich prowadzimy zajęcia.
 
 Kontakt: 
-ImagineAcademy - [https://www.facebook.com/ImagineAcademyUJ](https://www.facebook.com/ImagineAcademyUJ)
-ImagineSchool - [https://www.facebook.com/Junior.UJ](https://www.facebook.com/Junior.UJ)
-Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
++ ImagineAcademy - [https://www.facebook.com/ImagineAcademyUJ](https://www.facebook.com/ImagineAcademyUJ)
++ ImagineSchool - [https://www.facebook.com/Junior.UJ](https://www.facebook.com/Junior.UJ)
++ Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
 
 
 \\newpage
