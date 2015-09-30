@@ -60,4 +60,8 @@ Bardzo przydatny bywa też **LaTeX**, opisany w poprzednim rozdziale.
 
 ## Darmowe oprogramowanie
 
-<TODO> Microsoft, [www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie)
+Na poczatku października na skrzynkę instytutową dostaniesz maila o dostępie do Dreamsparka - wystarczy wtedy aktywować konto, przejść na wskazany adres i można pobierać oprogramowanie Microsoftu - m.in. Micorosoft Windows (też Server), Visual Studio, SQL Server, część (niestety tę mniej interesującą) pakietu Office - Visio, Access, InfoPath, Ms Mathematics. Całe oprogramowanie jest darmowe jednak do celów niekomercyjnych (nie można na nim zarabiać). Wyjątek stanowi licencja dewelopera dla sklepów Windows i Windows Phone - dzięki niej można wrzucać stworzone aplikacje także w trybie płatnym.
+
+Naszy wydział ma także licencje na Wolfram Mathematica i Maple - szczegółowe instrukcje dostępne są na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) - trzeba chwilę poczekać aż admin zatwierdzi nasza licencję (zwykle max kilka dni).
+
+Sam Sniwersystet też posiada licencje - warto zapoznać się z aktualnie dostępnymi na [http://www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie) - nie wszystko jest jednak dostępne dla studentów. Najciekawsze, dostępne na ten moment dla Was są: Altap Salamander, Esri ArcGIS, Noldus EthoVision, National Instruments Labview, Mathcad, OriginLab Origin Pro, PS IMAGO PRO, SAS Institute - zestaw edukacyjny, Statsoft STATISTICA, StatPoint Statgraphics Centurion. 

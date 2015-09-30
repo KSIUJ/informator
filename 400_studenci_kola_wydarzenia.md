@@ -26,7 +26,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 <TODO> - dołożyć tu literkę KSI :D
 
-**KSI** ­- czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem **Koło Studentów Informatyki UJ** - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. Co więc robimy?
+**KSI (ξ)** ­- czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem **Koło Studentów Informatyki UJ** - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. Co więc robimy?
 
 #### Bierzemy udział w organizacji wydarzeń, takich jak:
 
@@ -234,6 +234,13 @@ Siedzibą BIT jest **sala 1160**.
 
 \\newpage
 
+### Koło Naukowe ImagineAcademy (grupa Microsoft .NET)
+
+#### O kole
+{TODO}
+
+\\newpage
+
 Wydziałowa Rada Samorządu Studentów (WRSS)
 ------------------------------------------
 
@@ -278,7 +285,7 @@ Więcej informacji: [www.liczby-komputery-zycie.pl](http://www.liczby-komputery-
 
 ### IT Academic Day (ITAD)
 
-jednodniowa konferencja odbywająca się w październiku (podczas tak zwanego “Pizza Week”), której głównym punktem programu jest wizyta pracowników Microsoft z ich głównej siedziby w Redmond – dzięki czemu istnieje możliwość rekrutacji na wakacyjne praktyki w USA. Organizują ją wspólnie grupy .NET na UJ oraz KSI.
+Jednodniowa konferencja odbywająca się w październiku (podczas tak zwanego “Pizza Week”), której głównym punktem programu jest wizyta pracowników Microsoft z ich głównej siedziby w Redmond – dzięki czemu istnieje możliwość rekrutacji na wakacyjne praktyki w USA. Organizują ją wspólnie grupy .NET na UJ oraz KSI.
 
 Poza ciekawymi wykładami – prelegentami zazwyczaj są pracownicy dużych firm IT – zapewniona jest darmowa pizza dla każdego głodnego studenta. ;)
 
@@ -313,7 +320,7 @@ Organizowany przez Koło Naukowe Matematyki Finansowej cykl spotkań z firmami -
 ...organizowane kolejno w marcu, maju i we wrześniu. Są to duże cykliczne wydarzenia, mające na celu promowanie naszego Wydziału lub nauki jako takiej. Studenci naszego Wydziału organizują warsztaty i pokazy oraz aktywnie pomagają jako wolontariusze. Przykładowo, na Festiwalu Nauki co rok w gronie kół naukowych przejmujemy władzę w namiocie naszego Wydziału na krakowskim Rynku i chwalimy się tym, czym się zajmujemy.
 
 
-### spotkania Dalek @ NKR
+### Spotkania Dalek @ NKR
 
 Interesujesz sie tematyką sztucznej inteligencji, machine learningu czy analizy danych, a nie wiesz jak zacząć? DALEK to grupa działająca przy Naukowym Kole Robotyki i Sztucznej Inteligencji. Spotykamy się co tydzień aby pracować wspólnie nad kursami online, tworzyć otwarte oprogramowanie machine learning i pisać publikacje, m.in. stworzyliśmy pakiet GMUM.r [http://r.gmum.net](http://r.gmum.net), a w sierpniu prezentowaliśmy wyniki wspólnie z grupą GMUM na ECML w Porto, jednej z największych konferencji uczenia maszynowego. Zapraszamy!
 
