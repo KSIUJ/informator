@@ -16,7 +16,7 @@ Studenci studiów stacjonarnych na naszej uczelni mogą ubiegać się o:
 
 Studenci studiów niestacjonarnych mogą ubiegać się jedynie o stypendium socjalne bez żadnych zwiększeń.
 
-_Termin składania wniosków na semestr zimowy danego roku akademickiego upływa 30 września, a na semestr letni 31 stycznia._ Stypendium socjalne w semestrze zimowym przyznawane jest na okres 5 miesięcy, a w semestrze letnim na okres 4 miesięcy. Studenci ubiegający się o stypendium socjalne wnioskują o nie co semestr, stypendium to nie jest przyznawane na cały rok akademicki.
+__Termin składania wniosków na semestr zimowy danego roku akademickiego upływa 30 września, a na semestr letni 31 stycznia.__ Stypendium socjalne w semestrze zimowym przyznawane jest na okres 5 miesięcy, a w semestrze letnim na okres 4 miesięcy. Studenci ubiegający się o stypendium socjalne wnioskują o nie co semestr, stypendium to nie jest przyznawane na cały rok akademicki.
 
 Aby uzyskać to świadczenie należy: 
 
@@ -39,7 +39,7 @@ Aby uzyskać do świadczenie należy:
 
 Stypendium rektora przysługuje studentowi, który w poprzednim roku akademickim uzyskał wysoką średnią ocen lub posiada osiągnięcia naukowe, artystyczne bądź sportowe. Stypendium to może otrzymać nie więcej niż 10% studentów na każdym kierunku, którzy otrzymali najwięcej punktów obliczanych według punktacji zawartej w Regulaminie. Wykaz osiągnięć, które będą punktowane przy ocenie wniosku oraz listę wymaganych dokumentów znajdziecie na stronie Samorządu Studentów w zakładce UKE.
 
-_Student ubiegający się o stypendium rektora dla najlepszych studentów musi obliczyć swoją średnią ważoną ocen._ Średnią ważoną ocen weryfikuje się w sekretariacie danej jednostki organizacyjnej.
+__Student ubiegający się o stypendium rektora dla najlepszych studentów musi obliczyć swoją średnią ważoną ocen.__ Średnią ważoną ocen weryfikuje się w sekretariacie danej jednostki organizacyjnej.
 
 Przy ocenie wniosków brane są pod uwagę osiągnięcia i średnia ocen uzyskane w poprzednim roku akademickim. W przypadku studentów I roku II stopnia będą brane pod uwagę osiągnięcia uzyskane podczas ostatniego roku pierwszego stopnia, o ile student rozpoczął studia II stopnia w ciągu 12 miesięcy od ukończenia studiów I stopnia. Studenci, którzy ukończyli studia I stopnia na uczelni innej niż Uniwersytet Jagielloński obliczają średnią arytmetyczną swoich ocen oraz zobowiązani są do dostarczenia zaświadczenia o średniej ocen uzyskanej na III roku I stopnia, wystawionego przez Uczelnię, gdzie realizowali I stopień.
 
@@ -47,7 +47,7 @@ Stypendium rektora dla najlepszych studentów nie przysługuje studentom, którz
 
 O stypendium rektora dla najlepszych studentów mogą ubiegać się także studenci przyjęci na I rok studiów. Więcej informacji na ten temat można znaleźć tutaj - [http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf](http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf).
 
-_Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października._
+__Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października.__
 
 ### Zapomogi
 

@@ -6,11 +6,11 @@ Większość przedmiotów na naszym wydziale składa się z wykładu oraz ćwicz
 
 #### Przedmioty obowiązkowe, fakultatywne oraz specjalistyczne
 
-_Przedmioty obowiązkowe_ (zwane także obligatoryjnymi) to takie, które student musi zaliczyć w trakcie toku swoich studiów bez względu na wybraną specjalność. Należą do nich także na przykład wychowanie fizyczne, czy kurs BHP.
+__Przedmioty obowiązkowe__ (zwane także obligatoryjnymi) to takie, które student musi zaliczyć w trakcie toku swoich studiów bez względu na wybraną specjalność. Należą do nich także na przykład wychowanie fizyczne, czy kurs BHP.
 
-_Przedmioty fakultatywne_ są to dowolne kursy oferowane dla studentów, ale nie będące przedmiotami obowiązkowymi. Student może dobrać przedmioty dodatkowe, nieobjęte programem studiów lub przeznaczone dla studentów wyższych lat. Należy natomiast pamiętać, iż każdy zadeklarowany przez nas przedmiot musi zostać zaliczony.
+__Przedmioty fakultatywne__ są to dowolne kursy oferowane dla studentów, ale nie będące przedmiotami obowiązkowymi. Student może dobrać przedmioty dodatkowe, nieobjęte programem studiów lub przeznaczone dla studentów wyższych lat. Należy natomiast pamiętać, iż każdy zadeklarowany przez nas przedmiot musi zostać zaliczony.
 
-_Przedmioty specjalistyczne_ mają związek z wybraną przez studenta specjalnością. Każda ze specjalności posiada swoją pulę przedmiotów, z których student ma obowiązek wybrać określoną ilość tych, które będzie realizował.
+__Przedmioty specjalistyczne__ mają związek z wybraną przez studenta specjalnością. Każda ze specjalności posiada swoją pulę przedmiotów, z których student ma obowiązek wybrać określoną ilość tych, które będzie realizował.
 
 #### Wychowanie fizyczne
 
@@ -41,7 +41,7 @@ Rejestracja na zajęcia lektoratowe także jest rejestracją “żetonową”. W
 
 #### Zaliczenia i egzaminy
 
-Większość przedmiotów na WMiI kończy się egzaminem. Student, _niezależnie od zaliczenia_, zostaje dopuszczony do egzaminu, o ile uczęszcza na ćwiczenia i lektoraty. To oznacza, że nie trzeba mieć zaliczonych ćwiczeń na ocenę co najmniej 3.0, aby podejść do egzaminu. Wystarczy pilnować sobie obecności na zajęciach. Prowadzący na początku semestru ustalają, ile można mieć nieusprawiedliwionych nieobecności. Każda nieobecność ponad dozwoloną liczbę sprawia, że nie możemy przystąpić do egzaminu.
+Większość przedmiotów na WMiI kończy się egzaminem. Student, __niezależnie od zaliczenia__, zostaje dopuszczony do egzaminu, o ile uczęszcza na ćwiczenia i lektoraty. To oznacza, że nie trzeba mieć zaliczonych ćwiczeń na ocenę co najmniej 3.0, aby podejść do egzaminu. Wystarczy pilnować sobie obecności na zajęciach. Prowadzący na początku semestru ustalają, ile można mieć nieusprawiedliwionych nieobecności. Każda nieobecność ponad dozwoloną liczbę sprawia, że nie możemy przystąpić do egzaminu.
 
 ##### Termin zero
 
@@ -55,7 +55,7 @@ Co jeśli nie powiedzie się zdanie egzaminu w pierwszym terminie?
 
 ##### Termin drugi
 
-Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko _dwa terminy egzaminów_. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału: <todo> **czy da się tutaj zrobić linka??? **<todo> Niektóre prawa i obowiązki studenta - tam możecie znaleźć zapasowe koła ratunkowe.
+Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko __dwa terminy egzaminów__. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału:  [Niektóre prawa i obowiązki studenta](#Wybrane-prawa-i-obowiązki-studenta) - tam możecie znaleźć zapasowe koła ratunkowe.
 
 ##### Co można przynieść na egzamin?
 
@@ -71,7 +71,7 @@ Kolokwia mogą być różne. Nazywamy nimi kartkówki, które zdarza się nam pi
 
 ### Legitymacja studencka
 
-Elektroniczna legitymacja identyfikuje studenta. Jest ważna przez cały okres studiów, lecz traci swoją wartość, jeśli zostaniemy zawieszeni lub skreśleni z listy studentów. Ważność legitymacji potwierdza się co semestr - ­ na początku każdego semestru należy zanieść ją do sekretariatu dydaktycznego, gdzie zostanie przedłużona jej ważność w wewnętrznym układzie elektronicznym oraz poprzez naklejenie specjalnego hologramu. Na ogół po odbiór legitymacji czeka się kilka godzin, czasem można ją odebrać dopiero następnego dnia. 
+Elektroniczna legitymacja identyfikuje studenta. Jest ważna przez cały okres studiów, lecz traci swoją wartość, jeśli zostaniemy zawieszeni lub skreśleni z listy studentów. Ważność legitymacji potwierdza się co semestr - na początku każdego semestru należy zanieść ją do sekretariatu dydaktycznego, gdzie zostanie przedłużona jej ważność w wewnętrznym układzie elektronicznym oraz poprzez naklejenie specjalnego hologramu. Na ogół po odbiór legitymacji czeka się kilka godzin, czasem można ją odebrać dopiero następnego dnia. 
 
 Legitymacja jest także bardzo przydatnym nośnikiem biletów okresowych i poświadczeniem przysługujących studentom zniżek. ELS uprawnia jej posiadacza do szeregu zniżek. W szczególności są to zniżki ustawowe na transport:
 
@@ -81,4 +81,4 @@ Legitymacja jest także bardzo przydatnym nośnikiem biletów okresowych i pośw
 
 Ponadto wszelkie zniżki w kinach, teatrach, klubach, na koncerty i inne są uznawane na podstawie legitymacji studenckiej. W Krakowie legitymacja może także pełnić rolę Krakowskiej Karty Miejskiej. KKM służy przede wszystkim jako nośnik biletów okresowych komunikacji publicznej. Bilet okresowy, którego nośnikiem jest Krakowska Karta Miejska, jest biletem imiennym. W celu dokonania pierwszego zakupu konieczne jest posiadanie dokumentu potwierdzającego tożsamość (w przypadku zakupu biletu okresowego ulgowego konieczne jest również posiadanie ważnego dokumentu uprawniającego do zniżki). Pierwszy bilet można kupić tylko w Punkcie Sprzedaży Biletów. Każdy kolejny bilet można zakupić w samoobsługowych automatach znajdujących się na wielu przystankach w Krakowie. Więcej informacji dotyczących KKM znajdziecie na stronie [http://www.kkm.krakow.pl/](http://www.kkm.krakow.pl/)
 
-_Legitymacja zachowuje ważność w semestrze letnim i zimowym odpowiednio do 31 marca i 31 października_, dlatego aby posiadać cały czas poświadczenie zniżki, należy zadbać o przedłużenie ważności na kilka, kilkanaście dni przed tym terminem. W razie zgubienia legitymacji należy udać się do swojego sekretariatu dydaktycznego w celu wyrobienia nowej.
+__Legitymacja zachowuje ważność w semestrze letnim i zimowym odpowiednio do 31 marca i 31 października__, dlatego aby posiadać cały czas poświadczenie zniżki, należy zadbać o przedłużenie ważności na kilka, kilkanaście dni przed tym terminem. W razie zgubienia legitymacji należy udać się do swojego sekretariatu dydaktycznego w celu wyrobienia nowej.
