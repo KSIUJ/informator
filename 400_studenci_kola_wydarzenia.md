@@ -1,6 +1,6 @@
 # Studenci
 
-\\newpage
+
 
 ## Koła naukowe
 
@@ -20,7 +20,7 @@ W Kole prężnie działa sfera towarzyska. Codziennie spotykamy się w naszym lo
 
 Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008 na I piętrze**. Można się z nami również kontaktować przez maila kmsuj7@gmail.com. Więcej informacji o nas można znaleźć na **[www.kmsuj.im.uj.edu.pl](www.kmsuj.im.uj.edu.pl)** oraz na **[www.facebook.com/kmsuj](www.facebook.com/kmsuj)**.
 
-\\newpage
+
 
 ### Koło Studentów Informatyki UJ (KSI)
 
@@ -60,7 +60,7 @@ Jednak nasze Koło to przede wszystkim Wy. Ci, którzy w przerwie między jednym
 
 Chcesz dowiedzieć się o nas czegoś więcej? Zajrzyj na nasz fanpage (**[fb.com/ksi.uj](fb.com/ksi.uj)**), stronę WWW (**[www.ksi.ii.uj.edu.pl](www.ksi.ii.uj.edu.pl)**) lub po prostu zajrzyj do sali nr **1173** na pierwszym piętrze! Pamiętaj: nie musisz być od razu członkiem Koła, aby przyjść i po prostu posiedzieć! Zapraszamy!
 
-\\newpage
+
 
 ### Koło Naukowe Matematyki Finansowej UJ (KNMF)
 
@@ -78,7 +78,7 @@ Jeśli chcielibyście dowiedzieć się więcej na temat naszego Koła, sprawdźc
 
 Jeśli chcielibyście do nas dołączyć, koniecznie napiszcie na knmfuj@gmail.com i umówcie się z nami na spotkanie! Nie czekajcie zbyt długo - najbardziej cieszymy się z najmłodszych studentów!
 
-\\newpage
+
 
 ### Naukowe Koło Robotyki i Sztucznej Inteligencji UJ (NKR)
 
@@ -144,7 +144,7 @@ Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłan
 + na naszej stronie internetowej: [http://nkr.matinf.uj.edu.pl](http://nkr.matinf.uj.edu.pl)
 + na naszym profilu na Facebooku: [https://www.facebook.com/nkruj](https://www.facebook.com/nkruj)
 
-\\newpage
+
 
 ### Koło Naukowe Wolnego Oprogramowania "Ślimak"
 
@@ -185,7 +185,7 @@ Nie jesteś pewien? Po więcej informacji zapraszamy na nasze strony internetowe
 Jeśli chcesz być na bieżąco, zachęcamy do śledzenia naszego bloga [https://slimakuj.wordpress.com](https://slimakuj.wordpress.com),
 na którym pojawiają się ważniejsze ogłoszenia (w tym terminy warsztatów) oraz do obserwowania tablicy ogłoszeń na wydziale :-)
 
-\\newpage
+
 
 ### Koło Naukowe Bioinformatyki BIT
 
@@ -230,7 +230,7 @@ Siedzibą BIT jest **sala 1160**.
 + [www.facebook.com/koloBITUJ](http://www.facebook.com/koloBITUJ)
 + [groups.google.com/d/forum/kolobioinformatykiuj](http://groups.google.com/d/forum/kolobioinformatykiuj)
 
-\\newpage
+
 
 ### Koło Naukowe ImagineAcademy (grupa Microsoft .NET)
 
@@ -257,7 +257,7 @@ Kontakt:
 + Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
 
 
-\\newpage
+
 
 Wydziałowa Rada Samorządu Studentów (WRSS)
 ------------------------------------------
@@ -266,7 +266,7 @@ Jak **Ola** napisze to **będzie**, a jak **nie** to **nie**.
 
 <TODO>
 
-\\newpage
+
 
 Wydarzenia
 ----------
