@@ -74,7 +74,7 @@ Wnioski o przyznanie miejsca w domu studenckim, o uzyskanie świadczeń takich j
 
 Dostępne do wypełnienia wnioski pojawiają się w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA razem z terminami, w których można je wypełniać.
 
-Więcej informacji na temat wniosków znajdziecie w rozdziale <todo> **czy da się tu wstawić link??** <todo> Pomoc Materialna.
+Więcej informacji na temat wniosków znajdziecie w rozdziale  [Pomoc Materialna](#Pomoc-materialna).
 
 ### Rankingi
 
@@ -100,7 +100,7 @@ Konta, do których masz dostęp można podzielić na uniwersyteckie (ogólnoucze
 
 Zwane jest głównie "logowaniem przez USOSa". Początkowo login do tego konta ma postać **pesel@usosweb.uj.edu.pl**, zaś hasłem jest twoje hasło z systemu ERK. Login ten należy zmienić do postaci **imie.nazwisko@student.uj.edu.pl** (lub podobnej jeżeli w systemie jest juz ktos o takim loginie) na USOSwebie w zakładce Moduły Dodatkowe-&gt;Aktywacja Poczty. 
 
-Konto to da Ci dostęp do samego USOSweba, systemu rejestracji żetonowych, <todo> **Czy da się tutaj wstawić link??** <todo> Pegaza (o którym przeczytać możesz poniżej) oraz poczty uniwersyteckiej  połączonej z nieco ograniczoną wersją Office 365  ([https://login.microsoftonline.com/](https://login.microsoftonline.com/) - "konto organizacyjne" -  dzięki czemu dostępny jest dysk sieciowy (1TB)  i chmurowa wersja pakietu Office). Te dane posłużą Ci także do zalogowania się do WiFi uczelnianego, w tym sieci Eduroam oraz extranetu w którym można przeglądać bazy naukowe.
+Konto to da Ci dostęp do samego USOSweba, systemu rejestracji żetonowych, Pegaza (o którym przeczytać możesz poniżej) oraz poczty uniwersyteckiej  połączonej z nieco ograniczoną wersją Office 365  ([https://login.microsoftonline.com/](https://login.microsoftonline.com/) - "konto organizacyjne" -  dzięki czemu dostępny jest dysk sieciowy (1TB)  i chmurowa wersja pakietu Office). Te dane posłużą Ci także do zalogowania się do WiFi uczelnianego, w tym sieci Eduroam oraz extranetu w którym można przeglądać bazy naukowe.
 
 Problemami związanymi z tym kontem zajmuje się SUSS - Sekcja Usług Sieciowo-Serwerowych - [http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow](http://www.suss.uj.edu.pl/informacje-dla-uzytkownikow)
 
@@ -155,7 +155,6 @@ Siecią właściwą jest **UJ-edu**&lt;numerek&gt; - wymagają one uwierzytelnia
 
 + **Android** i **Linuksy**, które potrafią się łączyć z domowym routerem nie będą miały problemu. Wystarczy w ustawieniach sieci podać dane logowania z USOSa.
 + **Windows** odpowiednie sterowniki może mieć już zainstalowane razem z kartą bezprzewodową (głównie intelowskie). 
-+ **iOS** <TODO> @Adam?
 + **Windows Phone** nie wspiera i niestety nie będzie wspierał tych protokołów, ponieważ są przestarzałe :(
 
 Jeśli nie działa - poradnik jest na [http://ksi.ii.uj.edu.pl/informator/wifi](http://ksi.ii.uj.edu.pl/informator/wifi). Pamiętaj również, że w razie problemów możesz zajrzeć do siedziby KSI, gdzie zawsze znajdzie się ktoś kto skonfigurował to co najmniej raz. Większość kół naukowych na naszym wydziale posiada również własne routery, z których możesz korzystać będąc ich członkiem.
@@ -204,8 +203,5 @@ Quota na dysku sieciowym wynosi zaledwie 100MB (współdzielone z kontem pocztow
 
 Pamiętaj, że dzięki możliwości zapisaniu plików na swoim profilu dostępnym z każdego miejsca z internetem (poprzez ssh - patrz opis kont), pendrive nie jest ci potrzebny - co nie zmienia faktu, że zalecamy robić backupy ;)
 
-### Własny serwer w KSI
-
-*Chyba jest o tym coś w sekcji o samym KSI, jak nie - dopiszę* &lt;TODO&gt; <todo>
 
 
