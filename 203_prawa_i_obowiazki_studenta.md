@@ -8,9 +8,9 @@ Jak czytamy w regulaminie:
 
 >Program studiów określa w szczególności sposób realizacji założonych efektów kształcenia w  postaci  treści  kształcenia  na  danym  kierunku  lub  specjalności,  formę  realizacji poszczególnych przedmiotów, liczbę punktów ECTS związanych z realizacją przedmiotów, warunki  ukończenia  studiów  i  uzyskania  dyplomu  oraz  liczbę  punktów  i  inne  wymogi dopuszczenia do egzaminu dyplomowego (licencjackiego lub magisterskiego), jeżeli jest on przewidziany w tym programie.
 
-Dany program studiów określa listę przedmiotów obowiązkowych, które student musi zrealizować, aby zaliczyć dany rok lub ukończyć studia. Ponadto na naszym Wydziale studenci mają obowiązek odbycia praktyk studenckich _przed przystąpieniem do egzaminu licencjackiego_ (obowiązek zaliczenia praktyk nie dotyczy studentów matematyki).
+Dany program studiów określa listę przedmiotów obowiązkowych, które student musi zrealizować, aby zaliczyć dany rok lub ukończyć studia. Ponadto na naszym Wydziale studenci mają obowiązek odbycia praktyk studenckich __przed przystąpieniem do egzaminu licencjackiego__ (obowiązek zaliczenia praktyk nie dotyczy studentów matematyki).
 
-Do obowiązków studenta należy także złożenie deklaracji wyboru przedmiotównrealizowanych w danym roku akademickim i zadeklarowanie w niej co najmniej 60 punktów ECTS. Wyjątkiem od tej reguły może być posiadanie tak zwanej nadwyżki punktowej. O nadwyżce punktowej mówimy wtedy, gdy student zdobył w poprzednim roku więcej niż 60 punktów ECTS i punkty te odnosiły się do przedmiotów objętych programem studiów. Nadwyżka zostaje wtedy automatycznie przeniesiona na poczet kolejnego roku, a następnie dalszych lat studiów na tym samym stopniu. W praktyce deklarację przedmiotów składa się co semestr ­ należy ją wydrukować z systemu USOSweb, podpisać i zanieść do odpowiedniego sekretariatu swojej jednostki. Student jest zobowiązany do tego, aby zaliczyć wszystkie zadeklarowane przedmioty przed ukończeniem studiów (na danym stopniu). Jeśli w trakcie roku akademickiego zmieniony zostaje harmonogram prowadzenia zajęć, student ma prawo zrezygnować z zadeklarowanego przedmiotu i ma na to 7 dni od zaistnienia zdarzenia.
+Do obowiązków studenta należy także złożenie deklaracji wyboru przedmiotów realizowanych w danym roku akademickim i zadeklarowanie w niej co najmniej 60 punktów ECTS. Wyjątkiem od tej reguły może być posiadanie tak zwanej nadwyżki punktowej. O nadwyżce punktowej mówimy wtedy, gdy student zdobył w poprzednim roku więcej niż 60 punktów ECTS i punkty te odnosiły się do przedmiotów objętych programem studiów. Nadwyżka zostaje wtedy automatycznie przeniesiona na poczet kolejnego roku, a następnie dalszych lat studiów na tym samym stopniu. W praktyce deklarację przedmiotów składa się co semestr ­ należy ją wydrukować z systemu USOSweb, podpisać i zanieść do odpowiedniego sekretariatu swojej jednostki. Student jest zobowiązany do tego, aby zaliczyć wszystkie zadeklarowane przedmioty przed ukończeniem studiów (na danym stopniu). Jeśli w trakcie roku akademickiego zmieniony zostaje harmonogram prowadzenia zajęć, student ma prawo zrezygnować z zadeklarowanego przedmiotu i ma na to 7 dni od zaistnienia zdarzenia.
 
 ### Wpis warunkowy
 
@@ -30,11 +30,15 @@ Są takie sytuacje, które całkowicie uniemożliwiają studentowi obecność na
 
 ### Powtarzanie roku
 
-Przede wszystkim nie można powtarzać pierwszego roku studiów ­ ani pierwszego stopnia, ani drugiego. Powtarzanie roku jest kolejnym z kół ratunkowych, które może uratować studenta z opresji. Jest dostępne raz w trakcie studiów licencjackich i raz w trakcie studiów magisterskich. Jeśli student  nie  uzyskał  wymaganej  liczby  punktów  ECTS  lub  nie  spełnia  innych  warunków zaliczenia  danego  roku  studiów  zgodnie  z  programem  studiów,  może  złożyć  wniosek  o powtarzanie roku. Wniosek taki należy złożyć przed rozpoczęciem roku akademickiego, na który  chce  uzyskać  wpis.  Zwyczajowo  o  terminy  składania  tego  wniosku  należy  pytać  w sekretariacie dydaktycznym. Należy  pamiętać,  że  student  ma prawo do powtarzania roku i  jeśli  tylko  będzie  spełniał powyższe warunki, to będzie mógł z niego skorzystać.
+Przede wszystkim nie można powtarzać pierwszego roku studiów ani pierwszego stopnia, ani drugiego. Powtarzanie roku jest kolejnym z kół ratunkowych, które może uratować studenta z opresji. Jest dostępne raz w trakcie studiów licencjackich i raz w trakcie studiów magisterskich. Jeśli student  nie  uzyskał  wymaganej  liczby  punktów  ECTS  lub  nie  spełnia  innych  warunków zaliczenia  danego  roku  studiów  zgodnie  z  programem  studiów,  może  złożyć  wniosek  o powtarzanie roku. Wniosek taki należy złożyć przed rozpoczęciem roku akademickiego, na który  chce  uzyskać  wpis.  Zwyczajowo  o  terminy  składania  tego  wniosku  należy  pytać  w sekretariacie dydaktycznym. Należy  pamiętać,  że  student  ma prawo do powtarzania roku i  jeśli  tylko  będzie  spełniał powyższe warunki, to będzie mógł z niego skorzystać.
 
 ### Nadzwyczajne powtarzanie roku
 
 W szczególnie uzasadnionych przypadkach student może wnioskować o ponowne powtarzanie tego samego lub innego roku studiów. Ta możliwość jest dostępna tylko raz w trakcie toku studiów.
+
+### Nadzwyczajne powtarzanie przedmiotu
+
+Przez nadzwyczajne powtarzanie roku rozumie się sytuację, gdy student w trakcie tego samego roku studiów w trakcie tego samego roku akademickiego powtarza ten sam przedmiot, z zachowaniem prawa do egzaminu w pierwszym i poprawkowym terminie. Skorzystanie z tej opcji wymaga uzyskania zgody dziekana i dopuszczalne jest wyłącznie w szczególnie uzasadnionych, wyjątkowych sytuacjach tylko raz w ramach toku studiów. Nazdzwyczajne powtarzanie przedmiotu jest bezpłatne.
 
 ### Praca dyplomowa
 
@@ -66,6 +70,4 @@ Student, który zaliczył pierwszy rok studiów ma prawo do skorzystania z urlop
 
 Na wniosek studenta dziekan może udzielić urlopu dziekańskiego ze względu na ważne okoliczności, które uniemożliwiają studentowi udział w zajęciach dydaktycznych, w szczególności wynikające ze stanu zdrowia, niepełnosprawności lub też związane z urodzeniem i wychowywaniem dziecka. Łączny wymiar urlopu dziekańskiego nie może być dłuższy niż 4 semestry. Student może ubiegać się o przyznanie urlopu dziekańskiego bezpośrednio po zaistnieniu przyczyny. Udzielenie urlopu dziekańskiego za okres miniony lub w trakcie trwania sesji egzaminacyjnej jest niemożliwe, chyba że przyczyna uzasadniająca udzielenie urlopu powstała wcześniej. W okresie urlopu student może, za zgodą dziekana i na warunkach przez niego określonych, brać udział w zajęciach oraz zaliczać  przedmioty objęte programem studiów.
 
-### Nadzwyczajne powtarzanie przedmiotu
 
-<TODO>
