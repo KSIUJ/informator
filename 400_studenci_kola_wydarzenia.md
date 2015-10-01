@@ -257,14 +257,6 @@ Kontakt:
 + Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
 
 
-\\newpage
-
-Wydziałowa Rada Samorządu Studentów (WRSS)
-------------------------------------------
-
-Jak **Ola** napisze to **będzie**, a jak **nie** to **nie**.
-
-<TODO>
 
 \\newpage
 
