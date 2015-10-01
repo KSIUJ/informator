@@ -259,15 +259,6 @@ Kontakt:
 
 
 
-Wydziałowa Rada Samorządu Studentów (WRSS)
-------------------------------------------
-
-Jak **Ola** napisze to **będzie**, a jak **nie** to **nie**.
-
-<TODO>
-
-
-
 Wydarzenia
 ----------
 
