@@ -1,3 +1,5 @@
 *.sublime-workspace
-*.epub
-*.mobi
+informator.epub
+informator.mobi
+informator.html
+informator.pdf

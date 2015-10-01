@@ -1,17 +1,72 @@
 ---
 title:  'Informator studenta WMiI UJ'
-creator:
-- role: author
-  name: Piotr Maliszewski
-  text: KSI
-creator:
-- role: editor
-  name: Adam Piekarczyk
-  text: KSI
-language: pl-PL
 tags: [WMiI, UJ, informator, poradnik]
-abstract: |
-  This is the abstract.
-
-  It consists of two paragraphs.
+#
+# people
+#
+coordinator:
+- name: Aleksandra Boryka
+  affilation: WRSS
+- name: Piotr Maliszewski
+  affilation: KSI
+programmer:
+- name: Adam Piekarczyk
+  affilation: KSI
+- name: Daniel Skowroński
+  affilation: KSI
+organization:
+- name: WRSS
+  people:
+  - Aleksandra Boryka
+- name: KSI
+  people:
+  - Dominika Zając
+  - Piotr Maliszewski
+  - Daniel Skowroński
+- name: KMS
+  people:
+  - Anita Gilarska
+- name: KNMF
+  people:
+  - Damian Jelito
+- name: NKR
+  people:
+  - Agnieszka Pocha
+  - Stanisław Jastrzębski
+  - Igor Sieradzki
+- name: Ślimak
+  people:
+  - Cezary Drak
+  - Szymon Nieznański
+  - Jakub Olczyk
+  - Konrad Talik
+- name: BIT
+  people:
+  - Karolina Cibor
+  - Paulina Kania
+- name: ImagineAcademy
+  people:
+  - Fabian Kapuścik
+  - Daniel Skowroński
+firsted:
+- Michalina Hansdorfer
+- Michał Wszołek
+- Arkadiusz Czekajski
+- Paulina Gajda
+- Wojciech Jamrozy
+- Michał Kawiecki
+- Alan Klimowski
+- Agnieszka Pocha
+- Piotr Rytko
+- Julia Waloszek
+- Martyna Wilk
+- Michał Wnukowski
+#
+# technical data
+#
+lang: polish
+papersize: a4paper
+geometry: margin=2cm
+author-meta: 'Koło Studentów Informatyki UJ'
+title-meta: 'Informator studenta WMiI UJ'
 ...
