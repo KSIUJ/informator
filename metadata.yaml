@@ -65,6 +65,7 @@ firsted:
 # technical data
 #
 lang: polish
+language: pl-PL
 papersize: a4paper
 geometry: margin=2cm
 author-meta: 'Koło Studentów Informatyki UJ'
