@@ -98,7 +98,7 @@ Konta, do których masz dostęp można podzielić na uniwersyteckie (ogólnoucze
 
 ### Konto ogólnouczelniane
 
-Zwane jest głównie "logowaniem przez USOSa". Początkowo login do tego konta ma postać **pesel@usosweb.uj.edu.pl**, zaś hasłem jest twoje hasło z systemu ERK. Login ten należy zmienić do postaci **imie.nazwisko@student.uj.edu.pl** (lub podobnej jeżeli w systemie jest juz ktos o takim loginie) na USOSwebie w zakładce Moduły Dodatkowe-&gt;Aktywacja Poczty. 
+Zwane jest głównie "logowaniem przez USOSa". Początkowo login do tego konta ma postać pesel@usosweb.uj.edu.pl, zaś hasłem jest twoje hasło z systemu ERK. Login ten należy zmienić do postaci imie.nazwisko@student.uj.edu.pl (lub podobnej jeżeli w systemie jest juz ktos o takim loginie) na USOSwebie w zakładce Moduły Dodatkowe-&gt;Aktywacja Poczty. 
 
 Konto to da Ci dostęp do samego USOSweba, systemu rejestracji żetonowych, Pegaza (o którym przeczytać możesz poniżej) oraz poczty uniwersyteckiej  połączonej z nieco ograniczoną wersją Office 365  ([https://login.microsoftonline.com/](https://login.microsoftonline.com/) - "konto organizacyjne" -  dzięki czemu dostępny jest dysk sieciowy (1TB)  i chmurowa wersja pakietu Office). Te dane posłużą Ci także do zalogowania się do WiFi uczelnianego, w tym sieci Eduroam oraz extranetu w którym można przeglądać bazy naukowe.
 
