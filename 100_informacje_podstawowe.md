@@ -35,6 +35,9 @@ dr Jerzy Szczepański
 __Dyrektor__
 dr hab. inż. Marek Skomorowski
 
+__Zastępca Dyrektora ds. dydaktycznych__
+dr Adam Roman
+
 ### Zespół Katedr i Zakładów Informatyki Matematycznej
 
 __Kierownik__
