@@ -36,7 +36,7 @@ __Dyrektor__
 dr hab. inż. Marek Skomorowski
 
 __Zastępca Dyrektora ds. dydaktycznych__
-dr Adam Roman
+dr Sławomir Bakalarski
 
 ### Zespół Katedr i Zakładów Informatyki Matematycznej
 
