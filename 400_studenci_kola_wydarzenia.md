@@ -268,7 +268,7 @@ Poza zwyczajnym studiowaniem, studentom zdarza się robić inne ciekawe rzeczy. 
 
 #### Studencki Festiwal Informatyczny 
 
-największa studencka konferencja IT w Polsce, organizowana od 2005 roku. Odbywa się zazwyczaj w połowie marca. Organizują ją cztery krakowskie koła naukowe – poza Kołem Studentów Informatyki UJ są to: Koło Naukowe BIT AGH, Koło Naukowe Informatyki UEK i Koło Naukowe Informatyków PK.
+Największa studencka konferencja IT w Polsce, organizowana od 2005 roku. Odbywa się zazwyczaj w połowie marca. Organizują ją cztery krakowskie koła naukowe – poza Kołem Studentów Informatyki UJ są to: Koło Naukowe BIT AGH, Koło Naukowe Informatyki UEK i Koło Naukowe Informatyków PK.
 
 Naszymi prelegentami byli m.in. Richard Stallman (twórca ruchu wolnego oprogramowania), Kevin Warwick („człowiek-cyborg”), Hakon Wium Lie (twórca CSS), Roman Kluska (założyciel OPTIMUSa) czy też Piotr Konieczny (redaktor naczelny Niebezpiecznik.pl). Poza wykładami, odbywają się też warsztaty prowadzone przez praktyków z firm czy kół naukowych.
 
@@ -284,7 +284,7 @@ Więcej informacji: [http://kmsuj.im.uj.edu.pl/warsztaty/](http://kmsuj.im.uj.ed
 
 #### Liczby Komputery Życie
 
-Jest to unikalne na skalę kraju wydarzeniem bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Naukowe Wolnego Oprogramowania Slimak, Koło Neuronaukowców NEURONUS.
+Jest to unikalne na skalę kraju wydarzenie bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Studentów Informatyki, Koło Naukowe Wolnego Oprogramowania Slimak, Koło Neuronaukowców NEURONUS.
 
 W poprzednich latach panele konferencji były poświęcone tematyce: bioinformatyki, biomatematyki, modelowania matematycznego i komputerowego, biologii systemów, biologii molekularnej, genominiki, neuroinformatyki, czy projektowania leków.
 
@@ -316,7 +316,7 @@ Więcej informacji: [https://www.facebook.com/Krakrobot](https://www.facebook.co
 
 #### Facebook tech talk, Google tech talk i inne
 
-organizowane głównie przez KSI spotkania z firmami IT w sprawdzonej formule: techniczny wykład prowadzony przez pracownika firmy, trochę marketingu i rekrutacji (często z możliwością złożenia CV na miejscu), a na koniec... pizza party. ;) Warto się pojawić, żeby przekonać się o dwóch rzeczach. Po pierwsze - w branży IT to firmy szukają nas, a nie odwrotnie. Po drugie - wielkie marki takie jak Google są na wyciągnięcie ręki dla każdego z Was!
+organizowane głównie przez KSI spotkania z firmami IT w sprawdzonej formule: techniczny wykład prowadzony przez pracownika firmy, trochę marketingu i rekrutacji (często z możliwością złożenia CV na miejscu), a na koniec... pizza party ;) Warto się pojawić, żeby przekonać się o dwóch rzeczach. Po pierwsze - w branży IT to firmy szukają nas, a nie odwrotnie. Po drugie - wielkie marki takie jak Google są na wyciągnięcie ręki dla każdego z Was!
 
 Facebook i Google odwiedzają nas zazwyczaj w październiku.
 
@@ -326,7 +326,7 @@ Organizowany przez Koło Naukowe Matematyki Finansowej cykl spotkań z firmami -
 
 #### Dzień Wydziału, Festiwal Nauki, Małopolska Noc Naukowców...
 
-...organizowane kolejno w marcu, maju i we wrześniu. Są to duże cykliczne wydarzenia, mające na celu promowanie naszego Wydziału lub nauki jako takiej. Studenci naszego Wydziału organizują warsztaty i pokazy oraz aktywnie pomagają jako wolontariusze. Przykładowo, na Festiwalu Nauki co rok w gronie kół naukowych przejmujemy władzę w namiocie naszego Wydziału na krakowskim Rynku i chwalimy się tym, czym się zajmujemy.
+...organizowane kolejno w marcu, maju i we wrześniu. Są to duże cykliczne wydarzenia, mające na celu promowanie naszego Wydziału oraz nauki. Studenci naszego Wydziału organizują warsztaty i pokazy oraz aktywnie pomagają jako wolontariusze. Przykładowo, na Festiwalu Nauki co rok w gronie kół naukowych przejmujemy władzę w namiocie naszego Wydziału na krakowskim Rynku i chwalimy się tym, czym się zajmujemy.
 
 
 #### Spotkania Dalek @ NKR
