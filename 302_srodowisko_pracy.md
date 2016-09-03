@@ -56,7 +56,7 @@ Nieocenioną pomoc w zgłębianiu zagadnień analizy i algebry stanowi **Wolfram
 
 Studenci WMiI mogą bezpłatnie uzyskać licencję na program Wolfram Mathematica. Szczegóły dostępne są na stronie: [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/)
 
-Bardzo przydatny bywa też **LaTeX**, opisany w poprzednim rozdziale.
+Bardzo przydatny bywa też **LaTeX**, opisany w poprzednim rozdziale. Nawet niechętni programowaniu matematycy cenią język **R**. Wykorzystywany jest podczas zajęć ze statystyki, ekonometrii i przedmiotów finansowych.
 
 ## Darmowe oprogramowanie - Microsoft i inne
 
@@ -83,6 +83,6 @@ W „Applications” masz dostęp do dodatkowych narzędzi typu Project – opro
 **Darmowy dostęp do Windows Store**
 DreamSpark także zapewnia darmowy dostep do Microsoft Windows Store i Windows Phone Dev Center, dzięki temu możesz bez żadnych kosztów wstawiać swoje własne aplikacje do sklepu Microsoftu. Licencja ta stanowi wyjatek - dzięki niej można wrzucać stworzone aplikacje także w trybie płatnym.
 
-Naszy wydział ma także licencje na **Wolfram Mathematica** i **Maple** - szczegółowe instrukcje dostępne są na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) - trzeba chwilę poczekać aż admin zatwierdzi nasza licencję (zwykle max kilka dni).
+Nasz wydział ma także licencje na **Wolfram Mathematica** i **Maple** - szczegółowe instrukcje dostępne są na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) - trzeba chwilę poczekać aż admin zatwierdzi nasza licencję (zwykle max kilka dni).
 
 Sam Uniwersystet też posiada licencje - warto zapoznać się z aktualnie dostępnymi na [http://www.dui.uj.edu.pl/oprogramowanie](http://www.dui.uj.edu.pl/oprogramowanie) - nie wszystko jest jednak dostępne dla studentów. Najciekawsze, dostępne na ten moment dla Was są: Altap Salamander, Esri ArcGIS, Noldus EthoVision, National Instruments Labview, Mathcad, OriginLab Origin Pro, PS IMAGO PRO, SAS Institute - zestaw edukacyjny, Statsoft STATISTICA, StatPoint Statgraphics Centurion. Dawniej dostępne były też programy takie jak Corel czy Kaspersky - niestety, na ten moment licencje wygasły i nie wiadomo, czy będą przedłużane.
