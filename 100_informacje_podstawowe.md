@@ -55,9 +55,9 @@ Sekretariaty dydaktyczne pełnią między innymi funkcję informacyjną. To wła
 ### Sekretariat Dydaktyczny kierunku Matematyka (pokój 1136)
 
 + Grażyna Łukasik, tel. (+48) 12 664 6664
-+ mgr Piotr Pogoda, tel. (+48) 12 664 6627
++ mgr Zofia Marduła
 
-Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30.
+Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30 (piątek jest dniem wewnętrznym sekretariatu).
 
 ### Sekretariat Dydaktyczny kierunku Informatyka i Matematyka Komputerowa (pokój 1138)
 
@@ -66,11 +66,15 @@ Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30.
 
 Czynny od poniedziałku do czwartku w godz. 10:00 - 14:00.
 
-### Sekretariat Dydaktyczny kierunku Informatyka Analityczna (Pokój 3053)
+### Sekretariat Dydaktyczny kierunku Informatyka Analityczna (pokój 3053)
 
 + mgr Monika Gillert, tel. (+48) 12 664 6647
 
 Czynny od poniedziałku do piątku w godz. 11:00 - 14:00.
+
+## Koordynator ds. pomocy materialnej (pokój 1053)
+
++ mgr Piotr Pogoda, tel. (+48) 12 664 6627
 
 ## Administratorzy sieci
 
