@@ -69,6 +69,13 @@ Dobry zwyczaj uniwersytecki nakazuje przyjść na egzamin w eleganckim stroju. N
 
 Kolokwia mogą być różne. Nazywamy nimi kartkówki, które zdarza się nam pisać na ćwiczeniach, a także większe testy pisane raz, dwa razy w trakcie semestru przez wszystkich studentów zapisanych na dany przedmiot. Kolokwia w postaci kartkówek mogą być zapowiedziane lub niezapowiedziane. Kolokwia w postaci testu są ustalane odpowiednio wcześniej i choć nie chcemy nikogo straszyć, zdarza się, że odbywają się w soboty.
 
+#### Gdy materiał jest zbyt trudny
+
+Student czasem przeżywa moment, kiedy wydaje mu się, że omawiane zagadnienie jest ponad jego siły. Gdy znajomi z roku nie są w stanie wyjaśnić zagadnienia, warto udać się do kół naukowych. Działający tam pasjonaci często są w stanie wyjaśnić kwestię w sposób bardziej przystępny niż na zajęciach. 
+
+Innym sposobem jest skorzystanie z konsultacji, do których udzielania zobowiązani są wszyscy pracownicy prowadzący zajęcia. Terminy konsultacji znaleźć można w USOS-ie. Czasem wymagana jest mailowa notyfikacja zamiaru przyjścia. Udać można się do dowolnego pracownika, niekoniecznie tego, który prowadzi sprawiające kłopot zajęcia. Warto jednak wziąć pod uwagę fakt, że pracownik może nie być w stanie odpowiedzieć na specjalistyczne pytanie dotyczące dziedziny, którą się nie zajmuje. By oszczędzić czas obu stron, przed konsultacjami warto przygotować listę pytań, które chce się zadać. Korzystanie z konsultacji jest także dobrym pomysłem dla osób, które chcą dopytać o szczególnie interesujące zagadnienie.
+
+
 ### Legitymacja studencka
 
 Elektroniczna legitymacja identyfikuje studenta. Jest ważna przez cały okres studiów, lecz traci swoją wartość, jeśli zostaniemy zawieszeni lub skreśleni z listy studentów. Ważność legitymacji potwierdza się co semestr - na początku każdego semestru należy zanieść ją do sekretariatu dydaktycznego, gdzie zostanie przedłużona jej ważność w wewnętrznym układzie elektronicznym oraz poprzez naklejenie specjalnego hologramu. Na ogół po odbiór legitymacji czeka się kilka godzin, czasem można ją odebrać dopiero następnego dnia. 
