@@ -49,7 +49,7 @@ Matematyka jest dziedziną nauki potrzebną do podejmowania decyzji oraz rozwią
 ####Specjalności dostępne na kierunku matematyka:
 
 + **biomatematyka** - jest specjalnością zajmującą się rozwojem metod matematycznych na potrzeby biologii. Wybierając tę specjalność będziecie mogli poznać takie dziedziny wiedzy jak: ekologia ewolucyjna, bioetyka, statystyka w medycynie czy bioinformatyka; 
-+ **matematyka w ekonomii** - pozwala na poszerzenie wiedzy matematycznej o elementy ekonomii. Studenci, którzy wybiorą tą specjalność będą mogli liczyć na uproszczenie procedury uzyskania indywidualnego toku studiów w przypadku rozpoczęcia studiów z ekonomii na Wydziale Zarządzania i Komunikacji Społecznej (drugi kierunek studiów).
++ **matematyka w ekonomii** - pozwala na poszerzenie wiedzy matematycznej o elementy ekonomii. Wybór tej specjalności często łączony jest z równoległym studiowaniem ekonomii na Wydziale Zarządzania i Komunikacji Społecznej.
 + **matematyka ogólna** - pozwoli Ci na zdobycie wszechstronnego wykształcenia w dziedzinie matematyki, umożliwiającego wybór najodpowiedniejszej dla Ciebie specjalności na studiach stopnia drugiego.
 + **matematyka stosowana** - dzięki tej specjalności poznasz podstawy modelowania matematycznego, informatyki oraz posiądziesz wiedzę, która umożliwi Ci pracę w działach finansowych, przemyśle, IT; 
 + **matematyka teoretyczna** - posiada rozszerzony program przedmiotów podstawowych i jest kierowana w szczególności do osób myślących o karierze naukowej w przyszłości.
