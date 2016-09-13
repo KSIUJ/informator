@@ -82,14 +82,12 @@ Jeśli chcielibyście do nas dołączyć, koniecznie napiszcie na knmfuj@gmail.c
 
 ### Naukowe Koło Robotyki i Sztucznej Inteligencji UJ (NKR)
 
-Koło powstało zaledwie kilka lat temu i od tego czasu prężnie się rozwija. Zajmujemy się projektami naukowymi i zdobywaniem wiedzy z interesujących nas dziedzin - Sztucznej Inteligencji, Machine Learningu, Big Data. Koło to także miejsce, gdzie można zawiązać wartościowe przyjaźnie.
+Koło powstało zaledwie kilka lat temu i prężnie się rozwija. Zajmujemy się zdobywaniem wiedzy z interesujących nas dziedzin – robotyki, sztucznej Inteligencji, Machine Learningu, Big Data, oraz projektami naukowymi. Koło Robotyki to także miejsce, gdzie można zawiązać wartościowe przyjaźnie.
 
 #### Kto może dołączyć do Koła?
 
-Każdy student może do nas dołączyć! Nie jest dla nas ważne na którym roku i jakim kierunku jesteś. My ze swojej strony oferujemy ciekawe projekty, które mogą być połączone z Twoimi projektami zaliczeniowymi, pracą licencjancką lub magisterską.
-
-Szczególnie zapraszamy osoby zainteresowane:
-
+Każdy student może do nas dołączyć - Ty również! Nie jest dla nas istotne na którym roku i jakim kierunku jesteś, my ze swojej strony oferujemy Ci możliwość czynnego udziału w ciekawych projektach, które mogą być połączone z Twoimi projektami zaliczeniowymi, pracą licencjacką lub magisterską.
+W szczególności zapraszamy osoby zainteresowane:
 -   sztuczną inteligencją
 -   robotyką
 -   machine learningiem
@@ -97,50 +95,39 @@ Szczególnie zapraszamy osoby zainteresowane:
 -   elektroniką
 
 #### Jakie projekty Naukowe rozwijają się w Kole?
-
--   **KrakRover**: Projekt mający na celu start w konkursie łazików marsjańskich European Rover Challenge 2015. W skład zespołu wchodzi obecnie ok. 10 osób.
-
--   **DALEK**: Grupa dla osób zainteresowanych uczeniem maszynowym i tematami pokrewnymi. Spotykamy się regularnie, m.in. w celu wspólnego uczestnictwa w różnych kursach online. Członkowie piszą publikacje i startują w międzynarodowych konkursach.
-
--   **GMUM.R**: Grupa tworząca pakiet Uczenia Maszynowego we współpracy z naukowcami z UJ. Świetna okazja do nauki programowania zespołowego i praktycznej strony Uczenia Maszynowego. Projekt trwa już ponad rok i uczestniczyło w nim ponad 14 osób.
-
--   **Quadrocopter**: Projekt ma na celu użycie kamery 3D do filmowania UJ. Obecnie mamy w pełni funkcjonalny Quadrocopter sterowany przez układ Arduino Due.
-
--   **Turtlebot**: Implementujemy popularne algorytmy z użyciem platformy robotycznej TurtleBot.
+- **Machine Learning Study Group (MLSG)**: grupa zajmująca się Machine Learningiem na poziomie średnio zaawanoswanym. Spotykamy się regularnie w celu wspólnego rozwiązywania zadań, czy omawiania zagadnień zawartych w opracowaniach naukowych.
+- **Databusters**: grupa ta zajmuje się poznawaniem od podstaw zagadnień związanych z big data - zarówno algorytmiki, jak i technologii jej towarzyszących.
+- **Quadrocopter**: projekt ten skupia się na konstruowaniu quadrocoptera korzystającego z kamery 3D, którego możemy wykorzystać m.in. do filmowania UJ. Obecnie na wyposażeniu Koła znajdują się dwa w pełni funkcjonalne Quadrocoptery sterowane przez układ Arduino Due, aczkolwiek pracujemy nad ich ulepszaniem, oraz budową kolejnych.
+- **Lego**: pierwszy kontakt z robotyką? Super! W ramach projektu Lego członkowie Koła w prosty sposób mogą budować bardzo efektowne roboty z klocków lego i programować je w języku Java. Część z nich bierze później udział w ogólnopolskich zawodach robotycznych Krakrobot.
+- **Turtlebot**: w ramach tego projektu implementujemy popularne algorytmy z użyciem platformy robotycznej TurtleBot.
+- **LIDAR**: grupa ta skupia się na mapowaniu otoczenia oraz autonomicznej nawigacji w nim w oparciu o robota korzystającego z technologii lidar.
 
 #### Czy wy w tym Kole tylko się uczycie?
 
-Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłania większość naszego czasu, ale to nie znaczy, że nie mamy życia. W Kole istnieje kącik z wygodną kanapą i ekspresem do kawy - na kanapie często obgadujemy szczegóły pisanych przez nas projektów, ale służy ona także do relaksu. Samo Koło to raczej paczka przyjaciół, którzy chcą wspólnie robić fajne rzeczy, więc jeśli szukasz miejsca, gdzie będziesz mógł poznać nowych ludzi, nasze Koło na pewno będzie dobrym wyborem!
+Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłania większość naszego czasu, ale to nie znaczy, że nie mamy życia. W Kole istnieje kącik z wygodną kanapą i ekspresem do kawy - na kanapie często omawiamy szczegóły prowadzonych przez nas projektów, ale też się relaksujemy. Samo Koło to paczka przyjaciół, którzy chcą wspólnie robić fajne rzeczy. Jeśli szukasz miejsca, które Ci to umożliwi, nasze Koło na pewno będzie dobrym wyborem!
 
-#### Co oferuje Koło? 
+#### Co nasze Koło może Ci zaoferować? 
 
--   unikalny dostęp do sprzętu, takiego jak:
+-   swobodny dostęp do sprzętu, takiego jak:
+        - roboty Lego Mindstorms NXT i EV3
+        - Quadrokoptery (autorskiej konstrukcji)
+        - mikrokontrolery Arduino
+        - kamery Kinect
+        - TurtleBot - mobilna platforma robotyczna
+        - roboty Khepera - małe, zwinne roboty działające pod Linuksem
+        - robot z Lidarem
+        - Płytki AVR do programowania w języku C 
+        - podzespoły elektroniczne, które wspaniale nadają się zarówno do pracy z Arduino, jak i do zajmowania się samą elektroniką
 
-    -   czytnik myśli Emotiv Epoc
-    -   roboty Lego Mindstorms NXT i EV3
-    -   mikrokontrolery Arduino
-    -   kamery Kinect
-    -   TurtleBot - mobilna platforma robotyczna
-    -   roboty Khepera - małe, zwinne roboty działające pod Linuksem
-    -   różne podzespoły elektroniczne, które wspaniale nadają się zarówno do pracy z Arduino, jak i do zajmowania się samą elektroniką
+- możliwość udziału w warsztatach, które są świetnym dopełnieniem toku studiów (uczymy rzeczy, których nie ma w programie studiów!), jak i okazją na poznanie czegoś nowego
+- możliwość spotkania osób o podobnych zainteresowaniach, z którymi można wspólnie brać udział w projektach, oraz które z chęcią doradzą Ci na które przedmioty warto się zapisać, na co trzeba zwrócić szczególną uwagę i do którego prowadzącego warto się zapisać, by jak najwięcej wynieść z przedmiotu.
+- luźną, naukową  atmosferę oraz możliwość rozwoju swoich zainteresowań 
+- możliwość zdobycia doświadczenia w pracy zespołowej
+- dostęp do przestrzeni do nauki, jak i relaksu
 
--   warsztaty i projekty, które mogą stać się świetnym dopełnieniem toku studiów (uczymy rzeczy, których nie ma w programie studiów) jak i okazją na poznanie czegoś nowego
+#### Więcej informacji o naszym Kole znajdziesz:
 
--   naukową atmosferę i możliwość rozwoju swoich zainteresowań
-
--   możliwość poznania osób, które z chęcią doradzą Ci, na które przedmioty trzeba zwrócić szczególną uwagę i do których prowadzących się zapisać, by jak najwięcej wynieść z przedmiotu
-
--   możliwość spotkania osób o podobnych zainteresowaniach, chcących startować w konkursach, wspólnie uczestniczyć w rozmaitych projektach itp.
-
--   możliwość zdobycia doświadczenia w pracy zespołowej
-
--   zdobytą wiedzę, którą można wykorzystać w przyszłym zawodzie (w szczególności jeśli chcesz się zajmować szeroko pojętą sztuczną inteligencją), uczestnictwo w naszych projektach to wartościowe wpisy w CV
-
--   miejsce zarówno do nauki jak i do relaksu
-
-#### Więcej informacji o nas:
-
-+ u nas w pracowni: **sale 1162, 1164**
++ w naszej siedzibie: **sale 1162, 1164**
 + na naszej stronie internetowej: [http://nkr.matinf.uj.edu.pl](http://nkr.matinf.uj.edu.pl)
 + na naszym profilu na Facebooku: [https://www.facebook.com/nkruj](https://www.facebook.com/nkruj)
 
