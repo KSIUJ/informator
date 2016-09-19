@@ -271,7 +271,7 @@ Więcej informacji: [http://kmsuj.im.uj.edu.pl/warsztaty/](http://kmsuj.im.uj.ed
 
 #### Liczby Komputery Życie
 
-Jest to unikalne na skalę kraju wydarzenie bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Studentów Informatyki, Koło Naukowe Wolnego Oprogramowania Slimak, Koło Neuronaukowców NEURONUS.
+Jest to unikalne na skalę kraju wydarzenie bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Studentów Informatyki oraz innne koła.
 
 W poprzednich latach panele konferencji były poświęcone tematyce: bioinformatyki, biomatematyki, modelowania matematycznego i komputerowego, biologii systemów, biologii molekularnej, genominiki, neuroinformatyki, czy projektowania leków.
 
