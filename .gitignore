@@ -1,5 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+static/informator.pdf
+static/informator.epub
 *.sublime-workspace
-informator.epub
-informator.mobi
-informator.html
-informator.pdf
