@@ -4,3 +4,4 @@ _site
 static/informator.pdf
 static/informator.epub
 *.sublime-workspace
+informator.html
