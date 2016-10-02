@@ -55,14 +55,7 @@
         </div>
     </footer>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script>
-        $("#TOC > ul > li > ul > li:has(ul) > a").after("&nbsp<button class=\"custom-collapse btn btn-info btn-xs\">Zwiń</button>");
-        $(".custom-collapse").next().addClass("collapse");
-        $(".custom-collapse").click(function(event) {
-            // console.log(event.target);
-            $(event.target).next().collapse("toggle");
-        });
-    </script>
+    <script src="/static/js/custom_collapse.js"></script>
 </body>
 
 </html>
