@@ -1,19 +1,131 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Open+Sans:300,300i,400,400i,600,600i,700,700i&subset=latin-ext);
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    line-height: 1.8em;
+    color: #59656e;
 }
 
-.container.web h1,
-.container.web h2,
-.container.web h3 {
-    padding-top: 50px;
-    margin-top: -50px;
+header {
+    height: 230px;
+    padding: 0;
+    margin: 0px 0px 30px 0px;
+    background: #005292 url(grafika/top.png) left bottom no-repeat;
+    background-size: auto, auto, auto, cover;
+    text-align: center;
 }
 
-body {
-    font-size: 17px;
+.container h1 {
+    font-size: 24px;
+}
+
+.container h2 {
+    padding-top: 30px;
+    margin-top: 50px;
+    border-top: dashed 1px #90a7b9;
+}
+
+.container h3 {
+    font-size: 18px;
+}
+
+.container h1,
+.container h2 {
+    color: #005694;
+}
+
+h1,
+h2 {
+    padding: 0 10%;
+    margin: 0;
+    color: #fff;
+    font-weight: normal;
+}
+
+h1 {
+    padding: 60px 0px 20px 0px;
+    border-bottom: none;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    display: block;
+    padding: 10px 0;
+    font-size: 16px;
+    line-height: 2em;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+
+#TOC ul {
+    list-style: none;
+    padding: 0 20px;
+    background: url(grafika/n.jpg) top center repeat-x;
+    border-bottom: solid 0px #90a7b9;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 22px;
+    line-height: 2em;
+}
+
+#TOC ul a {
+    color: #002f4f;
+}
+
+#TOC ul ul {
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    background: url(grafika/n.jpg) top center repeat-x;
+    border-bottom: dashed 1px #90a7b9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+#TOC ul ul a {
+    color: #59656e;
+}
+
+#TOC ul ul ul {
+    width: 75%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: solid 0px #90a7b9;
+    background: url(grafika/menu.jpg) top center repeat-x;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+#TOC ul ul ul ul {
+    width: 75%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: solid 0px #90a7b9;
+    background: url(grafika/n.jpg) top center repeat-x;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+#TOC ul ul ul a {
+    color: #356e9c;
+}
+
+#TOC ul ul ul ul a {
+    color: #575757;
+}
+
+.fright {
+    float: right;
+    margin: 10px 0px 20px 20px;
+}
+
+.tlo {
+    width: 100%;
+    background: url(grafika/tlo.jpg) top right repeat-y;
+    background-attachment: fixed;
 }
 
 .navbar-fixed-top {
@@ -27,4 +139,36 @@ body {
 .navbar-fixed-top a:hover {
     color: #00519D !important;
     background: #D9D9D9 !important;
+}
+
+.powrot {
+    float: right;
+    margin: 10px;
+}
+
+footer {
+    height: 230px;
+    width: 100%;
+    background: #005292 url(grafika/stopka-tlo.jpg);
+}
+
+.stopka {
+    color: #fff;
+    margin-top: 15px;
+}
+
+.stopka a {
+    color: #fff;
+}
+
+@media (max-width: 1020px) {
+    #TOC ul ul ul {
+        width: 100%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        border-bottom: solid 0px #90a7b9;
+        background: url(grafika/menu.jpg) top center repeat-x;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+    }
 }
