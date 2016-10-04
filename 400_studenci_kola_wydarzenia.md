@@ -82,14 +82,12 @@ Jeśli chcielibyście do nas dołączyć, koniecznie napiszcie na knmfuj@gmail.c
 
 ### Naukowe Koło Robotyki i Sztucznej Inteligencji UJ (NKR)
 
-Koło powstało zaledwie kilka lat temu i od tego czasu prężnie się rozwija. Zajmujemy się projektami naukowymi i zdobywaniem wiedzy z interesujących nas dziedzin - Sztucznej Inteligencji, Machine Learningu, Big Data. Koło to także miejsce, gdzie można zawiązać wartościowe przyjaźnie.
+Koło powstało zaledwie kilka lat temu i prężnie się rozwija. Zajmujemy się zdobywaniem wiedzy z interesujących nas dziedzin – robotyki, sztucznej Inteligencji, Machine Learningu, Big Data, oraz projektami naukowymi. Koło Robotyki to także miejsce, gdzie można zawiązać wartościowe przyjaźnie.
 
 #### Kto może dołączyć do Koła?
 
-Każdy student może do nas dołączyć! Nie jest dla nas ważne na którym roku i jakim kierunku jesteś. My ze swojej strony oferujemy ciekawe projekty, które mogą być połączone z Twoimi projektami zaliczeniowymi, pracą licencjancką lub magisterską.
-
-Szczególnie zapraszamy osoby zainteresowane:
-
+Każdy student może do nas dołączyć - Ty również! Nie jest dla nas istotne na którym roku i jakim kierunku jesteś, my ze swojej strony oferujemy Ci możliwość czynnego udziału w ciekawych projektach, które mogą być połączone z Twoimi projektami zaliczeniowymi, pracą licencjacką lub magisterską.
+W szczególności zapraszamy osoby zainteresowane:
 -   sztuczną inteligencją
 -   robotyką
 -   machine learningiem
@@ -97,50 +95,39 @@ Szczególnie zapraszamy osoby zainteresowane:
 -   elektroniką
 
 #### Jakie projekty Naukowe rozwijają się w Kole?
-
--   **KrakRover**: Projekt mający na celu start w konkursie łazików marsjańskich European Rover Challenge 2015. W skład zespołu wchodzi obecnie ok. 10 osób.
-
--   **DALEK**: Grupa dla osób zainteresowanych uczeniem maszynowym i tematami pokrewnymi. Spotykamy się regularnie, m.in. w celu wspólnego uczestnictwa w różnych kursach online. Członkowie piszą publikacje i startują w międzynarodowych konkursach.
-
--   **GMUM.R**: Grupa tworząca pakiet Uczenia Maszynowego we współpracy z naukowcami z UJ. Świetna okazja do nauki programowania zespołowego i praktycznej strony Uczenia Maszynowego. Projekt trwa już ponad rok i uczestniczyło w nim ponad 14 osób.
-
--   **Quadrocopter**: Projekt ma na celu użycie kamery 3D do filmowania UJ. Obecnie mamy w pełni funkcjonalny Quadrocopter sterowany przez układ Arduino Due.
-
--   **Turtlebot**: Implementujemy popularne algorytmy z użyciem platformy robotycznej TurtleBot.
+- **Machine Learning Study Group (MLSG)**: grupa zajmująca się Machine Learningiem na poziomie średnio zaawanoswanym. Spotykamy się regularnie w celu wspólnego rozwiązywania zadań, czy omawiania zagadnień zawartych w opracowaniach naukowych.
+- **Databusters**: grupa ta zajmuje się poznawaniem od podstaw zagadnień związanych z big data - zarówno algorytmiki, jak i technologii jej towarzyszących.
+- **Quadrocopter**: projekt ten skupia się na konstruowaniu quadrocoptera korzystającego z kamery 3D, którego możemy wykorzystać m.in. do filmowania UJ. Obecnie na wyposażeniu Koła znajdują się dwa w pełni funkcjonalne Quadrocoptery sterowane przez układ Arduino Due, aczkolwiek pracujemy nad ich ulepszaniem, oraz budową kolejnych.
+- **Lego**: pierwszy kontakt z robotyką? Super! W ramach projektu Lego członkowie Koła w prosty sposób mogą budować bardzo efektowne roboty z klocków lego i programować je w języku Java. Część z nich bierze później udział w ogólnopolskich zawodach robotycznych Krakrobot.
+- **Turtlebot**: w ramach tego projektu implementujemy popularne algorytmy z użyciem platformy robotycznej TurtleBot.
+- **LIDAR**: grupa ta skupia się na mapowaniu otoczenia oraz autonomicznej nawigacji w nim w oparciu o robota korzystającego z technologii lidar.
 
 #### Czy wy w tym Kole tylko się uczycie?
 
-Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłania większość naszego czasu, ale to nie znaczy, że nie mamy życia. W Kole istnieje kącik z wygodną kanapą i ekspresem do kawy - na kanapie często obgadujemy szczegóły pisanych przez nas projektów, ale służy ona także do relaksu. Samo Koło to raczej paczka przyjaciół, którzy chcą wspólnie robić fajne rzeczy, więc jeśli szukasz miejsca, gdzie będziesz mógł poznać nowych ludzi, nasze Koło na pewno będzie dobrym wyborem!
+Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłania większość naszego czasu, ale to nie znaczy, że nie mamy życia. W Kole istnieje kącik z wygodną kanapą i ekspresem do kawy - na kanapie często omawiamy szczegóły prowadzonych przez nas projektów, ale też się relaksujemy. Samo Koło to paczka przyjaciół, którzy chcą wspólnie robić fajne rzeczy. Jeśli szukasz miejsca, które Ci to umożliwi, nasze Koło na pewno będzie dobrym wyborem!
 
-#### Co oferuje Koło? 
+#### Co nasze Koło może Ci zaoferować? 
 
--   unikalny dostęp do sprzętu, takiego jak:
+-   swobodny dostęp do sprzętu, takiego jak:
+        - roboty Lego Mindstorms NXT i EV3
+        - Quadrokoptery (autorskiej konstrukcji)
+        - mikrokontrolery Arduino
+        - kamery Kinect
+        - TurtleBot - mobilna platforma robotyczna
+        - roboty Khepera - małe, zwinne roboty działające pod Linuksem
+        - robot z Lidarem
+        - Płytki AVR do programowania w języku C 
+        - podzespoły elektroniczne, które wspaniale nadają się zarówno do pracy z Arduino, jak i do zajmowania się samą elektroniką
 
-    -   czytnik myśli Emotiv Epoc
-    -   roboty Lego Mindstorms NXT i EV3
-    -   mikrokontrolery Arduino
-    -   kamery Kinect
-    -   TurtleBot - mobilna platforma robotyczna
-    -   roboty Khepera - małe, zwinne roboty działające pod Linuksem
-    -   różne podzespoły elektroniczne, które wspaniale nadają się zarówno do pracy z Arduino, jak i do zajmowania się samą elektroniką
+- możliwość udziału w warsztatach, które są świetnym dopełnieniem toku studiów (uczymy rzeczy, których nie ma w programie studiów!), jak i okazją na poznanie czegoś nowego
+- możliwość spotkania osób o podobnych zainteresowaniach, z którymi można wspólnie brać udział w projektach, oraz które z chęcią doradzą Ci na które przedmioty warto się zapisać, na co trzeba zwrócić szczególną uwagę i do którego prowadzącego warto się zapisać, by jak najwięcej wynieść z przedmiotu.
+- luźną, naukową  atmosferę oraz możliwość rozwoju swoich zainteresowań 
+- możliwość zdobycia doświadczenia w pracy zespołowej
+- dostęp do przestrzeni do nauki, jak i relaksu
 
--   warsztaty i projekty, które mogą stać się świetnym dopełnieniem toku studiów (uczymy rzeczy, których nie ma w programie studiów) jak i okazją na poznanie czegoś nowego
+#### Więcej informacji o naszym Kole znajdziesz:
 
--   naukową atmosferę i możliwość rozwoju swoich zainteresowań
-
--   możliwość poznania osób, które z chęcią doradzą Ci, na które przedmioty trzeba zwrócić szczególną uwagę i do których prowadzących się zapisać, by jak najwięcej wynieść z przedmiotu
-
--   możliwość spotkania osób o podobnych zainteresowaniach, chcących startować w konkursach, wspólnie uczestniczyć w rozmaitych projektach itp.
-
--   możliwość zdobycia doświadczenia w pracy zespołowej
-
--   zdobytą wiedzę, którą można wykorzystać w przyszłym zawodzie (w szczególności jeśli chcesz się zajmować szeroko pojętą sztuczną inteligencją), uczestnictwo w naszych projektach to wartościowe wpisy w CV
-
--   miejsce zarówno do nauki jak i do relaksu
-
-#### Więcej informacji o nas:
-
-+ u nas w pracowni: **sale 1162, 1164**
++ w naszej siedzibie: **sale 1162, 1164**
 + na naszej stronie internetowej: [http://nkr.matinf.uj.edu.pl](http://nkr.matinf.uj.edu.pl)
 + na naszym profilu na Facebooku: [https://www.facebook.com/nkruj](https://www.facebook.com/nkruj)
 
@@ -209,15 +196,15 @@ Udział oraz koordynowanie **projektów kołowych** nie tylko kształtuje umiej�
 
 W Kole studenci mogą liczyć na pomoc innych członków dzięki spotkaniom w grupach wspomagających. Są one przeznaczone dla  osób  będących  na  niższych  latach  studiów  lub  mających  problemy  z przyswojeniem wiedzy z danego  przedmiotu. Dzięki tej sekcji naukowo-badawczej można także uzyskać pomoc przy wyborze dodatkowych kursów internetowych (tz. MOOC oraz MOOR) i ich realizacji.
 
-W posiadaniu Koła znajduje się **biblioteczka**, w której znaleźć można książki i materiały zgromadzone w trakcie studiów przez kołowiczów. Są to ciekawe pozycje książkowe (m. in. _,,Biological Modeling and simulation - A survey of Practical Models, Algorithms, and Numerical Methods"_, czy _,,An introduction to Bioinformatics Algorithms"_), a także notatki oraz zbiór egzaminów i kolokwiów z lat poprzednich.
+W posiadaniu Koła znajduje się **biblioteczka**, w której znaleźć można książki i materiały zgromadzone w trakcie studiów przez kołowiczów. Są to ciekawe pozycje książkowe (m. in. _,,Zrozumieć programowanie"_, G. Coldwind, _,,Statystyka  i  chemometria  w  chemii  analitycznej"_, J. i J. Miller, _,,Biological Modeling and simulation - A survey of Practical Models, Algorithms, and Numerical Methods"_, czy _,,An introduction to Bioinformatics Algorithms"_), a także notatki z lat poprzednich.
 
-BIT wydaje również własne **czasopismo** – **„BioInfoWorld”**. Celem dwumiesięcznika jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu pomiędzy tymi pozornie odległymi gałęziami nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: *bioinfoworld.redakcja@gmail.com*.
+BIT wydaje również własne **czasopismo** – **„BioInfoWorld”**. Jego celem jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu pomiędzy tymi pozornie odległymi gałęziami nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: *bioinfoworld.redakcja@gmail.com*.
 
 Kolejnym z obszarów działalności Koła jest udział i organizacja **konferencji naukowych**. Sekcja wydarzeń naukowych aktywnie wspiera przedsięwzięcia takie jak, organizowana przez studentów Koła Nauk Psychologicznych "PRAGMA" konferencja "Człowiek Zalogowany", Dni Wydziału czy Festiwale Nauki.
 
-Wraz  z  Kołami:  Matematyków  Studentów  UJ,  Neuronaukowców  NEURONUS  oraz  Wolnego Oprogramowania Slimak organizujemy Ogólnopolską Konferencję **Liczby Komputery Życie**, która jest unikalnym  na  skalę  kraju  wydarzeniem  bioinformatycznym  skierowanym  zwłaszcza  do  studentów i doktorantów. Uczestnicy, oprócz poszerzenia swojej wiedzy poprzez udział w wykładach i warsztatach, będą mieli okazję do prezentacji własnych wyników, kontaktu z ludźmi nauki oraz integracji ze środowiskiem akademickim z całej Polski, co pozwoli na wymianę doświadczeń pomiędzy młodymi adeptami bioinformatyki i może dać początek przyszłej współpracy naukowej. Nasi członkowie są również czynnymi uczestnikami międzynarodowych konferencji specjalistycznych takich jak BioInformatics in Torun – BIT, czy Aspects of Neuroscience.
+Wraz  z  Kołem  Matematyków  Studentów  UJ, Kołem Studentów Informatyki UJ oraz czasami innymi kołami organizujemy Ogólnopolską Konferencję **Liczby Komputery Życie**, która jest unikalnym  na  skalę  kraju  wydarzeniem  bioinformatycznym  skierowanym  zwłaszcza  do  studentów i doktorantów. Uczestnicy, oprócz poszerzenia swojej wiedzy poprzez udział w wykładach i warsztatach, będą mieli okazję do prezentacji własnych wyników, kontaktu z ludźmi nauki oraz integracji ze środowiskiem akademickim z całej Polski, co pozwoli na wymianę doświadczeń pomiędzy młodymi adeptami bioinformatyki i może dać początek przyszłej współpracy naukowej.
 
-W Kole możemy zawsze miło spędzić czas i obok zajęć stricte naukowych, nie brakuje także wspólnej integracji. Wraz z pozostałymi kołami i samorządem na naszym Wydziale organizujemy wspólną wigilię, bierzemy udział spotkaniach integracyjnych, takich jak wieczory gier planszowych, czy korzystając z Wydziałowego pokoju gier, organizujemy turnieje tenisa stołowego oraz bilarda. Panuje u nas zawsze serdeczna i życzliwa atmosfera. Wzajemna pomoc i szczere zainteresowanie problemami innych jest dla nas priorytetem.
+W Kole możemy zawsze miło spędzić czas i obok zajęć stricte naukowych, nie brakuje także wspólnej integracji. Wraz z pozostałymi kołami i samorządem na naszym Wydziale organizujemy wspólną wigilię, bierzemy udział w spotkaniach integracyjnych, takich jak wieczory gier planszowych, czy korzystając z Wydziałowego pokoju gier, organizujemy turnieje tenisa stołowego oraz bilarda. Panuje u nas zawsze serdeczna i życzliwa atmosfera. Wzajemna pomoc i szczere zainteresowanie problemami innych jest dla nas priorytetem.
 
 Jesteśmy stosunkowo młodym, lecz prężnie rozwijającym się kołem naukowym. To wszystko sprawia, że tworzymy wyjątkowy zespół, który jest otwarty na nowych ludzi i nowe przedsięwzięcia. Serdecznie zapraszamy do śledzenia naszej działalności, a wszystkich zainteresowanych zapraszamy do współpracy! Każdy jest mile widziany, bo każdy może do naszej działalności wnieść coś nowego.
 
@@ -269,7 +256,7 @@ Poza zwyczajnym studiowaniem, studentom zdarza się robić inne ciekawe rzeczy. 
 
 #### Studencki Festiwal Informatyczny 
 
-największa studencka konferencja IT w Polsce, organizowana od 2005 roku. Odbywa się zazwyczaj w połowie marca. Organizują ją cztery krakowskie koła naukowe – poza Kołem Studentów Informatyki UJ są to: Koło Naukowe BIT AGH, Koło Naukowe Informatyki UEK i Koło Naukowe Informatyków PK.
+Największa studencka konferencja IT w Polsce, organizowana od 2005 roku. Odbywa się zazwyczaj w połowie marca. Organizują ją cztery krakowskie koła naukowe – poza Kołem Studentów Informatyki UJ są to: Koło Naukowe BIT AGH, Koło Naukowe Informatyki UEK i Koło Naukowe Informatyków PK.
 
 Naszymi prelegentami byli m.in. Richard Stallman (twórca ruchu wolnego oprogramowania), Kevin Warwick („człowiek-cyborg”), Hakon Wium Lie (twórca CSS), Roman Kluska (założyciel OPTIMUSa) czy też Piotr Konieczny (redaktor naczelny Niebezpiecznik.pl). Poza wykładami, odbywają się też warsztaty prowadzone przez praktyków z firm czy kół naukowych.
 
@@ -285,7 +272,7 @@ Więcej informacji: [http://kmsuj.im.uj.edu.pl/warsztaty/](http://kmsuj.im.uj.ed
 
 #### Liczby Komputery Życie
 
-Jest to unikalne na skalę kraju wydarzeniem bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Naukowe Wolnego Oprogramowania Slimak, Koło Neuronaukowców NEURONUS.
+Jest to unikalne na skalę kraju wydarzenie bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Studentów Informatyki oraz innne koła.
 
 W poprzednich latach panele konferencji były poświęcone tematyce: bioinformatyki, biomatematyki, modelowania matematycznego i komputerowego, biologii systemów, biologii molekularnej, genominiki, neuroinformatyki, czy projektowania leków.
 
@@ -317,7 +304,7 @@ Więcej informacji: [https://www.facebook.com/Krakrobot](https://www.facebook.co
 
 #### Facebook tech talk, Google tech talk i inne
 
-organizowane głównie przez KSI spotkania z firmami IT w sprawdzonej formule: techniczny wykład prowadzony przez pracownika firmy, trochę marketingu i rekrutacji (często z możliwością złożenia CV na miejscu), a na koniec... pizza party. ;) Warto się pojawić, żeby przekonać się o dwóch rzeczach. Po pierwsze - w branży IT to firmy szukają nas, a nie odwrotnie. Po drugie - wielkie marki takie jak Google są na wyciągnięcie ręki dla każdego z Was!
+organizowane głównie przez KSI spotkania z firmami IT w sprawdzonej formule: techniczny wykład prowadzony przez pracownika firmy, trochę marketingu i rekrutacji (często z możliwością złożenia CV na miejscu), a na koniec... pizza party ;) Warto się pojawić, żeby przekonać się o dwóch rzeczach. Po pierwsze - w branży IT to firmy szukają nas, a nie odwrotnie. Po drugie - wielkie marki takie jak Google są na wyciągnięcie ręki dla każdego z Was!
 
 Facebook i Google odwiedzają nas zazwyczaj w październiku.
 
@@ -327,7 +314,7 @@ Organizowany przez Koło Naukowe Matematyki Finansowej cykl spotkań z firmami -
 
 #### Dzień Wydziału, Festiwal Nauki, Małopolska Noc Naukowców...
 
-...organizowane kolejno w marcu, maju i we wrześniu. Są to duże cykliczne wydarzenia, mające na celu promowanie naszego Wydziału lub nauki jako takiej. Studenci naszego Wydziału organizują warsztaty i pokazy oraz aktywnie pomagają jako wolontariusze. Przykładowo, na Festiwalu Nauki co rok w gronie kół naukowych przejmujemy władzę w namiocie naszego Wydziału na krakowskim Rynku i chwalimy się tym, czym się zajmujemy.
+...organizowane kolejno w marcu, maju i we wrześniu. Są to duże cykliczne wydarzenia, mające na celu promowanie naszego Wydziału oraz nauki. Studenci naszego Wydziału organizują warsztaty i pokazy oraz aktywnie pomagają jako wolontariusze. Przykładowo, na Festiwalu Nauki co rok w gronie kół naukowych przejmujemy władzę w namiocie naszego Wydziału na krakowskim Rynku i chwalimy się tym, czym się zajmujemy.
 
 
 #### Spotkania Dalek @ NKR

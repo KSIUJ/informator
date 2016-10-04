@@ -3,19 +3,32 @@
 ## Władze Wydziału
 
 __Dziekan Wydziału Matematyki i Informatyki UJ__
-prof. dr hab. Armen Edigarian
-
-__Prodziekan ds. badań i współpracy__
 prof. dr hab. Włodzimierz Zwonek
 
 __Prodziekan ds. ogólnych__
-prof. dr hab. Klaudiusz Wójcik
+prof. dr hab. Włodzimierz Zwonek
 
-__Pełnomocnik Dziekana ds. dydaktyki__
+__Prodziekan ds. studenckich__
+dr hab. Piotr Niemiec
+
+__Pełnomocnik Dziekana ds. jakości kształcenia__
+dr hab. Leokadia Białas-Cież
+
+__Pełnomocnik Dziekana ds. informatyzacji i sieci__
+dr Włodzimierz Moczurad
+
+__Pełnomocnik Dziekana ds. promocji__
+dr hab. Wojciech Słomczyński
+
+__Pełnomocnik Dziekana ds. infrastruktury Wydziału__
 dr Maciej Ślusarek
 
-__Pełnomocnik Dziekana ds. informacji i marketingu__
-dr hab. Wojciech Słomczyński
+__Kierownik studiów doktoranckich__
+prof. dr hab. Jacek Tabor
+
+__Sekretarz Naukowy__
+dr hab. Maciej Ulas
+
 
 ## Struktura
 
@@ -36,7 +49,7 @@ __Dyrektor__
 dr hab. inż. Marek Skomorowski
 
 __Zastępca Dyrektora ds. dydaktycznych__
-dr Adam Roman
+dr Sławomir Bakalarski
 
 ### Zespół Katedr i Zakładów Informatyki Matematycznej
 
@@ -55,9 +68,9 @@ Sekretariaty dydaktyczne pełnią między innymi funkcję informacyjną. To wła
 ### Sekretariat Dydaktyczny kierunku Matematyka (pokój 1136)
 
 + Grażyna Łukasik, tel. (+48) 12 664 6664
-+ mgr Piotr Pogoda, tel. (+48) 12 664 6627
++ mgr Zofia Marduła
 
-Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30.
+Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30 (piątek jest dniem wewnętrznym sekretariatu).
 
 ### Sekretariat Dydaktyczny kierunku Informatyka i Matematyka Komputerowa (pokój 1138)
 
@@ -66,11 +79,15 @@ Czynny od poniedziałku do czwartku w godz. 10:00 - 13:30.
 
 Czynny od poniedziałku do czwartku w godz. 10:00 - 14:00.
 
-### Sekretariat Dydaktyczny kierunku Informatyka Analityczna (Pokój 3053)
+### Sekretariat Dydaktyczny kierunku Informatyka Analityczna (pokój 3053)
 
 + mgr Monika Gillert, tel. (+48) 12 664 6647
 
 Czynny od poniedziałku do piątku w godz. 11:00 - 14:00.
+
+## Koordynator ds. pomocy materialnej (pokój 1053)
+
++ mgr Piotr Pogoda, tel. (+48) 12 664 6627
 
 ## Administratorzy sieci
 

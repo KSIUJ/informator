@@ -34,7 +34,7 @@ Więcej informacji na temat zajęć, zwolnień czy harmonogramów znajdziecie na
 Kolejnym przedmiotem obowiązkowym jest język obcy. Odrębną jednostką zajmującą się kształceniem językowym jest _Jagiellońskie Centrum Językowe_, którego pracownicy prowadzą zajęcia lektoratowe także na naszym wydziale. Zaliczenie egzaminu z języka obcego jest warunkiem koniecznym ukończenia studiów i można to osiągnąć wybierając jedną z trzech dostępnych możliwości:
 
 + zaliczenie zajęć lektoratowych oraz zdanie egzaminu końcowego (na poziomie co najmniej B2 dla studentów stopnia pierwszego i na poziomie co najmniej B2+ dla studentów stopnia drugiego)
-+ zdanie odpłatnego egzaminu językowego na poziomie co najmniej B2 dla studentów stopnia pierwszego i na poziomie co najmniej B2+ dla studentów stopnia drugiego (więcej informacji pod adresem [http://www.jcj.uj.edu.pl/odplatny­egzamin­jezykowy](http://www.jcj.uj.edu.pl/odplatny­egzamin­jezykowy) )
++ zdanie odpłatnego egzaminu językowego na poziomie co najmniej B2 dla studentów stopnia pierwszego i na poziomie co najmniej B2+ dla studentów stopnia drugiego (więcej informacji pod adresem [http://www.jcj.uj.edu.pl/egzamin-odplatny](http://www.jcj.uj.edu.pl/egzamin-odplatny) )
 + przedłożenie odpowiedniego certyfikatu językowego na poziomie C1 lub C2
 
 Rejestracja na zajęcia lektoratowe także jest rejestracją “żetonową”. Ważne jest to, że jeśli student zaliczył lektorat na podstawie certyfikatu lub w inny sposób może wykorzystać wolne żetony na kontynuację nauki języka na wyższym poziomie lub na naukę innego języka na dowolnym poziomie zgodnie z ofertą JCJ. Większość studentów WMiI zapisuje się na język angielski, ponieważ lektoraty z tego języka odbywają się na naszym wydziale. Wybór innego język obcego może wiązać się z konsekwencją dojeżdżania na drugi koniec miasta, aby pojawić się na zajęciach. Więcej informacji na temat zajęć lektoratowych, form egzaminu oraz harmonogrbamów znajdziesz na stronie [http://www.jcj.uj.edu.pl/](http://www.jcj.uj.edu.pl/).
@@ -68,6 +68,13 @@ Dobry zwyczaj uniwersytecki nakazuje przyjść na egzamin w eleganckim stroju. N
 ##### Kolokwia
 
 Kolokwia mogą być różne. Nazywamy nimi kartkówki, które zdarza się nam pisać na ćwiczeniach, a także większe testy pisane raz, dwa razy w trakcie semestru przez wszystkich studentów zapisanych na dany przedmiot. Kolokwia w postaci kartkówek mogą być zapowiedziane lub niezapowiedziane. Kolokwia w postaci testu są ustalane odpowiednio wcześniej i choć nie chcemy nikogo straszyć, zdarza się, że odbywają się w soboty.
+
+#### Gdy materiał jest zbyt trudny
+
+Student czasem przeżywa moment, kiedy wydaje mu się, że omawiane zagadnienie jest ponad jego siły. Gdy znajomi z roku nie są w stanie wyjaśnić zagadnienia, warto udać się do kół naukowych. Działający tam pasjonaci często są w stanie wyjaśnić kwestię w sposób bardziej przystępny niż na zajęciach. 
+
+Innym sposobem jest skorzystanie z konsultacji, do których udzielania zobowiązani są wszyscy pracownicy prowadzący zajęcia. Terminy konsultacji znaleźć można w USOS-ie. Czasem wymagana jest mailowa notyfikacja zamiaru przyjścia. Udać można się do dowolnego pracownika, niekoniecznie tego, który prowadzi sprawiające kłopot zajęcia. Warto jednak wziąć pod uwagę fakt, że pracownik może nie być w stanie odpowiedzieć na specjalistyczne pytanie dotyczące dziedziny, którą się nie zajmuje. By oszczędzić czas obu stron, przed konsultacjami warto przygotować listę pytań, które chce się zadać. Korzystanie z konsultacji jest także dobrym pomysłem dla osób, które chcą dopytać o szczególnie interesujące zagadnienie.
+
 
 ### Legitymacja studencka
 
