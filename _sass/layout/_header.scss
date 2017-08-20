@@ -1,0 +1,37 @@
+header {
+  @include skewed {
+    background-color: $white;
+    bottom: -30px;
+  }
+  height: 300px;
+  background: linear-gradient($color-primary, $color-primary-dark),
+  url('../images/bg.png') no-repeat;
+  background-blend-mode: multiply;
+  background-size: cover;
+
+  h1 {
+    color: $white;
+    font-size: 4em;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    @include mq('med') {
+      font-size: 3.7em;
+    }
+    @include mq('xs') {
+      font-size: 2em;
+    }
+  }
+  p {
+    color: $color-accent;
+    font-size: 1.25em;
+    margin: 0;
+    @include mq('xs') {
+      font-size: 0.9em;
+    }
+  }
+  @include mq('xs') {
+    height: 220px;
+    margin-bottom: 35px;
+  }
+}
+

@@ -1,0 +1,59 @@
+// Slanted effect
+@mixin skewed {
+  position: relative;
+  &::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    transform: skewY(-1.5deg);
+    @content;
+  }
+}
+
+// Center containers
+@mixin center($w) {
+  width: $w;
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Rounded elements
+@mixin roundy($dim, $brdr: null) {
+  width: $dim;
+  height: $dim;
+  border: $brdr;
+  border-radius: 50%;
+}
+
+// Create a flex container
+@mixin flexy(
+  $disp: flex,
+  $dir: null,
+  $wrap: null,
+  $just: null) {
+  display: $disp;
+  flex-direction: $dir;
+  flex-wrap: $wrap;
+  justify-content: $just;
+}
+
+// Media queries
+@mixin mq($break) {
+  $value: map-get($breakpoints, $break);
+  $sm: map-get($breakpoints, 'sm');
+
+  @if $value == null {
+    @error "`#{$break}` is not a valid breakpoint name.";
+  } @else if $value < $sm {
+    @media (max-width: $value) {
+      @content;
+    }
+  } @else {
+    @media (min-width: $value) {
+      @content;
+    }
+  }
+}

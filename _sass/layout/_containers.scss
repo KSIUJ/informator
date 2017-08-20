@@ -1,0 +1,56 @@
+.main-content {
+  min-height: 250px;
+  @include flexy($wrap: wrap);
+  @include mq('med') {
+    @include center(90%);
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+.content {
+  min-height: 250px;
+  @include mq('med') {
+    @include center(90%);
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  @include mq('xs') {
+    padding: 0;
+    margin: 40px auto;
+    h1 {
+      font-size: 1.5em;
+    }
+  }
+}
+
+.inner {
+  padding: 0.5em 1em;
+}
+
+.section {
+  width: 90%;
+}
+
+#TOC {
+  color: $color-primary;
+  a {
+    font-size: 2.5em;
+    &:hover {
+      color: $color-primary-dark;
+      opacity: 0.7;
+    }
+    &:active {
+      opacity: initial;
+    }
+  }
+  @include mq('xs') {
+    @include center(90%);
+  }
+}
+
+.section-text {
+  @include center(90%);
+  display: none;
+}
+

@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: $color-text;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: $font-stack-primary;
+  text-align: center;
+  margin: 0;
+  min-height: 300px;
+  width: 100%;
+}
+
+h1,
+h2 {
+  font-family: $font-stack-secondary;
+}
+
+p {
+  margin-bottom: 1.25em;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: none;
+  &:hover {
+    color: $color-secondary;
+  }
+}
