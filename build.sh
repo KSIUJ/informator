@@ -1,6 +1,7 @@
 #!/bin/bash
 PANDOC_OPTS="-s -f markdown_github+yaml_metadata_block --toc --toc-depth=3"
 
+FULL="metadata.yaml ???_*.md"
 FACULTY="metadata.yaml 100_informacje_podstawowe.md"
 STUDING="metadata.yaml 301_studiowanie_usos.md"
 ORGANIZATIONS="metadata.yaml 400_studenci_kola_wydarzenia.md"
@@ -16,3 +17,6 @@ pandoc --template=template.html -o tools.html $PANDOC_OPTS $TOOLS
 pandoc --template=template_only_content.html -o about.html $ABOUT
 pandoc --template=template_only_content.html -o authors.html $AUTHORS
 pandoc --template=template_only_content.html -o links.html $LINKS
+
+pandoc -o static/informator.epub $PANDOC_OPTS $FULL
+pandoc --latex-engine=xelatex --template=template.tex -o static/informator.pdf $PANDOC_OPTS $FULL
