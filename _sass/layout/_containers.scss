@@ -10,6 +10,8 @@
 
 .content {
   min-height: 250px;
+  color: black;
+  @include flexy($wrap: wrap);
   @include mq('med') {
     @include center(90%);
     margin-top: 40px;
@@ -22,6 +24,8 @@
       font-size: 1.5em;
     }
   }
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .inner {
@@ -35,9 +39,9 @@
 #TOC {
   color: $color-primary;
   a {
-    font-size: 2.5em;
+    font-size: 1.5em;
     &:hover {
-      color: $color-primary-dark;
+      color: black;
       opacity: 0.7;
     }
     &:active {
@@ -47,10 +51,5 @@
   @include mq('xs') {
     @include center(90%);
   }
-}
-
-.section-text {
-  @include center(90%);
-  display: none;
 }
 
