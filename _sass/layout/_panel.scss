@@ -1,0 +1,27 @@
+.panel {
+  width: 100%;
+  margin: $gutter;
+  text-align: left;
+  font: $font-stack-secondary;
+  border-radius: 5px;
+  border: 2px solid $color-shade;
+  &-header {
+    font-size: 1.3em;
+    padding: 0.5em 1.5em;
+    color: $color-primary;
+    &:hover {
+      color: $color-primary-light;
+      background-color: $color-shade;
+    }
+    &:active {
+      opacity: initial;
+    }
+  }
+  &-text {
+    color: black;
+    font-size: 1em;
+    font: $font-stack-secondary;
+    padding: 0.5em 1.5em;
+    display: none;
+  }
+}

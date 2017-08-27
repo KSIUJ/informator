@@ -14,8 +14,14 @@ header {
     font-size: 4em;
     margin-bottom: 0;
     letter-spacing: 1px;
-    @include mq('med') {
+    @include mq('lg') {
       font-size: 3.7em;
+    }
+    @include mq('med') {
+      font-size: 3.0em;
+    }
+    @include mq('sm') {
+      font-size: 2.8em;
     }
     @include mq('xs') {
       font-size: 2em;
