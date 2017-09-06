@@ -6,6 +6,11 @@ Należy pamiętać, że wszystkie świadczenia pomocy materialnej można pobiera
 
 Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 jest mgr Piotr Pogoda, a znaleźć go można w pokoju 1026 na pierwszym piętrze wydziału.
 
+### Koordynator ds. pomocy materialnej 
+
++ mgr Piotr Pogoda, tel. (+48) 12 664 6627, (pokój 1053)
+
+
 ### Stypendium socjalne
 
 Studenci studiów stacjonarnych na naszej uczelni mogą ubiegać się o:

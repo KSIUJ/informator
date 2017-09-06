@@ -1,4 +1,6 @@
-##O INFORMATORZE
+##O Informatorze
+
+TODO - przerobić
 Idea poradnika/informatora zrodziła się pięć lata temu w głowach członków KSI. Postanowili stworzyć coś, co pomoże świeżo upieczonym studentom odnaleźć się w gąszczu uczelnianych przepisów, kont pocztowych i zasad. Pierwszy poradnik został wydrukowany w formie małej książeczki dzięki wsparciu finansowemu Samorządu. Był to "Przewodnik studenta Instytutu Informatyki UJ".
 
 W 2015, z inicjatywy Aleksandry Boryki z WRSS, postanowiliśmy wznowić ideę poradnika - tym razem kierując go do wszystkich studentów Wydziału. Szczególnie ważne dla nas było, by każde koło naukowe obecne na Wydziale (od wydania poprzedniej edycji powstały aż cztery!) mogło się w nim pokazać. Dzięki zaangażowaniu wielu osób, pomysł udało się przemienić w czyn. Mamy nadzieję, że informacje, które znajdziesz w poradniku znacząco ułatwią Ci pierwsze (i każde kolejne!) dni na naszym wydziale.
