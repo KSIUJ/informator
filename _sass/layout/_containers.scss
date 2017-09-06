@@ -32,24 +32,11 @@
   padding: 0.5em 1em;
 }
 
-.section {
-  width: 90%;
+.container {
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
 }
 
-#TOC {
-  color: $color-primary;
-  a {
-    font-size: 1.5em;
-    &:hover {
-      color: black;
-      opacity: 0.7;
-    }
-    &:active {
-      opacity: initial;
-    }
-  }
-  @include mq('xs') {
-    @include center(90%);
-  }
-}
+
 
