@@ -1,4 +1,4 @@
-# Przydatne linki
+## Przydatne linki
 
 - [Strona UJ](http://www.uj.edu.pl/)
 - [Strona wydziału](http://www.matinf.uj.edu.pl)
