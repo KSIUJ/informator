@@ -12,6 +12,9 @@
 -- produce informative error messages if your code contains
 -- syntax errors.
 
+-- If set to true, then we are inside an accordion panel 
+panel_started = false
+
 -- Character escaping
 local function escape(s, in_attribute)
   return s:gsub("[<>&\"']",
@@ -77,6 +80,12 @@ function Doc(body, metadata, variables)
     table.insert(buffer, s)
   end
   add(body)
+  if panel_started then
+    add("</div>")
+    add("</div>")
+    panel_started = false
+  end
+
   if #notes > 0 then
     add('<ol class="footnotes">')
     for _,note in pairs(notes) do
@@ -194,8 +203,6 @@ end
 function Para(s)
   return "<p>" .. s .. "</p>"
 end
-
-panel_started = false
 
 -- lev is an integer, the header level.
 function Header(lev, s, attr)
