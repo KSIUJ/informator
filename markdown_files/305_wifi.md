@@ -1,7 +1,6 @@
 ## WIFI
 
-todo - dopisać
-
+//todo - zmienić zgodnie z http://www.pomocit.uj.edu.pl/wifi
 Na naszym wydziale dostepne są następujące sieci: UJ‐open, UJ‐edu / UJ‐edu1 oraz Eduoroam.
 
 **UJ-open** dostępna jest na szybko, bez szyfrowania. Po połączeniu jak przy większości hotspotów wymagane będzie zalogowanie (odbędzie
@@ -14,11 +13,10 @@ Siecią właściwą jest **UJ-edu**&lt;numerek&gt; - wymagają one uwierzytelnia
 + **Windows** odpowiednie sterowniki może mieć już zainstalowane razem z kartą bezprzewodową (głównie intelowskie).
 + **Windows Phone** nie wspiera i niestety nie będzie wspierał tych protokołów, ponieważ są przestarzałe :(
 
-Jeśli nie działa - poradnik jest na [http://ksi.ii.uj.edu.pl/informator/wifi](http://ksi.ii.uj.edu.pl/informator/wifi). Pamiętaj również, że w razie problemów możesz zajrzeć do siedziby KSI, gdzie zawsze znajdzie się ktoś kto skonfigurował to co najmniej raz. Większość kół naukowych na naszym wydziale posiada również własne routery, z których możesz korzystać będąc ich członkiem.
+Pamiętaj, że w razie problemów możesz zajrzeć do siedziby KSI, gdzie zawsze znajdzie się ktoś kto skonfigurował to co najmniej raz. Większość kół naukowych na naszym wydziale posiada również własne routery, z których możesz korzystać będąc ich członkiem.
 
-Ogólne wskazówki SUSSu - [http://www.suss.uj.edu.pl/dostep-bezprzewodowy](http://www.suss.uj.edu.pl/dostep-bezprzewodowy)
+[Konfiguracja WiFi](http://www.pomocit.uj.edu.pl/wifi)
 
-**Eduroam**  to sieć hotspotów która jest dostępna na wielu znaczących uniwersytetach na całym świecie. Dostęp do niej możesz uzyskać również poprzez dane z USOSweb. Łączenie się z tą siecią przebiega bez problemów na wszystkich urządzeniach. Więcej o Eduroam znajdziesz na
-[https://www.eduroam.pl/](https://www.eduroam.pl/).
+**Eduroam**  to sieć hotspotów która jest dostępna na wielu znaczących uniwersytetach na całym świecie. Dostęp do niej możesz uzyskać również poprzez dane z USOSweb. Łączenie się z tą siecią przebiega bez problemów na wszystkich urządzeniach. Więcej o Eduroam znajdziesz na [https://www.eduroam.pl/](https://www.eduroam.pl/).
 
 

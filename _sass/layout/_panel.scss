@@ -9,6 +9,8 @@
     font-size: 1.3em;
     padding: 0.5em 1.5em;
     color: $color-primary;
+    margin-top: 0;
+    margin-bottom: 0;
     &:hover {
       color: $color-primary-light;
       background-color: $color-shade;
@@ -23,5 +25,10 @@
     font: $font-stack-secondary;
     padding: 0.5em 1.5em;
     display: none;
+    ul, ol {
+      list-style-type: disc;
+      padding-left: 2em;
+      margin: 0;
+    }
   }
 }
