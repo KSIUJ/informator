@@ -1,6 +1,5 @@
 ## Wydarzenia
 
-
 Poza zwyczajnym studiowaniem, studentom zdarza się robić inne ciekawe rzeczy. Czasem są to projekty naukowe (wymienione w opisach kół naukowych), a czasem wydarzenia - od najmniejszych, takich jak integracyjne grille, aż po duże międzynarodowe konferencje. Oto co regularnie współorganizujemy:
 
 ### Konferencje

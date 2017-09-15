@@ -1,5 +1,7 @@
 ## Inne konta
 
+Oprócz kont pocztowych na naszym wydziale funkcjonują również konta wydziałowe i instytutowe - niezbędne do korzystania z komputerów wydziałowych, serwerów czy pobierania plików ze stron Intranetu.
+
 ### Konta wydziałowe
 
 Login i hasło do tego systemu dostałeś wraz z legitymacją (mała biała karteczka; zmiana przez linuksa wydziałowego). Nazwa użytkownika ma formę **z+numer indeksu** (np. z1234567). Służy on do logowania się na komputerach w pracowniach (na windowsach, jeśli chcesz mieć dostęp do swoich plików, a na linuksach obowiązkowo) i zdalnie (też z domu - jeśli chcesz mieć dostęp do swoich plików) do wydziałowego linuksa - tego w domenie .matinf.uj.edu.pl. Szczegółowa lista konkretnych serwerów dostępna jest na [https://intra.matinf.uj.edu.pl/](https://intra.matinf.uj.edu.pl/) (login i hasło - wydziałowe). Znajdziesz tam także informacje o licencjach, do jakich masz dostęp (m.in. Mathematica i Microsoft Dreamspark Premium - więcej o nich w osobnym rozdziale). Na intrze znajdziesz kontakt do administratorów, którzy zresetują Ci w razie potrzeby hasło. Rezydują oni w pokoju 1021.

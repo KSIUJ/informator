@@ -1,6 +1,6 @@
 ## Konta pocztowe
 
-TODO - PRZEREDAGOWAĆ!
+Niezależnie od kierunku studiów, **Twoim obowiązkiem jest ich sprawdzanie**! Jak powiedział jeden z wykładowców - "pierwsza rzecz rano - umyć się, druga - sprawdzić pocztę!" ;) 
 
 ### Poczta uniwersytecka
 
@@ -12,8 +12,7 @@ Problemami związanymi z tym kontem zajmuje się SUSS - Sekcja Usług Sieciowo-S
 
 
 ### Konta pocztowe
-
-Niezależnie od kierunku studiów, **Twoim obowiązkiem jest ich sprawdzanie**! Jak powiedział jeden z wykładowców - "pierwsza rzecz rano - umyć się, druga - sprawdzić pocztę!" ;) Przyjęte rozwiązania różnią się jednak między informatyczną a matematyczną stroną Wydziału.
+Przyjęte rozwiązania różnią się jednak między informatyczną a matematyczną stroną Wydziału.
 
 Z perspektywy informatyków, na **ogólnouczelnianej** poczcie (adres **imię.nazwisko@student.uj.edu.pl**) wiele się nie dzieje, choć tą drogą dochodzą wiadomości przesyłane masowo przez prowadzących przez system USOS (więcej na ten temat w sekcji o przekierowaniu poczty) oraz pojawiają się tam przydatne informacje dotyczące wszystkich studentów. Dostępna jest pod adresem [https://login.microsoftonline.com](https://login.microsoftonline.com/) lub po prostu [http://poczta.uj.edu.pl](http://poczta.uj.edu.pl). 
 

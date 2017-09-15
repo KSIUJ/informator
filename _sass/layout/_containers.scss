@@ -9,7 +9,8 @@
 }
 
 .content {
-  min-height: 250px;
+  min-height: 300px;
+  width: 95%;
   color: black;
   @include flexy($wrap: wrap);
   @include mq('med') {
@@ -24,8 +25,17 @@
       font-size: 1.5em;
     }
   }
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin: 40px auto;
+  p {
+    text-align: left;
+    padding: 0 0.5em;
+  }
+  ul, ol {
+    list-style-type: disc;
+    padding-left: 3.5em;
+    text-align: left;
+    margin: 0;
+  }
 }
 
 .inner {

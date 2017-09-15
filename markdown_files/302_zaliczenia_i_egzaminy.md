@@ -12,16 +12,16 @@ TODO - Dopisać!
 
 ### Dostępne terminy 
 
-##### Termin zero
+#### Termin zero
 Czasem zdarza się, że prowadzący wykład ustala ze studentami termin zerowy egzaminu, czyli taki, który nie niesie za sobą żadnych negatywnych konsekwencji. Jeśli nie zdasz egzaminu w terminie zerowym, nadal masz prawo do pierwszego i drugiego terminu, a Twoja ocena z zerówki nie jest brana pod uwagę przy obliczaniu średniej. Należy pamiętać, że termin zero nie jest terminem regulaminowym i nie należy oczekiwać od prowadzącego, aby taki termin ustalił.
 
-##### Termin pierwszy 
+#### Termin pierwszy 
 
 Z bagażem wiedzy zdobywanej stopniowo przez cały semestr (lub nabytej w tempie ekspresowym na tydzień przed sesją) przystępujemy do egzaminu w pierwszym terminie. Egzaminy mogą odbywać się w aulach, mniejszych salach wykładowych lub zwykłych salach zajęciowych -­ wszystko zależy od liczby studentów zapisanych na przedmiot. Na prośbę prowadzącego studenci zazwyczaj nie siedzą obok siebie, a rozsiadają się co kilka miejsc i co kilka rzędów. Kiedy już usiądziesz na sali, podana zostanie Ci godzina zakończenia egzaminu, po czym dostaniesz egzamin do ręki. Z doświadczenia możemy powiedzieć, że warto zostać dłużej na egzaminie i dokładnie sprawdzić swoje odpowiedzi. Przedwczesne wyjście z sali oczywiście jest dopuszczalne, (możesz wyjść z egzaminu w dowolnym momencie) ale czasem warto posiedzieć kilka dodatkowych minut a nuż, widelec coś się przypomni! ;)
 
 Co jeśli nie powiedzie się zdanie egzaminu w pierwszym terminie?
 
-##### Termin drugi
+#### Termin drugi
 
 Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko __dwa terminy egzaminów__. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału:  [Niektóre prawa i obowiązki studenta](#Wybrane-prawa-i-obowiązki-studenta) - tam możecie znaleźć zapasowe koła ratunkowe.
 

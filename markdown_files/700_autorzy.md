@@ -5,33 +5,36 @@
 - Mateusz Joniak,
 - Dominika Zając
 
-### Poprzednie edycje
-- Aleksandra Boryka (WRSS, koordynatorka),
-- Karolina Cibor (BIT),
+### Pierwsza edycja 
 - Arkadiusz Czekajski (KSI),
-- Cezary Drak (Slimak),
 - Paulina Gajda,
-- Anita Gilarska (KMS),
 - Michalina Hansdorfer (koordynatorka),
 - Wojciech Jamrozy,
+- Michał Kawiecki (KSI),
+- Alan Klimowski (KSI),
+- Agnieszka Pocha (NKR),
+- Piotr Rytko (KSI),
+- Julia Waloszek,
+- Martyna Wilk (KSI),
+- Michał Wnukowski,
+- Michał Wszołek (KSI, koordynator)
+
+### Pozostałe edycje
+- Aleksandra Boryka (WRSS, koordynatorka),
+- Karolina Cibor (BIT),
+- Cezary Drak (Slimak),
+- Anita Gilarska (KMS),
 - Stanisław Jastrzębski (NKR),
 - Damian Jelito (KNMF),
 - Paulina Kania (BIT),
 - Fabian Kapuscik (Imagine Academy),
-- Michał Kawiecki (KSI),
-- Alan Klimowski (KSI),
 - Piotr Maliszewski (KSI, koordynator),
 - Radosław Marciniak (KNMF),
 - Szymon Nieznański (Slimak),
 - Jakub Olczyk (Slimak),
 - Adam Piekarczyk (KSI),
-- Agnieszka Pocha (NKR),
-- Piotr Rytko (KSI),
 - Igor Sieradzki (NKR),
 - Daniel Skowroński (KSI),
 - Konrad Talik (Slimak),
-- Julia Waloszek,
-- Martyna Wilk (KSI),
-- Michał Wnukowski,
-- Michał Wszołek (KSI, koordynator),
 - Dominika Zając (KSI)
+

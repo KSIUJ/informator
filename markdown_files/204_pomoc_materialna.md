@@ -8,6 +8,7 @@ Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 je
 
 ### Koordynator ds. pomocy materialnej 
 
+todo - zmienić!
 + mgr Piotr Pogoda, tel. (+48) 12 664 6627, (pokój 1053)
 
 
