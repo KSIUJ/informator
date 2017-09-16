@@ -1,6 +1,6 @@
 #!/bin/bash
 PANDOC_OPTS="-s -f markdown_github+yaml_metadata_block"
-FULL="metadata.yaml ???_*.md"
+FULL="metadata.yaml markdown_files/???_*.md"
 
 shopt -s nullglob
 for f in markdown_files/*.md ;do
