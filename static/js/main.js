@@ -1,4 +1,7 @@
 $('.panel-header').click(function() {
    $(this).next().toggle();
-   console.log("clicked");
+});
+
+$('.panel-text').click(function (){
+   $(this).hide();
 });
