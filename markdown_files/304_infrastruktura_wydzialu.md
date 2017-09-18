@@ -1,5 +1,10 @@
 ## Infrastruktura wydziału
 
+Budynek Wydziału Matematyki i Informatyki znajduje się przy ul. Łojasiewicza 6, na terenie Kampusu 600-lecia Odnowienia UJ.   
+
+### Plan budynku
+Plan budynku dostepny jest pod [adresem](https://intra.matinf.uj.edu.pl/plan/). 
+
 ### Pomieszczenia do nauki
 ### Komputery na wydziale
 TODO - dopisać o ogólnodostępnych salach! w tym mac!
@@ -10,6 +15,7 @@ Na bezdyskowych możesz zabootować Linuksa, do którego działa konto wydziało
 Quota na dysku sieciowym wynosi zaledwie 100MB (współdzielone z kontem pocztowym), więc należy uważać i okresowo czyścić katalog plików tymczasowych.
 
 Pamiętaj, że dzięki możliwości zapisaniu plików na swoim profilu dostępnym z każdego miejsca z internetem (poprzez ssh - patrz opis kont), pendrive nie jest ci potrzebny - co nie zmienia faktu, że zalecamy robić backupy ;)
+
 
 ### Biblioteka
 ### Stołówka 

@@ -74,5 +74,5 @@ Aby uzyskać to świadczenie należy:
 + wydrukować i podpisać oba dokumenty
 + złożyć oświadczenie, wniosek oraz potrzebną dokumentację do wydziałowego koordynatora ds. pomocy materialnej
 ### Własne fundusze stypendialne UJ, stypendium ministra, kredyty studenckie
-Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy na stronę - [Komisji ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/comission/news/5).
+Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy na stronę - [Komisji ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/pl/o-nas/komisje/uczelniana-komisja-ekonomiczna/aktualnosci).
 
