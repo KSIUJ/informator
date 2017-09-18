@@ -16,3 +16,4 @@ Jest to baza odnośników zamieszczonych w informatorze i nie tylko. W sprawach 
 - [Microsoft DreamSpark naszego wydziału](http://e5.onthehub.com/d.ashx?s=lnc1icix4z)
 - [Informatyka - projekt zespołowy](http://pz.ksi.ii.uj.edu.pl/)
 - [Konfiguracja WiFi](http://www.pomocit.uj.edu.pl/wifi)
+- [BaCa - pomoc](https://sites.google.com/site/bacahelp)
