@@ -8,12 +8,13 @@ header {
   url('../images/bg.png') no-repeat;
   background-blend-mode: multiply;
   background-size: cover;
-
   h1 {
     color: $white;
     font-size: 4em;
     margin-bottom: 0;
+    margin-top: 0;
     letter-spacing: 1px;
+    padding-top: 0;
     @include mq('lg') {
       font-size: 3.7em;
     }
@@ -39,5 +40,22 @@ header {
     height: 220px;
     margin-bottom: 35px;
   }
+  .img-wrapper {
+    text-align: left;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    img {
+      margin-top: 1em;
+      height: 60px;
+      @include mq('xs') {
+        height: 45px;
+      }
+    }
+    @include mq('xs') {
+      width: 90%;
+    }
+  }
+
 }
 

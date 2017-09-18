@@ -172,23 +172,20 @@ $endif$
 % druga zmiana od oryginalnego template pandoca
 zrealizowany przez\\
 \textbf{Koło Studentów Informatyki UJ} \\
-edycja druga \\
-2015/2016 \\
-\textbf{Koordynatorzy projektu} \\
-$if(coordinator)$
-$for(coordinator)$$coordinator.name$($coordinator.affilation$) $endfor$
-$endif$ \\
-\textbf{Programiści} \\
-$if(programmer)$
-$for(programmer)$$programmer.name$($programmer.affilation$) $endfor$
-$endif$ \\
-\textbf{Autorzy tekstów, redakcja} \\
-$if(organization)$
-$for(organization)$$organization.name$: $for(organization.people)$$organization.people$ $endfor$ \\
-$endfor$
-$endif$
-\textbf{Autorzy pierwszej edycji}
-$for(firsted)$$firsted$ $endfor$ \\
+\\
+edycja trzecia \\
+2017/2018 \\
+\\
+\\
+\textbf{Autorzy } \\
+$if(current)$
+$for(current)$$current.name$ \\ $endfor$
+$endif$ \\ \\
+\textbf{Autorzy pierwszej edycji} \\
+$for(firsted)$$firsted$ $endfor$ \\ \\
+\textbf{Autorzy pozostałych edycji} \\
+$for(other)$$other$ $endfor$ \\
+
 \newpage
 %---------------------------------------------------------------
 $if(abstract)$
