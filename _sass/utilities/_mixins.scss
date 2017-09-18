@@ -5,9 +5,9 @@
     content: '';
     display: block;
     width: 100%;
-    height: 50px;
+    height: 45px;
     position: absolute;
-    transform: skewY(-1.5deg);
+    transform: skewY(-0.8deg);
     @content;
   }
 }
