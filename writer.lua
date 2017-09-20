@@ -79,6 +79,10 @@ function Doc(body, metadata, variables)
   local function add(s)
     table.insert(buffer, s)
   end
+  add("---")
+  add("layout: default")
+  add("---")
+  add("<div class=\"content\">")
   add(body)
   if panel_started then
     add("</div>")
@@ -93,6 +97,8 @@ function Doc(body, metadata, variables)
     end
     add('</ol>')
   end
+
+  add("</div>")
   return table.concat(buffer,'\n') .. '\n'
 end
 

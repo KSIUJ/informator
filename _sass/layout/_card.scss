@@ -28,7 +28,6 @@
     text-align: left;
     padding-left: 20px;
     margin-top: 15px;
-    list-style-type: disclosure-closed;
   }
   @include mq('xs') {
     flex: 1 per-line(1);
