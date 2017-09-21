@@ -3,9 +3,6 @@
 + __Dziekan Wydziału Matematyki i Informatyki UJ__
 prof. dr hab. Włodzimierz Zwonek
 
-+ __Prodziekan ds. ogólnych__
-prof. dr hab. Włodzimierz Zwonek
-
 + __Prodziekan ds. studenckich__
 dr hab. Piotr Niemiec
 

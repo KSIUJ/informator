@@ -20,7 +20,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 ### Koło Studentów Informatyki UJ (KSI)
 
-**KSI (ξ)** ­- czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem **Koło Studentów Informatyki UJ** - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. Co więc robimy?
+**KSI (ξ)** ­- czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem **Koło Studentów Informatyki UJ** - organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od ponad 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. Co więc robimy?
 
 #### Bierzemy udział w organizacji wydarzeń, takich jak:
 
@@ -34,9 +34,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 -   w ramach naszej **serwerowni** umożliwiamy postawienie własnego serwera (fizycznego lub wirtualnego), otrzymanie zewnętrznego IP z puli Koła i odblokowanych przez adminów wydziałowych potrzebnych portów; jesteśmy też otwarci na projekty usług które możemy wdrożyć w serwerowni - ostatnio zaczęliśmy budowę klastra ze starych komputerów wydziałowych
 
--   posiadamy **drukarkę 3D** (zbudowaną przez naszych członków!);
-
--   tworzymy własny system dostępu do siedziby Koła z użyciem zamka elektronicznego, wymagający od członka tylko legitymacji studenckiej;
+-   stworzyliśmy własny system dostępu do siedziby Koła z użyciem zamka elektronicznego, wymagający od członka tylko legitymacji studenckiej;
 
 -   udostępniamy stanowiska do pracy i programowania, a wkrótce będziemy mieli również klaster obliczeniowy;
 
@@ -241,4 +239,6 @@ Kontakt:
 + Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
 
 ### WRSS
-TODO - dopisać
+Wydziałowa Rada Samorządu Studentów (WRSS) to potocznie zwana Wydziałówka - przedstawiciele studentów w Radzie Wydziału, Radach Instytutu, itp. Oprócz reprezentowania studentów wobec władz Wydziału, przedstawiciele samorządu zajmują się również m.in. stypendiami czy szeroko rozumianą integracją. Więcej o WRSS naszego Wydziału możecie znaleźć na jego [fanpage'u](https://www.facebook.com/WRSS.WMiI.UJ/).
+
+

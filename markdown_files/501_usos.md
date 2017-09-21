@@ -18,7 +18,6 @@ Aby aktywować konto poczty uniwersyteckiej wystarczy przejść do zakładki MOD
 Więcej informacji na temat funkcjonalności usługi Office 365 znajdziecie na stronie: [http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/](http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/)
 
 ### Rejestracja
-TODO - ZMIENIC!
 Studenci naszego wydziału samodzielnie rejestrują się na przedmioty, które chcą zaliczać w danym semestrze. Wyjątkiem od tej reguły jest pierwszy semestr studiów pierwszego stopnia, gdzie studenci automatycznie są zapisywani i przydzielani do grup ćwiczeniowych w kolejności alfabetycznej. Bardzo ważne jest, aby pamiętać, że tuż przed semestrem zimowym należy zadbać o to, żeby zarejestrować się na przedmioty oraz bezpośrednio do grup w przeznaczonych do tego celu terminach.
 
 Rejestracja na przedmioty jest bardzo ważna. Dzięki niej pracownicy WMiI wiedzą, ile osób chce uczęszczać na zajęcia i tworzą odpowiednią liczbę grup ćwiczeniowych. Rejestracja bezpośrednio do grup polega na wybraniu sobie konkretnej grupy ćwiczeniowej, do której przypisany jest prowadzący, dzień i godzina odbywania się zajęć. Na wykłady są automatycznie zapisani wszyscy studenci, którzy wzięli udział w rejestracji przedmiotowej.

@@ -1,6 +1,6 @@
 ## Wybrane prawa i obowiązki studenta
 
-Dokumentem opisującym szczegółowo wszystkie prawa oraz obowiązki studenta jest regulamin Uniwersytetu Jagiellońskiego. W tym rozdziale postaramy się omówić najistotniejsze kwestie, które wynikają wprost z regulaminu, a wszystkich tych, którzy będą chcieli zapoznać się z nim bardziej szczegółowo odsyłamy na stronę Samorządu Studentów.Dodatkowo już w tym miejscu zachęcamy wszystkie osoby, które mają problem ze zrozumieniem regulaminu, są w trudnej sytuacji na studiach i nie mają już pomysłu na to, jak wyjść z opresji lub mają problem ze sporządzeniem jakiegoś pisma do korzystania z pomocy oferowanej przez Zespół Praw Studenta powołany przez Samorząd Studentów Uniwersytetu Jagiellońskiego celem pomocy studentom w wyżej wymienionych kwestiach. Zespół Praw Studenta na pewno znajdzie dla Was jakieś rozwiązanie i pomoże Wam w miarę możliwości, a znaleźć ich można pod tym adresem - [http://www.samorzad.uj.edu.pl/comission/staticPage/4/262](http://www.samorzad.uj.edu.pl/comission/staticPage/4/262).
+Dokumentem opisującym szczegółowo wszystkie prawa oraz obowiązki studenta jest regulamin Uniwersytetu Jagiellońskiego. W tym rozdziale postaramy się omówić najistotniejsze kwestie, które wynikają wprost z regulaminu, a wszystkich tych, którzy będą chcieli zapoznać się z nim bardziej szczegółowo odsyłamy na stronę Samorządu Studentów.Dodatkowo już w tym miejscu zachęcamy wszystkie osoby, które mają problem ze zrozumieniem regulaminu, są w trudnej sytuacji na studiach i nie mają już pomysłu na to, jak wyjść z opresji lub mają problem ze sporządzeniem jakiegoś pisma do korzystania z pomocy oferowanej przez Zespół Praw Studenta powołany przez Samorząd Studentów Uniwersytetu Jagiellońskiego celem pomocy studentom w wyżej wymienionych kwestiach. Zespół Praw Studenta na pewno znajdzie dla Was jakieś rozwiązanie i pomoże Wam w miarę możliwości, a znaleźć ich można pod tym adresem - [http://www.samorzad.uj.edu.pl/pl/zespol-praw-studenta](http://www.samorzad.uj.edu.pl/pl/zespol-praw-studenta).
 
 ### Program studiów
 
@@ -14,7 +14,7 @@ Do obowiązków studenta należy także złożenie deklaracji wyboru przedmiotó
 
 ### Wpis warunkowy
 
-Jeśli student uzyska w trakcie roku akademickiego co najmniej 50 punktów ECTS, ale mniej niż 60, ma możliwość uzyskania wpisu na kolejny rok studiów. Jednocześnie student zobowiązuje się do tego, aby uzupełnić powstałą różnicę punktową w następnym roku akademickim, bowiem wedle regulaminu nie można skorzystać z wpisu warunkowego dwukrotnie w kontekście niezaliczenia tego samego przedmiotu. Wniosek o uzyskanie wpisu warunkowego należy złożyć przed rozpoczęciem nowego roku akademickiego. Wzór takiego podania znajdziecie między innymi na stronie Samorządu Studentów UJ - [http://www.samorzad.uj.edu.pl/main/libraryShow/1/564](http://www.samorzad.uj.edu.pl/main/libraryShow/1/564). 
+Jeśli student uzyska w trakcie roku akademickiego co najmniej 50 punktów ECTS, ale mniej niż 60, ma możliwość uzyskania wpisu na kolejny rok studiów. Jednocześnie student zobowiązuje się do tego, aby uzupełnić powstałą różnicę punktową w następnym roku akademickim, bowiem wedle regulaminu nie można skorzystać z wpisu warunkowego dwukrotnie w kontekście niezaliczenia tego samego przedmiotu. Wniosek o uzyskanie wpisu warunkowego należy złożyć przed rozpoczęciem nowego roku akademickiego. Wzór takiego podania znajdziecie między innymi na stronie Samorządu Studentów UJ - [http://www.samorzad.uj.edu.pl/pl/prawa-studenta/wzory-pism](http://www.samorzad.uj.edu.pl/pl/prawa-studenta/wzory-pism). 
 
 ### Wznowienie studiów na tym samym kierunku lub specjalności
 
@@ -69,7 +69,3 @@ Student, który zaliczył pierwszy rok studiów ma prawo do skorzystania z urlop
 ### Urlop dziekański
 
 Na wniosek studenta dziekan może udzielić urlopu dziekańskiego ze względu na ważne okoliczności, które uniemożliwiają studentowi udział w zajęciach dydaktycznych, w szczególności wynikające ze stanu zdrowia, niepełnosprawności lub też związane z urodzeniem i wychowywaniem dziecka. Łączny wymiar urlopu dziekańskiego nie może być dłuższy niż 4 semestry. Student może ubiegać się o przyznanie urlopu dziekańskiego bezpośrednio po zaistnieniu przyczyny. Udzielenie urlopu dziekańskiego za okres miniony lub w trakcie trwania sesji egzaminacyjnej jest niemożliwe, chyba że przyczyna uzasadniająca udzielenie urlopu powstała wcześniej. W okresie urlopu student może, za zgodą dziekana i na warunkach przez niego określonych, brać udział w zajęciach oraz zaliczać  przedmioty objęte programem studiów.
-
-### Zespół Praw Studenta
-
-TODO - dopisać
