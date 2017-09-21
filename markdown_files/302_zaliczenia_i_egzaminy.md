@@ -5,11 +5,6 @@ Większość przedmiotów na WMiI kończy się egzaminem. Student, __niezależni
 ### Kolokwia
 Kolokwia mogą być różne. Nazywamy nimi kartkówki, które zdarza się nam pisać na ćwiczeniach, a także większe testy pisane raz, dwa razy w trakcie semestru przez wszystkich studentów zapisanych na dany przedmiot. Kolokwia w postaci kartkówek mogą być zapowiedziane lub niezapowiedziane. Kolokwia w postaci testu są ustalane odpowiednio wcześniej i choć nie chcemy nikogo straszyć, zdarza się, że odbywają się w soboty.
 
-
-### Zaliczenie a egzamin
-TODO - Dopisać!
-
-
 ### Dostępne terminy 
 
 #### Termin zero

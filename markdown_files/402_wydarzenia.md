@@ -8,7 +8,7 @@ Poza zwyczajnym studiowaniem, studentom zdarza się robić inne ciekawe rzeczy. 
 
 Największa studencka konferencja IT w Polsce, organizowana od 2005 roku. Odbywa się zazwyczaj w połowie marca. Organizują ją cztery krakowskie koła naukowe – poza Kołem Studentów Informatyki UJ są to: Koło Naukowe BIT AGH, Koło Naukowe Informatyki UEK i Koło Naukowe Informatyków PK.
 
-Naszymi prelegentami byli m.in. Richard Stallman (twórca ruchu wolnego oprogramowania), Kevin Warwick („człowiek-cyborg”), Hakon Wium Lie (twórca CSS), Roman Kluska (założyciel OPTIMUSa) czy też Piotr Konieczny (redaktor naczelny Niebezpiecznik.pl). Poza wykładami, odbywają się też warsztaty prowadzone przez praktyków z firm czy kół naukowych.
+Naszymi prelegentami byli m.in. Richard Stallman (twórca ruchu wolnego oprogramowania), Thomas Cormen (współtwórca niezastąpionego ,,Wprowadzenia do algorytmów"), Kevin Warwick („człowiek-cyborg”), Hakon Wium Lie (twórca CSS), Roman Kluska (założyciel OPTIMUSa) czy też Piotr Konieczny (redaktor naczelny Niebezpiecznik.pl). Poza wykładami, odbywają się też warsztaty prowadzone przez praktyków z firm czy kół naukowych.
 
 Więcej informacji: [www.sfi.org.pl](http://www.sfi.org.pl)
 
