@@ -1,5 +1,4 @@
 .card {
-  @include flexy($dir: column);
   padding: 1em 1em;
   border: 2px solid $color-shade;
   border-radius: 0.3em;
@@ -29,18 +28,6 @@
     padding-left: 20px;
     margin-top: 15px;
   }
-  @include mq('xs') {
-    flex: 1 per-line(1);
-  }
-  @include mq('sm') {
-    flex-basis: per-line(2);
-  }
-  @include mq('med') {
-    flex-basis: per-line(2);
-  }
-  @include mq('lg') {
-    flex-basis: per-line(3);
-  }
   &:hover {
     background-color: $color-shade;
     opacity: 0.7;
@@ -51,32 +38,18 @@
 }
 
 .card-small {
-  @include flexy($dir: column);
   padding: 1em 1em;
   border: 2px solid $color-shade;
   border-radius: 0.25em;
   margin: $gutter;
-  width: 100%;
   h1 {
     color: $color-primary;
-    margin: 0.8em 0 0;
+    margin: 0.35em 0 0;
     font-size: 1.5em;
     line-height: 1.25;
     font-weight: normal;
     text-align: left;
     padding-left: 1rem;
-  }
-  @include mq('xs') {
-    flex: 1 per-line(1);
-  }
-  @include mq('sm') {
-    flex-basis: per-line(2);
-  }
-  @include mq('med') {
-    flex-basis: per-line(2);
-  }
-  @include mq('lg') {
-    flex-basis: per-line(3);
   }
   &:hover {
     background-color: $color-shade;
@@ -85,10 +58,11 @@
   &:active {
     opacity: initial;
   }
+  @include flexy($dir: column, $grow: 1);
 }
 
-
 .cont {
+  display: flex;
   @include flexy($dir: column);
   @include mq('xs') {
     flex: 1 per-line(1);
@@ -102,4 +76,8 @@
   @include mq('lg') {
     flex-basis: per-line(3);
   }
+}
+
+.cont .card {
+  height: 100%;  
 }
