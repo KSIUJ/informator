@@ -6,6 +6,9 @@
     margin-top: 40px;
     margin-bottom: 40px;
   }
+  @include mq('sm') {
+    margin-top: 30px;
+  }
 }
 
 .content {
