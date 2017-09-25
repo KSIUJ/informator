@@ -11,6 +11,7 @@
     color: $color-primary;
     margin-top: 0;
     margin-bottom: 0;
+    cursor: pointer;
     &:hover {
       color: $color-primary-light;
       background-color: $color-shade;
@@ -28,7 +29,6 @@
     ul, ol {
       list-style-type: disc;
       padding-left: 2em;
-      margin: 0;
     }
   }
 }

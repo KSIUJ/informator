@@ -9,7 +9,7 @@
 }
 
 .content {
-  min-height: 300px;
+  min-height: 250px;
   width: 95%;
   color: black;
   @include flexy($wrap: wrap);
@@ -27,16 +27,21 @@
   }
   margin: 40px auto;
   p {
-    text-align: justify;
+    text-align: left;
     max-width: 100%;
-    word-break: break-word;
+    overflow-wrap: break-word;
     padding: 0 0.5em;
   }
   ul, ol {
     list-style-type: disc;
     padding-left: 3.5em;
     text-align: left;
-    margin: 0;
+  }
+  blockquote {
+    border-left: 5px solid $color-shade;
+  }
+  h4 {
+    padding-left: 0.5em;
   }
 }
 
