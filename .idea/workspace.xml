@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ffe814-9b2b-4651-b1f2-167a6301d94f" name="Default" comment="Add markdown wersions of about, links and authors pages, add html template without table of content, update build.sh.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/informator.epub" afterPath="$PROJECT_DIR$/static/informator.epub" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown_files/204_pomoc_materialna.md" afterPath="$PROJECT_DIR$/markdown_files/204_pomoc_materialna.md" />
@@ -124,9 +125,9 @@
       <file leaf-file-name="204_pomoc_materialna.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/markdown_files/204_pomoc_materialna.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="396">
-                <caret line="62" column="343" lean-forward="false" selection-start-line="62" selection-start-column="343" selection-end-line="62" selection-end-column="343" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="66" column="99" lean-forward="false" selection-start-line="66" selection-start-column="99" selection-end-line="66" selection-end-column="99" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -558,7 +559,7 @@
       <workItem from="1505921894741" duration="757000" />
       <workItem from="1506010152494" duration="4207000" />
       <workItem from="1506499587339" duration="35000" />
-      <workItem from="1506795424118" duration="1038000" />
+      <workItem from="1506795424118" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="Add markdown wersions of about, links and authors pages, add html template without table of content, update build.sh.">
       <created>1503251464427</created>
@@ -571,11 +572,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71343000" />
+    <option name="totallyTimeSpent" value="71593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.030139936" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -585,7 +585,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1889401" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1889401" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -987,9 +987,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/markdown_files/204_pomoc_materialna.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="396">
-            <caret line="62" column="343" lean-forward="false" selection-start-line="62" selection-start-column="343" selection-end-line="62" selection-end-column="343" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="66" column="99" lean-forward="false" selection-start-line="66" selection-start-column="99" selection-end-line="66" selection-end-column="99" />
             <folding />
           </first_editor>
           <second_editor />
