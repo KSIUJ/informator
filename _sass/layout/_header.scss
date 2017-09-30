@@ -27,6 +27,7 @@ header {
     @include mq('xs') {
       font-size: 2em;
     }
+    a, a:hover { color: $white; }
   }
   p {
     color: $color-accent;
