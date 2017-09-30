@@ -22,7 +22,7 @@ header {
       font-size: 3.0em;
     }
     @include mq('sm') {
-      font-size: 2.8em;
+      font-size: 2.5em;
     }
     @include mq('xs') {
       font-size: 2em;
