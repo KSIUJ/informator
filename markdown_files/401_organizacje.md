@@ -12,6 +12,7 @@ W Kole znajduje się obszerna biblioteka zawierająca najbardziej potrzebne stud
 
 Poza własnymi inicjatywami współtworzymy Konferencję Liczby Komputery Życie, pomagamy przy organizacji Dnia Wydziału, uczestniczymy w krakowskim Festiwalu Nauki na Rynku Głównym oraz Małopolskiej Nocy Naukowców.
 
+
 W Kole prężnie działa sfera towarzyska. Codziennie spotykamy się w naszym lokalu, który prawie zawsze jest otwarty dla studentów. Organizujemy kostiumowy Bal Andrzejkowy i pomagamy przy Wydziałowym Spotkaniu Opłatkowym, przed którym pieczemy pyszne ciasta. Rozgrywamy też mecze siatkówki i piłki nożnej przeciwko drużynie pracowników Wydziału. Tradycją jest Mikołajkowy Turniej Szachowy oraz Konkurs na Cytat Roku w którym wybieramy najzabawniejsze powiedzonko usłyszane od prowadzących zajęcia. Od pewnego czasu Koło organizuje regularne ćwiczenia jogi, które są otwarte dla wszystkich chętnych (udostępniamy maty, koce i klocki).
 
 Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008 na I piętrze**. Można się z nami również kontaktować przez maila kmsuj7@gmail.com. Więcej informacji o nas można znaleźć na **[www.kmsuj.im.uj.edu.pl](www.kmsuj.im.uj.edu.pl)** oraz na **[www.facebook.com/kmsuj](www.facebook.com/kmsuj)**.

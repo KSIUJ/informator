@@ -8,9 +8,9 @@ Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 je
 
 ### Koordynator ds. pomocy materialnej 
 
-todo - zmienić!
-+ mgr Piotr Pogoda, tel. (+48) 12 664 6627, (pokój 1053)
+Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2017/2018 jest Olga Kwaśny (tel.: 12 664 66 61), znaleźć ją można w Bibliotece Wydziałowej na pierwszym piętrze wydziału. Podczas nieobecności Pani Kwaśny, zastępuje ją Agnieszka Dudek (pokój 1005, I piętro, tel: 12 664 75 96).
 
+Informacje bieżące - terminy składania wniosków - jak również cenne uwagi i podpowiedzi znaleźć można na stronie Wydziału w zakładce Pomoc materialna oraz na stronie [Centrum Wsparcia Dydaktyki i Spraw Studenckich UJ](http://www.dn.uj.edu.pl/studenci/pomoc-materialna). Warto śledzić te informacje, aby nie przeoczyć terminów składania wniosków lub informacji dotyczących procedury ich składania. Niektóre załączniki, które trzeba wypełnić i dołączyć do wniosków, pojawiają się w systemie USOSweb na kolejnych etapach ich wypełniania. W przypadku ich pominięcia, zalecamy odszukanie aktualnych wersji formularzy na stronie wydziałowej.
 
 ### Stypendium socjalne
 
@@ -55,6 +55,17 @@ O stypendium rektora dla najlepszych studentów mogą ubiegać się także stude
 
 __Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października.__
 
+
+__Uwaga! O stypendium moga się również ubiegać studenci pierwszego roku!__
+
+
+### Rektorski Fundusz Stypendialny
+Stypendium przeznaczone jest dla studentów 1. roku, którzy podjęli studia w roku uzyskania świadectwa dojrzałości, a dodatkowo należą do przynajmnie jednej z grup:
+- Uczestnicy finałów olimpiady międzynarodowej,
+- laureaci eliminacji centralnych olimpiady ogólnopolskiej, którzy zajęli najwyższe miejsce spośród wszystkich laureatów tej samej olimpiady przyjętych w danym roku na studia na Uniwersytecie Jagiellońskim (niezależnie od tego, w której edycji olimpiady uczestniczyli). 
+
+Stypendium przyznawane jest na 10 miesięcy - termin składania wniosków mija 20 października 2017r. [Więcej informacji](http://www.dn.uj.edu.pl/fundusze/fundusz-rektorski)
+
 ### Zapomogi
 
 Zapomoga jest świadczeniem przyznawanym studentom, którzy z przyczyn losowych znaleźli się w przejściowo trudnej sytuacji materialnej. W szczególności do takich sytuacji należą:
@@ -73,6 +84,7 @@ Aby uzyskać to świadczenie należy:
 + wypełnić na USOSie oświadczenie o dochodach oraz wniosek o zapomogę
 + wydrukować i podpisać oba dokumenty
 + złożyć oświadczenie, wniosek oraz potrzebną dokumentację do wydziałowego koordynatora ds. pomocy materialnej
+
 ### Własne fundusze stypendialne UJ, stypendium ministra, kredyty studenckie
 Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy na stronę - [Komisji ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/pl/o-nas/komisje/uczelniana-komisja-ekonomiczna/aktualnosci).
 
