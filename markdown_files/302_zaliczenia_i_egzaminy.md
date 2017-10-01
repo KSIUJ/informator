@@ -18,7 +18,7 @@ Co jeśli nie powiedzie się zdanie egzaminu w pierwszym terminie?
 
 #### Termin drugi
 
-Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko __dwa terminy egzaminów__. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału:  [Niektóre prawa i obowiązki studenta](#Wybrane-prawa-i-obowiązki-studenta) - tam możecie znaleźć zapasowe koła ratunkowe.
+Przerwę między sesją, a sesją poprawkową wykorzystujemy na douczenie się i usystematyzowanie materiału, po czym przystępujemy do kolejnej bitwy i tutaj uwaga - kolejnej szansy już nie będzie. Na Uniwersytecie Jagiellońskim istnieją tylko __dwa terminy egzaminów__. Każdy dodatkowy termin zależy tylko i wyłącznie od dobrej woli prowadzącego. Dobra wola prowadzącego może także przejawić się obniżeniem progów wymaganych do zaliczenia przedmiotu ­co się zdarza, ale nie należy się na to nastawiać. Warto więc przyłożyć się do egzaminu poprawkowego. W najgorszym wypadku odsyłamy do rozdziału: [Niektóre prawa i obowiązki studenta](prawa_i_obowiazki_studenta.html) - tam możecie znaleźć zapasowe koła ratunkowe.
 
 
 ### Dress code

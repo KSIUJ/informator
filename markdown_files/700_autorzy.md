@@ -2,7 +2,7 @@
 
 ### Edycja 2017
 - Katarzyna Haja,
-- Mateusz Joniak,
+- inż. Mateusz Joniak,
 - Dominika Zając
 
 ### Pierwsza edycja 

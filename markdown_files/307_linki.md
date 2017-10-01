@@ -10,7 +10,7 @@ Jest to baza odnośników zamieszczonych w informatorze i nie tylko. W sprawach 
 - [USOSweb](https://www.usosweb.uj.edu.pl)
 - [Poczta ogólnouniwersytecka](https://login.microsoftonline.com)
 - [Poczta II](https://mail.ii.uj.edu.pl)
-- [Poczta IM](https://poczta.ii.uj.edu.pl)
+- [Poczta IM](https://www2.im.uj.edu.pl/mail)
 - [Strona administratorów wydziałowych](https://intra.matinf.uj.edu.pl)
 - [Plan budynku](http://www.plan.ii.uj.edu.pl)
 - [Microsoft DreamSpark naszego wydziału](http://e5.onthehub.com/d.ashx?s=lnc1icix4z)

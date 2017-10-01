@@ -15,7 +15,7 @@ Poza własnymi inicjatywami współtworzymy Konferencję Liczby Komputery Życie
 
 W Kole prężnie działa sfera towarzyska. Codziennie spotykamy się w naszym lokalu, który prawie zawsze jest otwarty dla studentów. Organizujemy kostiumowy Bal Andrzejkowy i pomagamy przy Wydziałowym Spotkaniu Opłatkowym, przed którym pieczemy pyszne ciasta. Rozgrywamy też mecze siatkówki i piłki nożnej przeciwko drużynie pracowników Wydziału. Tradycją jest Mikołajkowy Turniej Szachowy oraz Konkurs na Cytat Roku w którym wybieramy najzabawniejsze powiedzonko usłyszane od prowadzących zajęcia. Od pewnego czasu Koło organizuje regularne ćwiczenia jogi, które są otwarte dla wszystkich chętnych (udostępniamy maty, koce i klocki).
 
-Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008 na I piętrze**. Można się z nami również kontaktować przez maila kmsuj7@gmail.com. Więcej informacji o nas można znaleźć na **[www.kmsuj.im.uj.edu.pl](www.kmsuj.im.uj.edu.pl)** oraz na **[www.facebook.com/kmsuj](www.facebook.com/kmsuj)**.
+Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008 na I piętrze**. Można się z nami również kontaktować przez maila kmsuj7@gmail.com. Więcej informacji o nas można znaleźć na **[www.kmsuj.im.uj.edu.pl](http://kmsuj.im.uj.edu.pl)** oraz na **[www.facebook.com/kmsuj](http://www.facebook.com/kmsuj)**.
 
 
 
@@ -53,7 +53,7 @@ Wszystkich chętnych, aby do nad dołączyć zapraszany do naszego pokoju **1008
 
 Jednak nasze Koło to przede wszystkim Wy. Ci, którzy w przerwie między jednym wykładem a drugim przyjdą do naszej siedziby w sali **1173**, zrobią sobie kawę lub tosta i usiądą na jednej z kanap. Ci, którzy godzinami dyskutują na temat wyższości C++ nad Javą (lub odwrotnie), rozwiązują skomplikowane zagadki programistyczne lub męczą się nad kolejnym zestawem zadań z algebry. Ci, którzy po prostu przyjdą do nas spotkać się ze swoimi znajomymi i pograć w planszówki.
 
-Chcesz dowiedzieć się o nas czegoś więcej? Zajrzyj na nasz fanpage (**[fb.com/ksi.uj](fb.com/ksi.uj)**), stronę WWW (**[www.ksi.ii.uj.edu.pl](www.ksi.ii.uj.edu.pl)**) lub po prostu zajrzyj do sali nr **1173** na pierwszym piętrze! Pamiętaj: nie musisz być od razu członkiem Koła, aby przyjść i po prostu posiedzieć! Zapraszamy!
+Chcesz dowiedzieć się o nas czegoś więcej? Zajrzyj na nasz fanpage (**[fb.com/ksi.uj](http://fb.com/ksi.uj)**), stronę WWW (**[www.ksi.ii.uj.edu.pl](http://www.ksi.ii.uj.edu.pl)**) lub po prostu zajrzyj do sali nr **1173** na pierwszym piętrze! Pamiętaj: nie musisz być od razu członkiem Koła, aby przyjść i po prostu posiedzieć! Zapraszamy!
 
 
 
@@ -69,7 +69,7 @@ Koło to także skarbnica wiedzy. Tu dowiecie się jakie przedmioty wybrać, gdz
 
 Lubimy ze sobą spędzać czas. Często organizujemy wyjścia na laserowy paintball, imprezy kołowe, a podczas naszych wyjazdów uwielbiamy górskie wędrówki. Nawet tańczyć Was nauczymy – a są takie tańce, których nigdzie indziej nikt tak nie tańczy jak u nas!
 
-Jeśli chcielibyście dowiedzieć się więcej na temat naszego Koła, sprawdźcie naszego facebooka: **[facebook.com/knmf.uj](facebook.com/knmf.uj)**, stronę: **[www.knmf.im.uj.edu.pl](www.knmf.im.uj.edu.pl)** lub wpadnijcie do nas do Koła (pokój **0136**). Często spotykamy się tam podczas przerw, żeby razem wypić kawę, przedyskutować problemy lub pograć w gry planszowe. Nie bądźcie zaskoczeni jeśli spotkacie nas tam o 7:30, jest to idealna pora na przedyskutowanie bieżących wydarzeń z rynków finansowych.
+Jeśli chcielibyście dowiedzieć się więcej na temat naszego Koła, sprawdźcie naszego facebooka: **[facebook.com/knmf.uj](http://facebook.com/knmf.uj)**, stronę: **[www.knmf.im.uj.edu.pl](http://www.knmf.im.uj.edu.pl)** lub wpadnijcie do nas do Koła (pokój **0136**). Często spotykamy się tam podczas przerw, żeby razem wypić kawę, przedyskutować problemy lub pograć w gry planszowe. Nie bądźcie zaskoczeni jeśli spotkacie nas tam o 7:30, jest to idealna pora na przedyskutowanie bieżących wydarzeń z rynków finansowych.
 
 Jeśli chcielibyście do nas dołączyć, koniecznie napiszcie na knmfuj@gmail.com i umówcie się z nami na spotkanie! Nie czekajcie zbyt długo - najbardziej cieszymy się z najmłodszych studentów!
 
@@ -123,7 +123,7 @@ Nie, jasne, że nie! Nasza aktywność naukowa jest dosyć intensywna i pochłan
 #### Więcej informacji o naszym Kole znajdziesz:
 
 + w naszej siedzibie: **sale 1162, 1164**
-+ na naszej stronie internetowej: [http://nkr.matinf.uj.edu.pl](http://nkr.matinf.uj.edu.pl)
++ na naszej stronie internetowej: [http://nkrsi.pl/](http://nkrsi.pl/)
 + na naszym profilu na Facebooku: [https://www.facebook.com/nkruj](https://www.facebook.com/nkruj)
 
 
@@ -162,14 +162,6 @@ A przede wszystkim służymy pomocą przy **przejściu na jasną stronę mocy**,
 
 Zapraszmy do wspólnego hakowania!
 
-#### Dołącz do nas
-
-Nie jesteś pewien? Po więcej informacji zapraszamy na nasze strony internetowe [http://www.slimak.matinf.uj.edu.pl](http://www.slimak.matinf.uj.edu.pl)! Możesz to też zrobić na naszym kanale IRC #slimak@irc.pirc.pl lub po prostu napisać do kogoś z Zarządu [https://www.slimak.matinf.uj.edu.pl/zarzad/](https://www.slimak.matinf.uj.edu.pl/zarzad/). Kawa? Herbata? Piwo? Hedgewars? Spotkajmy się!
-
-Jeśli chcesz być na bieżąco, zachęcamy do śledzenia naszego bloga [https://www.slimak.matinf.uj.edu.pl/posts/](https://www.slimak.matinf.uj.edu.pl/posts/),
-na którym pojawiają się ważniejsze ogłoszenia (w tym terminy warsztatów) oraz do obserwowania tablicy ogłoszeń na wydziale :-)
-
-
 ### Koło Naukowe Bioinformatyki BIT
 
 Koło rozpoczęło swoją działalność w czerwcu 2014. Zrzesza ono ponad 30 studentów Uniwersytetu Jagiellońskiego zainteresowanych bioinformatyką, biologią obliczeniową, biocybernetyką oraz dziedzinami pokrewnymi, działających w 4 sekcjach:
@@ -193,7 +185,7 @@ W Kole studenci mogą liczyć na pomoc innych członków dzięki spotkaniom w gr
 
 W posiadaniu Koła znajduje się **biblioteczka**, w której znaleźć można książki i materiały zgromadzone w trakcie studiów przez kołowiczów. Są to ciekawe pozycje książkowe (m. in. _,,Zrozumieć programowanie"_, G. Coldwind, _,,Statystyka  i  chemometria  w  chemii  analitycznej"_, J. i J. Miller, _,,Biological Modeling and simulation - A survey of Practical Models, Algorithms, and Numerical Methods"_, czy _,,An introduction to Bioinformatics Algorithms"_), a także notatki z lat poprzednich.
 
-BIT wydaje również własne **czasopismo** – **„BioInfoWorld”**. Jego celem jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu pomiędzy tymi pozornie odległymi gałęziami nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: *bioinfoworld.redakcja@gmail.com*.
+BIT wydaje również własne **czasopismo** – **„BioInfoWorld”**. Jego celem jest przybliżenie bioinformatyki zarówno biologom, jak i informatykom. Czasopismo opracowywane jest z myślą o stworzeniu pomostu pomiędzy tymi pozornie odległymi gałęziami nauki. Poprzednie numery dostępne są pod adresem: [www.bit.ii.uj.edu.pl/bioinfoworld](http://www.bit.ii.uj.edu.pl/bioinfoworld). Osoby chętne do publikowania artykułu prosimy o kontakt mailowy: [bioinfoworld.redakcja@gmail.com](bioinfoworld.redakcja@gmail.com).
 
 Kolejnym z obszarów działalności Koła jest udział i organizacja **konferencji naukowych**. Sekcja wydarzeń naukowych aktywnie wspiera przedsięwzięcia takie jak, organizowana przez studentów Koła Nauk Psychologicznych "PRAGMA" konferencja "Człowiek Zalogowany", Dni Wydziału czy Festiwale Nauki.
 
@@ -232,11 +224,8 @@ Mamy nadzieje, że jak już do nas dołączysz, zostaniesz na dłużej.  Widzimy
 **R&D** – W Research & Development zajmujemy się nowymi technologiami oraz pracujemy nad konkretnymi projektami. Celem naszym jest stworzyć mądre zastosowania dzisiejszej technologii w naszym codziennym życiu.
 Z naszymi projektami chcemy także wygrywać różne konkursy (takie jak np. lmagineCup) i zastosować nasze rozwiązania w naszej pracy w Kole żeby wspólnie osiągnąć większą produktywność. 
 
-**Juniors** – Pamiętasz jak byłeś w gimnazjum, a następnie w szkole średniej? Szukałeś ciekawych kół naukowych… ale nigdzie ich nie było! Pomóż nam wspierać uczniów w rozwoju swoich pasji informatycznych. Dlaczego uważamy, że warto? Bo sami pamiętamy jak to było parę lat temu… Przyjdź poprowadź parę zajęć, pomóż nam tworzyć markę sekcji junior pod szyldem ImagineSchool. Dlaczego inna nazwa? By przekonać uczniów, że to właśnie dla nich prowadzimy zajęcia.
-
 Kontakt: 
 + ImagineAcademy - [https://www.facebook.com/ImagineAcademyUJ](https://www.facebook.com/ImagineAcademyUJ)
-+ ImagineSchool - [https://www.facebook.com/Junior.UJ](https://www.facebook.com/Junior.UJ)
 + Fabian Kapuscik – [mailto:fabian.kapuscik@studentpartner.com](fabian.kapuscik@studentpartner.com)
 
 ### WRSS
