@@ -1,6 +1,6 @@
 ## Pomoc materialna
 
-Studenci Uniwersytetu Jagiellońskiego znajdujący się w trudnej sytuacji materialnej mogą ubiegać się o różnego rodzaju stypendia oraz zapomogi. Szczegółowe informacje dotyczące wszystkich opisanych w tym rozdziale form pomocy materialnej znajdziesz na stronie [Uczelnianej Komisji Ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/comission/staticPage/5/231 "Uczelniana Komisja Ekonomiczna").
+Studenci Uniwersytetu Jagiellońskiego znajdujący się w trudnej sytuacji materialnej mogą ubiegać się o różnego rodzaju stypendia oraz zapomogi. Szczegółowe informacje dotyczące wszystkich opisanych w tym rozdziale form pomocy materialnej znajdziesz na stronie [Centrum Wsparcia Dydaktyki i Spraw Studenckich](http://www.dn.uj.edu.pl/studenci/pomoc-materialna).
 
 Należy pamiętać, że wszystkie świadczenia pomocy materialnej można pobierać tylko na jednym kierunku studiów.
 
@@ -43,7 +43,7 @@ Aby uzyskać do świadczenie należy:
 
 ### Stypendium rektora dla najlepszych studentów
 
-Stypendium rektora przysługuje studentowi, który w poprzednim roku akademickim uzyskał wysoką średnią ocen lub posiada osiągnięcia naukowe, artystyczne bądź sportowe. Stypendium to może otrzymać nie więcej niż 10% studentów na każdym kierunku, którzy otrzymali najwięcej punktów obliczanych według punktacji zawartej w Regulaminie. Wykaz osiągnięć, które będą punktowane przy ocenie wniosku oraz listę wymaganych dokumentów znajdziecie na stronie Samorządu Studentów w zakładce UKE.
+Stypendium rektora przysługuje studentowi, który w poprzednim roku akademickim uzyskał wysoką średnią ocen lub posiada osiągnięcia naukowe, artystyczne bądź sportowe. Stypendium to może otrzymać nie więcej niż 10% studentów na każdym kierunku, którzy otrzymali najwięcej punktów obliczanych według punktacji zawartej w Regulaminie. Wykaz osiągnięć, które będą punktowane przy ocenie wniosku oraz listę wymaganych dokumentów znajdziecie na stronie Centrum Wsparcia Dydaktyki i Spraw Studenckich.
 
 __Student ubiegający się o stypendium rektora dla najlepszych studentów musi obliczyć swoją średnią ważoną ocen.__ Średnią ważoną ocen weryfikuje się w sekretariacie danej jednostki organizacyjnej.
 
@@ -51,7 +51,7 @@ Przy ocenie wniosków brane są pod uwagę osiągnięcia i średnia ocen uzyskan
 
 Stypendium rektora dla najlepszych studentów nie przysługuje studentom, którzy zostali wpisani na kolejny rok akademicki korzystając z wpisu warunkowego oraz tym, którzy powtarzali rok studiów w poprzednim roku akademickim (wyjątkiem jest sytuacja, w której student zaliczył jednocześnie powtarzany oraz kolejny rok studiów).
 
-O stypendium rektora dla najlepszych studentów mogą ubiegać się także studenci przyjęci na I rok studiów. Więcej informacji na ten temat można znaleźć tutaj - [http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf](http://www.samorzad.uj.edu.pl/fx/downloads/file229.pdf).
+O stypendium rektora dla najlepszych studentów mogą ubiegać się także studenci przyjęci na I rok studiów. Więcej informacji na ten temat można znaleźć [tutaj](http://www.dn.uj.edu.pl/studenci/pomoc-materialna/stypendium-rektora).
 
 __Termin składania wniosku o stypendium rektora dla najlepszych studentów w danym roku akademickim upływa każdorazowo 20 października.__
 
@@ -86,5 +86,5 @@ Aby uzyskać to świadczenie należy:
 + złożyć oświadczenie, wniosek oraz potrzebną dokumentację do wydziałowego koordynatora ds. pomocy materialnej
 
 ### Własne fundusze stypendialne UJ, stypendium ministra, kredyty studenckie
-Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy na stronę - [Komisji ekonomicznej Samorządu Studentów UJ](http://www.samorzad.uj.edu.pl/pl/o-nas/komisje/uczelniana-komisja-ekonomiczna/aktualnosci).
+Oprócz stypendiów zaliczanych regulaminowo jako świadczenia pomocy materialnej na stronie Uniwersytetu Jagiellońskiego można także znaleźć informacje o funduszach stypendialnych, stypendium ministra czy kredytach studenckich. Zainteresowanych zapoznaniem się z tą tematyką odsyłamy na stronę - [Centrum Wspacia Dydaktyki i Spraw Studenckich](http://www.dn.uj.edu.pl/studenci/pomoc-materialna).
 
