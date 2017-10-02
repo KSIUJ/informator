@@ -3,8 +3,9 @@
 ### Edycja 2017
 - Katarzyna Haja,
 - inż. Mateusz Joniak,
-- Dominika Zając
-
+- Adam Piekarczyk,
+- Dominika Zając (koordynatorka)
+ 
 ### Pierwsza edycja 
 - Arkadiusz Czekajski (KSI),
 - Paulina Gajda,
