@@ -4,8 +4,6 @@ Studenci Uniwersytetu Jagiellońskiego znajdujący się w trudnej sytuacji mater
 
 Należy pamiętać, że wszystkie świadczenia pomocy materialnej można pobierać tylko na jednym kierunku studiów.
 
-Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2015/2016 jest mgr Piotr Pogoda, a znaleźć go można w pokoju 1026 na pierwszym piętrze wydziału.
-
 ### Koordynator ds. pomocy materialnej 
 
 Wydziałowym koordynatorem ds. pomocy materialnej na rok akademicki 2017/2018 jest Olga Kwaśny (tel.: 12 664 66 61), znaleźć ją można w Bibliotece Wydziałowej na pierwszym piętrze wydziału. Podczas nieobecności Pani Kwaśny, zastępuje ją Agnieszka Dudek (pokój 1005, I piętro, tel: 12 664 75 96).

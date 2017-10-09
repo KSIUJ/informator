@@ -17,9 +17,6 @@ Quota na dysku sieciowym wynosi zaledwie 100MB (współdzielone z kontem pocztow
 
 Pamiętaj, że dzięki możliwości zapisaniu plików na swoim profilu dostępnym z każdego miejsca z internetem (poprzez ssh - patrz opis kont), pendrive nie jest ci potrzebny - co nie zmienia faktu, że zalecamy robić backupy ;)
 
-### Biblioteka
-Biblioteka wydziałowa jest miejscem, w którym nie tylko możesz wypożyczyć książki niezbędne do zajęć na uczelni ale i również skorzystać z ogólnodostępnych komputerów czy miejsc do nauki. Do korzystania z zasobów biblioteki wystarczy legitymacja studencka.
-
 ### Stołówka 
 W głównym korytarzu Wydziału (na parterze, po lewej stronie) znajduje się stołówka Docent, w której można zakupić obiady, zapiekanki czy kanapki.
 
