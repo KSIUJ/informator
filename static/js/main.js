@@ -5,3 +5,7 @@ $('.panel-header').click(function() {
 if (!!document.location.hash) {
     $(document.location.hash).next().show();
 }
+
+$(header).click(function() {
+    document.location.href="/";
+});
