@@ -6,6 +6,6 @@ if (!!document.location.hash) {
     $(document.location.hash).next().show();
 }
 
-$(header).click(function() {
+$('.inner').click(function() {
     document.location.href="/";
 });
