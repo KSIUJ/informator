@@ -11,6 +11,10 @@
   }
 }
 
+.container-wrapper {
+  min-height: calc(100vh - 430px);
+}
+
 .content {
   min-height: 250px;
   width: 95%;

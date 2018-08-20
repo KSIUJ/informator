@@ -48,7 +48,7 @@ header {
     margin: auto;
     img {
       margin-top: 1em;
-      height: 60px;
+      height: 50px;
       @include mq('xs') {
         height: 45px;
       }
