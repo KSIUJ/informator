@@ -20,21 +20,6 @@ Oprócz części naukowej odbywającej się na sali wykładowej, Warsztatom towa
 
 Więcej informacji: [http://kmsuj.im.uj.edu.pl/warsztaty/](http://kmsuj.im.uj.edu.pl/warsztaty/)
 
-#### Liczby Komputery Życie
-
-Jest to unikalne na skalę kraju wydarzenie bioinformatyczne, umożliwiające dyskusję i nawiązanie współpracy pomiędzy przedstawicielami nauk matematycznych i przyrodniczych. Jest ona organizowana przez koła naukowe Uniwersytetu Jagiellońskiego: Koło Naukowe Bioinformatyki BIT, Koło Matematyków Studentów UJ, Koło Studentów Informatyki oraz innne koła.
-
-W poprzednich latach panele konferencji były poświęcone tematyce: bioinformatyki, biomatematyki, modelowania matematycznego i komputerowego, biologii systemów, biologii molekularnej, genominiki, neuroinformatyki, czy projektowania leków.
-
-Uczestnicy, oprócz poszerzenia swojej wiedzy poprzez udział w wykładach i warsztatach, mają okazję do prezentacji własnych wyników, kontaktu z ludźmi nauki oraz integracji ze środowiskiem akademickim z całej Polski. Pozwala to na wymianę doświadczeń pomiędzy młodymi adeptami bioinformatyki i może dać początek przyszłej współpracy naukowej.
-
-Więcej informacji: [www.liczby-komputery-zycie.pl](http://www.liczby-komputery-zycie.pl)
-
-#### IT Academic Day (ITAD)
-
-Jednodniowa konferencja odbywająca się w październiku (podczas tak zwanego “Pizza Week”), której głównym punktem programu jest wizyta pracowników Microsoft z ich głównej siedziby w Redmond – dzięki czemu istnieje możliwość rekrutacji na wakacyjne praktyki w USA. Organizują ją wspólnie grupy .NET na UJ oraz KSI.
-
-Poza ciekawymi wykładami – prelegentami zazwyczaj są pracownicy dużych firm IT – zapewniona jest darmowa pizza dla każdego głodnego studenta. ;)
 
 #### Międzyuczelniana Naukowa Sesja Studencka
 
@@ -74,11 +59,4 @@ Interesujesz sie tematyką sztucznej inteligencji, machine learningu czy analizy
 #### Business Breakfast i English Discussion Club
 
 Uważasz, że za luzowanie ilościowe przyjdzie nam kiedyś zapłacić słoną cenę? A może sądzisz, że to jedyny ratunek dla wciąż pogrożonej w marazmie gospodarki? Właśnie takie tematy poruszane są w ramach spotkań dyskusyjnych organizowanych przez Koło Naukowe Matematyki Finansowej. Nie tylko omawiamy zagadnienia, nad którymi głowi się cały świat finansów, ale też szlifujemy swój angielski. Oprócz dyskusji poświęconych wybranemu wcześniej tematowi organizujemy spotkania, na których jeden z członków KNMF omawia aktualności ze świata biznesu, finansów i polityki.
-
-
-### Seminaria
-
-#### Seminaria Koła Bioinformatyki BIT
-
-...to cykliczne spotkania naukowe, podczas których prezentowane są wyniki badań członków koła, zaproszonych gości, jak również referaty popularnonaukowe. Umożliwiają one poszerzenie horyzontów naukowych w inny, bardziej niezobowiązujący sposób w miłej atmosferze. Jest to również doskonała okazja, aby zaprezentować się przed szerszą publicznością, a także wziąć udział w dyskusjach, które odbywają się po prezentacjach.
 

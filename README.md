@@ -9,3 +9,17 @@ Potrzebujesz:
 + [KindleGen](http://www.amazon.com/gp/feature.html?docId=1000765211) (.mobi)
 
 Żeby zbudować informator odpal skrypt `build.sh`
+
+## Odpalenie informatora na localhost:
+
++ `bundle install` (tylko jeżeli nie masz zainstalowanych zależności)
++ `./build.sh`
++ `bundle exec jekyll serve`
+
+
+Domyślnie strona zostanie odpalona na localhost:4000
+
+
+## Aktualizacja treści
+
+Zmiany powinny być dodawane w plikach .md w folderze `markdown_files`
