@@ -1,5 +1,5 @@
 current directory: /home/domi/WebstormProjects/informator/vendor/bundle/ruby/2.5.0/gems/ffi-1.9.25/ext/ffi_c
-/usr/bin/ruby2.5 -r ./siteconf20180820-25531-1qkcw8h.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20180921-4490-msgpvk.rb extconf.rb
 mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
 
 extconf failed, exit code 1

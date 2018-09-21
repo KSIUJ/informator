@@ -5,9 +5,11 @@ Poniższy rozdział zostanie poświęcony na omówienie najważniejszych kwestii
 
 ### Elektroniczny indeks
 
-Na Uniwersytecie Jagiellońskim od roku akademickiego 2011/2012 obowiązuje tak zwany e-indeks. Mimo to papierowy indeks może zostać wydany studentowi na jego wniosek, a prowadzący zajęcia ma obowiązek wpisać ocenę do indeksu na prośbę studenta.   
+Na Uniwersytecie Jagiellońskim od roku akademickiego 2011/2012 obowiązuje tak zwany e-indeks. Wszystkie oceny studenta wprowadzane są do systemu USOS, a znaleźć je można w zakładce: DLA STUDENTA->MOJE STUDIA->oceny. 
 
-Wszystkie oceny studenta wprowadzane są do systemu USOS, a znaleźć je można w zakładce: DLA STUDENTA-&gt;MOJE STUDIA-&gt;oceny. Zdarza się także, że prowadzący wpisują do USOS-a cząstkowe punktacje lub oceny z przeprowadzonych sprawdzianów czy kolokwiów i takich informacji należy szukać w zakładce MÓJ USOSWEB (sprawdziany studenta).
+
+Zdarza się także, że prowadzący wpisują do USOS-a cząstkowe punktacje lub oceny z przeprowadzonych sprawdzianów czy kolokwiów i takich informacji należy szukać w zakładce MÓJ USOSWEB (sprawdziany studenta). 
+
 
 ### Poczta uniwersytecka
 
@@ -17,16 +19,6 @@ Aby aktywować konto poczty uniwersyteckiej wystarczy przejść do zakładki MOD
 
 Więcej informacji na temat funkcjonalności usługi Office 365 znajdziecie na stronie: [http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/](http://www.przewodniki.uj.edu.pl/poczta/student/dodatkowe-mozliwosci/)
 
-### Rejestracja
-Studenci naszego wydziału samodzielnie rejestrują się na przedmioty, które chcą zaliczać w danym semestrze. Wyjątkiem od tej reguły jest pierwszy semestr studiów pierwszego stopnia, gdzie studenci automatycznie są zapisywani i przydzielani do grup ćwiczeniowych w kolejności alfabetycznej. Bardzo ważne jest, aby pamiętać, że tuż przed semestrem zimowym należy zadbać o to, żeby zarejestrować się na przedmioty oraz bezpośrednio do grup w przeznaczonych do tego celu terminach.
-
-Rejestracja na przedmioty jest bardzo ważna. Dzięki niej pracownicy WMiI wiedzą, ile osób chce uczęszczać na zajęcia i tworzą odpowiednią liczbę grup ćwiczeniowych. Rejestracja bezpośrednio do grup polega na wybraniu sobie konkretnej grupy ćwiczeniowej, do której przypisany jest prowadzący, dzień i godzina odbywania się zajęć. Na wykłady są automatycznie zapisani wszyscy studenci, którzy wzięli udział w rejestracji przedmiotowej.
-
-Należy także pamiętać, że jeśli student nie zarejestruje się na dany przedmiot, nie będzie mógł rejestrować się do grup utworzonych w ramach tego przedmiotu. Jeśli student przegapi termin rejestracji na przedmiot, będzie musiał poczekać na późniejsze tury rejestracji bezpośrednio do grup, gdzie nie będzie miał już tak swobodnego wyboru jak w pierwszej turze, ponieważ większość miejsc będzie już zajęta.
-
-W ostateczności, jeśli student przegapi wszystkie możliwe terminy rejestracji, a będzie chciał uczestniczyć w zajęciach z danego przedmiotu, powinien się zgłosić do sekretariatu dydaktycznego swojego Instytutu lub Katedry.
-
-Terminy rejestracji na przedmioty oraz bezpośrednio do grup pojawiają się w zakładce DLA STUDENTA-&gt;REJESTRACJE-&gt;kalendarz. Można je także znaleźć w zakładce AKTUALNOŚCI.
 
 ### Podpięcia
 
@@ -51,33 +43,40 @@ Podpięcia znajdziemy w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA
 
 ### Deklaracja przedmiotów
 
-Student ma obowiązek zadeklarowania swojego planu zajęć w każdym z semestrów nauki. Deklarację taką należy wydrukować, podpisać oraz zanieść do sekretariatu swojego Instytutu lub Katedry. Terminów na składanie deklaracji przedmiotów należy szukać w zakładce AKTUALNOŚCI - zazwyczaj pojawiają się tam po rozpoczęciu danego semestru.
+Student ma obowiązek zadeklarowania realizowanych przez siebie przedmiotów w każdym z semestrów nauki. Deklarację taką należy wygenerować w systemie USOSweb, wydrukować, podpisać oraz zanieść do sekretariatu dydaktycznego swojego Instytutu lub Katedry. Terminów na składanie deklaracji przedmiotów należy szukać w zakładce AKTUALNOŚCI - zazwyczaj pojawiają się tam po rozpoczęciu danego semestru. 
 
-Należy pamiętać o tym, że każdy zadeklarowany przez studenta przedmiot musi zostać przez niego zaliczony przed ukończeniem studiów - przepis ten obowiązuje wszystkich studentów, którzy rozpoczynali studia w roku akademickim 2012/2013 i latach późniejszych.
 
-Deklaracje przedmiotów znaleźć można w zakładce: DLA STUDENTÓW-&gt;REJESTRACJA.
+Należy pamiętać o tym, że każdy zadeklarowany przez studenta przedmiot musi zostać przez niego zaliczony przed ukończeniem studiów - przepis ten obowiązuje wszystkich studentów, którzy rozpoczynali studia w roku akademickim 2012/2013 i latach późniejszych. 
+
+
+Warto pamiętać, że Dziekan na pisemną prośbę studenta może wyrazić zgodę na wykreślenie przedmiotu z deklaracji jeżeli harmonogram zajęć, na które student się zapisał uległ zmianie w trakcie trwania roku akademickiego (patrz regulamin studiów § 4 pkt 10). Odpowiednie podanie wraz z uzasadnieniem należy złożyć w terminie 7 dni od zaistnienia przyczyn uniemożliwiających realizację przedmiotu.
+
+
+Deklaracje przedmiotów znaleźć można w zakładce: DLA STUDENTÓW->REJESTRACJA.
 
 ### Płatności
 
-Wszelkie zobowiązania finansowe studenta wobec swojego Instytutu, Katedry czy Wydziału widoczne są w zakładce płatności. Jeśli student powtarza rok to właśnie w tym miejscu znajdzie informacje o numerze konta, pozostałej do zapłacenia kwocie i terminie zapłaty.
+Wszelkie zobowiązania finansowe studenta wobec swojego Instytutu, Katedry czy Wydziału widoczne są w zakładce płatności. Właśnie w tym miejscu znajdziemy informacje o numerze konta, pozostałych do zapłacenia należnościach (np za powtarzane przedmioty, wydanie legitymacji lub dyplomu) i terminie zapłaty.
 
-Dokonanie wpłaty powinno spowodować uaktualnienie informacji o płatnościach na USOSie. Jeżeli w ciągu tygodnia od zapłacenia należności informacje dostępne w USOSie się nie zmieniły, należy skontaktować się z sekretariatem lub dziekanatem studenckim i wyjaśnić przyczynę braku rozliczenia.
+Dokonanie wpłaty powinno spowodować uaktualnienie informacji o płatnościach na USOSie. Jeżeli w ciągu tygodnia od uregulowania należności informacje dostępne w USOSie się nie zmieniły, należy skontaktować się z sekretariatem dydaktycznym lub dziekanatem studenckim i wyjaśnić przyczynę braku rozliczenia.
 
-Płatności znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA.
+
+Płatności znaleźć można w zakładce: DLA STUDENTÓW->MOJE STUDIA.
 
 ### Wnioski
 
-Wnioski o przyznanie miejsca w domu studenckim, o uzyskanie świadczeń takich jak: zapomoga, stypendium socjalne, stypendium specjalne czy rektorskie trzeba wypełnić i wydrukować w systemie USOSweb.
+Wnioski o przyznanie miejsca w domu studenckim, o uzyskanie świadczeń takich jak: zapomoga, stypendium socjalne, stypendium specjalne czy rektorskie trzeba wypełnić w systemie USOSweb a następnie wydrukować i zanieść do odpowiedniej jednostki.
 
-Dostępne do wypełnienia wnioski pojawiają się w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA razem z terminami, w których można je wypełniać.
 
-Więcej informacji na temat wniosków znajdziecie w rozdziale  [Pomoc Materialna](#Pomoc-materialna).
+Dostępne do wypełnienia wnioski pojawiają się w zakładce: DLA STUDENTÓW->MOJE STUDIA razem z terminami, w których można je wypełniać.
+
+
+Więcej informacji na temat wniosków znajdziecie w rozdziale [Pomoc Materialna](https://informator.ksi.ii.uj.edu.pl/pomoc_materialna.html).
 
 ### Rankingi
 
-Rankingi na naszym wydziale są tworzone w szczególności na potrzeby studentów ubiegających się o stypendium rektora dla najlepszych studentów. W zakładce tej znajdziesz ilość przyznanych Ci punktów, liczbę studentów w rankingu i swoją pozycję na tej liście.
-
-Rankingi znaleźć można w zakładce: DLA STUDENTÓW-&gt;MOJE STUDIA.
+Rankingi na naszym wydziale są tworzone w szczególności na potrzeby studentów ubiegających się o stypendium rektora dla najlepszych studentów i na potrzeby utworzenia listy na podstawie której odbędzie się podział na tury przy rejestracji do grup (patrz rejestracja). W zakładce tej znajdziesz swoją średnią ważoną, liczbę studentów w rankingu i swoją pozycję na tej liście. Uwaga! Pamiętaj, że ranking nie bierze pod uwagę punktów za dodatkowe osiągnięcia naukowe, sportowe i artystyczne. Średnia ocen jest tylko jednym z czynników wpływających na decyzję dot przyznania stypendium Rektora dla najlepszych studentów.
+Rankingi znaleźć można w zakładce: DLA STUDENTÓW->MOJE STUDIA
 
 ### Ankiety
 

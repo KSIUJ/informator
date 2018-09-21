@@ -17,3 +17,4 @@ Jest to baza odnośników zamieszczonych w informatorze i nie tylko. W sprawach 
 - [Informatyka - projekt zespołowy](http://pz.ksi.ii.uj.edu.pl/)
 - [Konfiguracja WiFi](http://www.pomocit.uj.edu.pl/wifi)
 - [BaCa - pomoc](https://sites.google.com/site/bacahelp)
+- [Regulamin studiów](https://www.uj.edu.pl/documents/139368252/139633619/Regulamin+studiów/8214d1eb-de64-4822-949b-ef2ceb3ba331)
