@@ -23,7 +23,12 @@ Rejestracja na zajęcia WF jest rejestracją „żetonową". Każdy student I ro
 + wybrana sekcja sportowa
 + zajęcia korekcyjne
 
-Studenci mogą także zostać zwolnieni z zajęć wychowania fizycznego na przykład, gdy należą do Zespołu Pieśni i Tańca "Słowianki", innego studenckiego zespołu tanecznego, bądź klubu sportowego pod warunkiem uzyskania zgody kierownictwa SWFiS UJ. Na stronie internetowej Studium znajduje się także druk zaświadczenia lekarskiego, przydatny gdy nie możecie uczęszczać na przedmiot w danym semestrze lub w całym roku akademickim z powodów zdrowotnych. W takiej sytuacji należy jednak pamiętać, że Studium powołuje tak zwaną komisję lekarską, która ma obowiązek sprawdzenia waszej dokumentacji zdrowotnej i zweryfikowania waszego stanu zdrowia.
+Studenci mogą także zostać zwolnieni z zajęć wychowania fizycznego na przykład, gdy należą do Zespołu Pieśni i Tańca "Słowianki", innego studenckiego zespołu tanecznego, bądź klubu sportowego pod warunkiem uzyskania zgody kierownictwa SWFiS UJ. Niestety, nie wszystkie sekcje sportowe dają zwolnienie z wf. Co ważne, do sekcji sportowych można należeć przez cały czas trwania studiów - nie tylko na 1. roku.
+
+
+Na stronie internetowej Studium znajduje się także druk zaświadczenia lekarskiego, przydatny gdy nie możecie uczęszczać na przedmiot w danym semestrze lub w całym roku akademickim z powodów zdrowotnych. W takiej sytuacji należy jednak pamiętać, że Studium powołuje tak zwaną komisję lekarską, która ma obowiązek sprawdzenia waszej dokumentacji zdrowotnej i zweryfikowania waszego stanu zdrowia.
+
+
 
 Więcej informacji na temat zajęć, zwolnień czy harmonogramów znajdziecie na stronie [www.swfis.uj.edu.pl](http://www.swfis.uj.edu.pl).
 
