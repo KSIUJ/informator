@@ -3,4 +3,6 @@ _site
 .jekyll-metadata
 *.sublime-workspace
 informator.html
-.idea
+.idea/*
+.bundle
+/static/*
