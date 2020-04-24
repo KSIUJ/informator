@@ -21,6 +21,6 @@ plugins:
   - jekyll-titles-from-headings
 
 navigation:
-  - {file: "index.html", title: "Start"}
+  - {file: "index.md", title: "Start"}
   - {file: "faq.md", title: "FAQ"}
   - {file: "o_informatorze.md", title: "O informatorze"}

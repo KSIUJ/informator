@@ -1,0 +1,37 @@
+backend:
+  name: github
+  branch: master
+  repo: KSIUJ/informator
+  base_url: https://informator.ksi.ii.uj.edu.pl
+  auth_endpoint: netlify-auth/auth
+media_folder: 'images/uploads'
+publish_mode: editorial_workflow
+site_url: https://informator.ksi.sh
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'pages/'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+    extension: 'md'
+    format: yaml-frontmatter
+    slug: "{{slug}}"
+    preview_path: "pages/{{slug}}.html"
+  - name: 'core'
+    label: 'Core Pages'
+    files:
+      - label: 'Index'
+        name: 'index'
+        file: 'index.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+        preview_path: "/"
