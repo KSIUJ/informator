@@ -14,7 +14,7 @@ slug:
 collections:
   - name: 'pages'
     label: 'Pages'
-    folder: 'pages/'
+    folder: 'page/'
     create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
