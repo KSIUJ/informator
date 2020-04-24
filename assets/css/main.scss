@@ -1,0 +1,143 @@
+---
+---
+
+@import "index";
+
+@import "font";
+
+@import "basic";
+
+@import "layout";
+
+@import "highlight";
+
+body > header, body > article, body > footer {
+  padding: 1.5em;
+}
+
+@media (min-width: 32em) {
+  body > header, body > article, body > footer {
+    padding: 1.75em calc(38% - 12em);
+  }
+}
+
+body > header {
+  background: lighten($ujblue, 1%);
+  color: #fff;
+  border-bottom: 1px solid rgba($light, 0.05);
+}
+
+body > footer {
+  background: lighten($ujblue, 1%);
+  color: #fff;
+  box-shadow: 0 0 0.6em rgba($dark, 0.04) inset;
+}
+
+archive {
+  font-size: 1.1em;
+}
+
+.archive time {
+  display: inline-block;
+  min-width: 10ch;
+  margin: 0 0.2em;
+}
+
+.categories {
+  color: $link-color;
+  margin-bottom: 0.15em;
+}
+
+//
+//.title {
+//  font-size: 1.3em
+//}
+
+.hidden {
+  display: none;
+}
+
+.icons svg {
+  height: 1em;
+  width: 1em;
+  fill: currentColor;
+  transition: 0.2s color;
+  vertical-align: middle;
+  margin-bottom: 0.15em;
+}
+
+.more {
+  margin: 2em 0 1em;
+}
+
+.more a {
+  border-radius: 2px;
+  border: 1.5px solid $link-color;
+  padding: 0.4em 0.8em;
+  transition: 0.2s;
+}
+
+.more a:hover {
+  color: #fff;
+  background: $link-color;
+  text-decoration: inherit;
+}
+
+.related div {
+  flex: 1 0 15em;
+}
+
+.related span {
+  display: block;
+  color: reduce(100);
+}
+
+.related a {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+@media (min-width: 30em) {
+  .next {
+    text-align: right;
+  }
+}
+
+.title {
+  font-size: 1.5em;
+  width: 100%;
+  margin: 0.1em 0 0.6em;
+}
+
+.icons a:hover svg {
+  color: reduce(100);
+}
+
+@media (min-width: 70em) {
+  .large {
+    margin: 1em -20%;
+  }
+
+  .large img {
+    width: 100%;
+  }
+}
+
+footer {
+  text-align: center;
+}
+
+.logo-gallery {
+  margin: 0;
+  width: 100%;
+  cursor: default;
+  list-style: none;
+  padding-left: 0;
+}
+
+.logo-gallery li {
+  display: inline-block;
+  padding: 0 1em;
+  margin: 0;
+}
+

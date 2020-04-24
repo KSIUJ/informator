@@ -1,8 +1,9 @@
-_site
+/_site/
+/out/
 .sass-cache
 .jekyll-metadata
+.jekyll-cache/
 *.sublime-workspace
-informator.html
-.idea/*
+/.idea/
 .bundle
-/static/*
+/vendor/bundle/
