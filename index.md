@@ -3,47 +3,47 @@ layout: page
 title: 'Index'
 ---
 # O Wydziale
-* [Władze Wydziału](/page/wladze_wydzialu.html)
-* [Struktura](/page/struktura.html)
-* [Sekretariaty dydaktyczne](/page/sekretariaty_dydaktyczne.html)
-* [Administratorzy sieci](/page/administratorzy_sieci.html)
-* [Biblioteka](/page/biblioteka.html)
+* [Władze Wydziału](/pages/wladze_wydzialu.html)
+* [Struktura](/pages/struktura.html)
+* [Sekretariaty dydaktyczne](/pages/sekretariaty_dydaktyczne.html)
+* [Administratorzy sieci](/pages/administratorzy_sieci.html)
+* [Biblioteka](/pages/biblioteka.html)
 
 # Studiowanie
-* [Organizacja roku akademickiego](/page/organizacja_roku.html)
-* [Kierunki studiów oraz specjalności](/page/kierunki_i_specjalnosci.html)
-* [Wybrane prawa i obowiązki studenta](/page/prawa_i_obowiazki_studenta.html)
-* [Pomoc materialna](/page/pomoc_materialna.html)
-* [Rejestracje](/page/rejestracje.html)
+* [Organizacja roku akademickiego](/pages/organizacja_roku.html)
+* [Kierunki studiów oraz specjalności](/pages/kierunki_i_specjalnosci.html)
+* [Wybrane prawa i obowiązki studenta](/pages/prawa_i_obowiazki_studenta.html)
+* [Pomoc materialna](/pages/pomoc_materialna.html)
+* [Rejestracje](/pages/rejestracje.html)
 
 # Organizacje
-* [Organizacje studenckie](/page/organizacje.html)
-* [Wydarzenia](/page/wydarzenia.html)
-* [Integracja](/page/integracja.html)
+* [Organizacje studenckie](/pages/organizacje.html)
+* [Wydarzenia](/pages/wydarzenia.html)
+* [Integracja](/pages/integracja.html)
 
 
 # Studiowanie na co dzień
-* [Zajęcia](/page/zajecia.html)
-* [Zaliczenia i egzaminy](/page/zaliczenia_i_egzaminy.html)
-* [Legitymacja studencka](/page/legitymacja_studencka.html)
-* [Infrastruktura wydziału](/page/infrastruktura_wydzialu.html)
-* [Konfiguracja WiFi](/page/wifi.html)
-* [Komunikacja miejska](/page/komunikacja_miejska.html)
-* [Przydatne linki](/page/linki.html)
+* [Zajęcia](/pages/zajecia.html)
+* [Zaliczenia i egzaminy](/pages/zaliczenia_i_egzaminy.html)
+* [Legitymacja studencka](/pages/legitymacja_studencka.html)
+* [Infrastruktura wydziału](/pages/infrastruktura_wydzialu.html)
+* [Konfiguracja WiFi](/pages/wifi.html)
+* [Komunikacja miejska](/pages/komunikacja_miejska.html)
+* [Przydatne linki](/pages/linki.html)
 
 
 # Narzędzia studenta
-* [USOS](/page/usos.html)
-* [Konta pocztowe](/page/konta_pocztowe.html)
-* [Inne konta](/page/inne_konta.html)
-* [Pegaz](/page/pegaz.html)
-* [BaCa](/page/baca.html)
-* [Extranet](/page/extranet.html)
-* [Własna strona w domenie wydziałowej](/page/wlasna_strona.html)
-* [Ogłoszenia Instytutu Matematyki](/page/ogloszenia_im.html)
-* [Portal akademicki](/page/portal_akademicki.html)
+* [USOS](/pages/usos.html)
+* [Konta pocztowe](/pages/konta_pocztowe.html)
+* [Inne konta](/pages/inne_konta.html)
+* [Pegaz](/pages/pegaz.html)
+* [BaCa](/pages/baca.html)
+* [Extranet](/pages/extranet.html)
+* [Własna strona w domenie wydziałowej](/pages/wlasna_strona.html)
+* [Ogłoszenia Instytutu Matematyki](/pages/ogloszenia_im.html)
+* [Portal akademicki](/pages/portal_akademicki.html)
 
-# [Autorzy](/page/autorzy.html)
+# [Autorzy](/pages/autorzy.html)
 
 # [O informatorze](/pageo_informatorze.html)
 
