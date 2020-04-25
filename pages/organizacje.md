@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Koła naukowe"
+title: Koła naukowe
+description: Studenckie Koła naukowe działające na naszym Wydziale
 ---
 
 ### Koło Matematyków Studentów UJ (KMS)
