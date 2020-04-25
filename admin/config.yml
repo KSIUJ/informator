@@ -15,6 +15,7 @@ slug:
 collections:
   - name: 'pages'
     label: 'Pages'
+    label_singular: 'Page'
     folder: 'pages/'
     create: true
     fields:
@@ -27,6 +28,7 @@ collections:
     preview_path: "pages/{{slug}}.html"
   - name: 'core'
     label: 'Core Pages'
+    label_singular: 'Core Page'
     files:
       - label: 'Index'
         name: 'index'
