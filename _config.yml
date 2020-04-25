@@ -20,3 +20,8 @@ navigation:
   - {file: "index.md", title: "Start"}
   - {file: "faq.md", title: "FAQ"}
   - {file: "o_informatorze.md", title: "O informatorze"}
+
+external:
+  - {title: Mail, icon: envelope, url: "mailto:wmii@samorzad.uj.edu.pl"}
+  - {title: Github, icon: github, url: "https://github.com/KSIUJ/informator"}
+  - {title: Edit, icon: edit, url: "https://informator.ksi.ii.uj.edu.pl/admin/"}
