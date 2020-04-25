@@ -19,8 +19,9 @@ collections:
     folder: 'pages/'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
     extension: 'md'
     format: yaml-frontmatter
@@ -34,7 +35,7 @@ collections:
         name: 'index'
         file: 'index.md'
         fields:
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'fullpage'}
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'fullpage' }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
         preview_path: "/"
