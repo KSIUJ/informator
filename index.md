@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fullpage
 title: 'Index'
 ---
 # O Wydziale

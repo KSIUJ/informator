@@ -32,7 +32,7 @@ collections:
         name: 'index'
         file: 'index.md'
         fields:
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page'}
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'fullpage'}
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
         preview_path: "/"
