@@ -5,6 +5,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://informator.ksi.ii.uj.edu.pl/"
 github_username:  KSIUJ
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/bg.jpeg
+
 # Build settings
 markdown: kramdown
 
