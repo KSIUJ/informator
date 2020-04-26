@@ -75,14 +75,8 @@ archive {
 }
 
 .categories {
-  color: $link-color;
   margin-bottom: 0.15em;
 }
-
-//
-//.title {
-//  font-size: 1.3em
-//}
 
 .hidden {
   display: none;
@@ -103,14 +97,40 @@ archive {
 
 .more a {
   border-radius: 2px;
-  border: 1.5px solid $link-color;
   padding: 0.4em 0.8em;
   transition: 0.2s;
 }
 
+@media (prefers-color-scheme: light) {
+  .more a {
+    border: 1.5px solid $link-color-dark;
+  }
+
+  .more a:hover {
+    background: $link-color-dark;
+  }
+
+  .categories {
+    color: $link-color-dark;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .more a {
+    border: 1.5px solid $link-color-light;
+  }
+
+  .more a:hover {
+    background: $link-color-light;
+  }
+
+  .categories {
+    color: $link-color-light;
+  }
+}
+
 .more a:hover {
   color: #fff;
-  background: $link-color;
   text-decoration: inherit;
 }
 

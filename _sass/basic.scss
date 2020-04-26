@@ -3,12 +3,20 @@
     background: $light;
     color: $dark;
   }
+
+  a {
+    color: $link-color-dark;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   html {
     background: $dark;
     color: $light;
+  }
+
+  a {
+    color: $link-color-light;
   }
 }
 
@@ -36,7 +44,6 @@ b, strong, th {
 }
 
 a {
-  color: $link-color;
   text-decoration: inherit;
 
   &:hover {
