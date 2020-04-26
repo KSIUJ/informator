@@ -1,0 +1,21 @@
+{
+    "name": "Informator WMiI UJ",
+    "short_name": "Informator WMiI UJ",
+    "icons": [
+        {
+            "src": "/assets/icons/android-chrome-192x192.png?v=1",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/android-chrome-512x512.png?v=1",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#004e8e",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "Scope": "/",
+    "start_url": "/"
+}
