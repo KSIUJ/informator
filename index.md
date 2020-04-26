@@ -1,6 +1,6 @@
 ---
 layout: fullpage
-title: 'Index'
+title: Strona główna
 ---
 # O Wydziale
 * [Władze Wydziału](/pages/wladze_wydzialu.html)
