@@ -11,13 +11,13 @@
 
 @import "highlight";
 
-body > header, body > article {
-  padding: 1.5em;
+body > article {
+  padding: 1em;
 }
 
 @media (min-width: 32em) {
-  body > header, body > article {
-    padding: 1.75em calc(38% - 12em);
+  body > article {
+    padding: 1em calc(38% - 12em);
   }
 }
 
@@ -42,13 +42,18 @@ html {
 }
 
 body > header {
-  background: lighten($ujblue, 1%);
+  background: $ujblue;
   color: #fff;
-  border-bottom: 1px solid rgba($light, 0.05);
+  background-image: linear-gradient(45deg, rgba(3, 6, 24, 0.85), rgba(3, 6, 24, 0.9)), url(../img/bg.jpeg) !important;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: initial;
+  background-size: auto, cover, cover;
+  padding: 4em calc(38% - 12em) !important;
 }
 
 body > footer {
-  background: lighten($ujblue, 1%);
+  background: darken($ujblue, 5%);
   color: #fff;
   box-shadow: 0 0 0.6em rgba($dark, 0.04) inset;
 }
