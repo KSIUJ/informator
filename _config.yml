@@ -2,7 +2,7 @@ title: Informator WMiI UJ
 email: wmii@samorzad.uj.edu.pl
 description: Informator studenta Wydziału Matematyki i Informatyki UJ
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://informator.ksi.ii.uj.edu.pl/"
+url: "https://informator.ksi.ii.uj.edu.pl"
 github_username:  KSIUJ
 
 defaults:
