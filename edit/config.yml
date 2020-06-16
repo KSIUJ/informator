@@ -4,7 +4,9 @@ backend:
   repo: KSIUJ/informator
   base_url: https://informator.ksi.ii.uj.edu.pl
   auth_endpoint: netlify-auth/auth
+  open_authoring: true
 media_folder: 'images/uploads'
+publish_mode: editorial_workflow
 site_url: https://informator.ksi.ii.uj.edu.pl
 slug:
   encoding: "ascii"

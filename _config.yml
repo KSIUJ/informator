@@ -31,7 +31,7 @@ navigation:
 external:
   - {title: Mail, icon: envelope, url: "mailto:wmii@samorzad.uj.edu.pl"}
   - {title: Github, icon: github, url: "https://github.com/KSIUJ/informator"}
-  - {title: Edit, icon: edit, url: "https://informator.ksi.ii.uj.edu.pl/admin/"}
+  - {title: Edit, icon: edit, url: "https://informator.ksi.ii.uj.edu.pl/edot/"}
 
 
 pwa:
