@@ -1,6 +1,0 @@
----
-layout: page
-title: Własna strona na serwerze instytutowym
----
-
-Na serwerze instytutowym (II) można także umieścić własną prostą stronę internetową (obsługuje PHP). Będzie ona dostępna pod, jakże pięknym, adresem [http://ww2.ii.uj.edu.pl/~użytkownik/](http://ww2.ii.uj.edu.pl/~użytkownik/) (gdzie użytkownik to coś w rodzaju z1234567). Wystarczy założyć w katalogu domowym na serwerze elf.ii.uj.edu.pl katalog "public_html", nadać mu prawa 755 (chmod 755 public_html/) i wrzucać pliki. Jeśli chcesz - możesz także założyć katalog chroniony hasłem wydziałowym - tak robią niektórzy wykładowcy by ograniczyć dostęp do materiałów z wykładu tylko dla studentów. Wystarczy, że założysz katalog "intra" w "public_html".

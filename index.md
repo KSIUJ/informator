@@ -39,7 +39,6 @@ title: Strona główna
 * [Pegaz](/pages/pegaz.html)
 * [BaCa](/pages/baca.html)
 * [Extranet](/pages/extranet.html)
-* [Własna strona w domenie wydziałowej](/pages/wlasna_strona.html)
 * [Ogłoszenia Instytutu Matematyki](/pages/ogloszenia_im.html)
 * [Portal akademicki](/pages/portal_akademicki.html)
 
