@@ -3,6 +3,9 @@ layout: page
 title: Autorzy
 ---
 
+### Edycja 2020
+- Adam Pardyl
+
 ### Edycja 2017
 - Katarzyna Haja,
 - inż. Mateusz Joniak,
