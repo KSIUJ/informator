@@ -19,3 +19,7 @@ Możesz też samemu wprowadzić zmiany. Kliknij ikonę ołówka w nagłówku str
 ### Co zrobić jeżeli nie mogę znaleźć odpowiedzi na swoje pytania w informatorze?
 
 Napisz na adres ksi@uj.edu.pl - jeżeli sami nie będziemy znali odpowiedzi podpowiemy u kogo warto jej szukać dalej. A odpowiedź na pytanie dodamy do informatora - tak, by kolejni już nie musieli się martwić poszukiwaniami.
+
+
+
+test
