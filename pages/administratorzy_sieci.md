@@ -2,7 +2,8 @@
 layout: page
 title: Administratorzy sieci
 ---
-
 Jeśli wszystko działa to po co ich niepokoić? ;) Ale czasem, np. kiedy zapomnicie hasła do systemu instytutowego, albo w pracowni system nie chce wam się załadować itp. trzeba ich odwiedzić. W sprawach instytutowych (czyli przede wszystkim kont linuksowych w systemie instytutowym) nalezy się udać do pokoju 1067, natomiast wydziałowych (np. konta wydziałowe, bootowanie systemu) - 1021. Jednak w razie gdyby któregoś z nich nie było warto sprawdzić po drugiej stronie korytarza. Strona administratorów - [https://intra.matinf.uj.edu.pl/](http://intra.matinf.uj.edu.pl/) zawiera wszelkie niezbędne informacje - także o licencjach na oprogramowanie. Warto pamiętać, że maile wysyłać do nich można tylko z poczty instytutowej - inaczej zostaną z automatu odrzucone.
 
-Nasi administratorzy nie zajmują się jednak wszystkim! W sprawach działania USOSa, sieci bezprzewodowej, poczty ogólnouniwersyteckiej itp. należy się kontaktować z Działem Usług Informatycznych - [http://www.pomocit.uj.edu.pl/](http://www.pomocit.uj.edu.pl/)
+Nasi administratorzy nie zajmują się jednak wszystkim! W sprawach działania USOSa, sieci bezprzewodowej, poczty ogólnouniwersyteckiej itp. należy się kontaktować z Działem Usług Informatycznych - <http://www.pomocit.uj.edu.pl/>
+
+test
