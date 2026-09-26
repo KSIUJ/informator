@@ -1,0 +1,8 @@
+# Konfiguracja Cloudflare Workers (statyczne pliki)
+# Build command:   bundle exec jekyll build
+# Deploy command:  npx wrangler deploy
+name = "informator"
+compatibility_date = "2026-09-26"
+
+[assets]
+directory = "./_site"

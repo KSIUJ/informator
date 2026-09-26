@@ -44,6 +44,6 @@ title: Strona główna
 
 # [Autorzy](/pages/autorzy.html)
 
-# [O informatorze](/pageo_informatorze.html)
+# [O informatorze](/pages/o_informatorze.html)
 
-# [FAQ](/pagefaq.html)
+# [FAQ](/pages/faq.html)

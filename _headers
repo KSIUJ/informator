@@ -1,0 +1,17 @@
+# Nagłówki HTTP dla Cloudflare Pages
+# https://developers.cloudflare.com/pages/configuration/headers/
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Service worker musi być zawsze świeży, inaczej użytkownicy utkną na starej wersji
+/service-worker.js
+  Cache-Control: no-cache
+/sw-register.js
+  Cache-Control: no-cache
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/js/workbox-*
+  Cache-Control: public, max-age=31536000, immutable
