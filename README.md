@@ -8,6 +8,25 @@ Kwestie techniczne - używamy [github flavored markdown](https://help.github.com
 
 Domyślnie strona zostanie odpalona na localhost:4000
 
+Wymagany Ruby w wersji z pliku `.ruby-version` (3.3).
+
+## Deploy na Cloudflare
+
+Strona jest w pełni statyczna — build trafia do katalogu `_site`, który jest serwowany jako statyczne pliki Workera (konfiguracja w `wrangler.toml`).
+
+Ustawienia projektu w Cloudflare (Workers & Pages → Create → Import a repository):
+
++ Build command: `bundle exec jekyll build`
++ Deploy command: `npx wrangler deploy`
++ Zmienne środowiskowe: `JEKYLL_ENV=production` (wersję Ruby Cloudflare bierze z `.ruby-version`)
+
+Ręczny deploy z własnego komputera:
+
++ `JEKYLL_ENV=production bundle exec jekyll build`
++ `npx wrangler deploy`
+
+Nagłówki HTTP (cache, service worker) są ustawiane w pliku `_headers`.
+
 
 ## Aktualizacja treści
 

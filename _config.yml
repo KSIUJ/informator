@@ -14,6 +14,16 @@ defaults:
 # Build settings
 markdown: kramdown
 
+# Pliki konfiguracyjne Cloudflare Pages (Jekyll domyślnie pomija pliki z "_")
+include:
+  - _headers
+
+exclude:
+  - README.md
+  - LICENSE.txt
+  - wrangler.toml
+  - .ruby-version
+
 sass:
   sass_dir: _sass
   style: compressed
