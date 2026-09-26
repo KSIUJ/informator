@@ -74,7 +74,7 @@ Wnioski o przyznanie miejsca w domu studenckim, o uzyskanie świadczeń takich j
 Dostępne do wypełnienia wnioski pojawiają się w zakładce: DLA STUDENTÓW->MOJE STUDIA razem z terminami, w których można je wypełniać.
 
 
-Więcej informacji na temat wniosków znajdziecie w rozdziale [Pomoc Materialna](https://informator.ksi.ii.uj.edu.pl/pomoc_materialna.html).
+Więcej informacji na temat wniosków znajdziecie w rozdziale [Pomoc Materialna](/pages/pomoc_materialna.html).
 
 ### Rankingi
 
