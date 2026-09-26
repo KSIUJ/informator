@@ -2,10 +2,10 @@ backend:
   name: github
   branch: master
   repo: KSIUJ/informator
-  base_url: https://informator.ksi.ii.uj.edu.pl
+  base_url: https://informator.ksi.sh
   auth_endpoint: netlify-auth/auth
 media_folder: 'images/uploads'
-site_url: https://informator.ksi.ii.uj.edu.pl
+site_url: https://informator.ksi.sh
 slug:
   encoding: "ascii"
   clean_accents: true
